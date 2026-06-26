@@ -5,4 +5,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
+    <!-- Updater -->
+    <string name="updater_link_telegram">Telegram</string>
+    <string name="updater_link_donate">Donate</string>
+    <string name="updater_link_forum">Forum</string>
+    <string name="updater_build_unofficial">Unofficial</string>
 </resources>
