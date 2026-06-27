@@ -10,5 +10,5 @@
     <string name="updater_link_donate">捐赠</string>
     <string name="updater_link_forum">论坛</string>
     <string name="updater_build_unofficial">非官方版本</string>
-    <string name="updater_maintainer_by">by <xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g></string>
+    <string name="updater_maintainer_by">由 <xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g>维护</string>
 </resources>
