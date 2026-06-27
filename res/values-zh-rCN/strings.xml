@@ -6,9 +6,9 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
     <!-- Updater -->
-    <string name="updater_link_telegram">Telegram</string>
-    <string name="updater_link_donate">Donate</string>
-    <string name="updater_link_forum">Forum</string>
-    <string name="updater_build_unofficial">Unofficial</string>
+    <string name="updater_link_telegram">电报</string>
+    <string name="updater_link_donate">捐赠</string>
+    <string name="updater_link_forum">论坛</string>
+    <string name="updater_build_unofficial">非官方版本</string>
     <string name="updater_maintainer_by">by <xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g></string>
 </resources>
