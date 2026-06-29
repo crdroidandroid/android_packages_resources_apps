@@ -67,20 +67,20 @@
     <string name="omnijaws_detail_uv_index">UV index</string>
     <string name="omnijaws_detail_humidity">Humidity</string>
     <string name="omnijaws_detail_wind">Wind</string>
-    <string name="omnijaws_detail_pressure">Pressure</string>
-    <string name="omnijaws_detail_visibility">Visibility</string>
+    <string name="omnijaws_detail_pressure">气压</string>
+    <string name="omnijaws_detail_visibility">能见度</string>
     <string name="omnijaws_detail_sunrise_sunset">Sunrise &amp; Sunset</string>
-    <string name="omnijaws_detail_dew_point">Dew point</string>
+    <string name="omnijaws_detail_dew_point">露点</string>
     <!-- UV index levels -->
-    <string name="omnijaws_uv_level_low">Low</string>
-    <string name="omnijaws_uv_level_moderate">Moderate</string>
-    <string name="omnijaws_uv_level_high">High</string>
-    <string name="omnijaws_uv_level_very_high">Very High</string>
-    <string name="omnijaws_uv_level_extreme">Extreme</string>
+    <string name="omnijaws_uv_level_low">低</string>
+    <string name="omnijaws_uv_level_moderate">中</string>
+    <string name="omnijaws_uv_level_high">高</string>
+    <string name="omnijaws_uv_level_very_high">非常高</string>
+    <string name="omnijaws_uv_level_extreme">极端</string>
     <!-- Visibility levels -->
     <string name="omnijaws_visibility_level_clear">Clear</string>
     <string name="omnijaws_visibility_level_good">Good</string>
-    <string name="omnijaws_visibility_level_moderate">Moderate</string>
+    <string name="omnijaws_visibility_level_moderate">中</string>
     <string name="omnijaws_visibility_level_poor">Poor</string>
     <!-- %1$s is the visibility level, e.g. "km · Clear" -->
     <string name="omnijaws_visibility_subtitle">km \u00b7 %1$s</string>
