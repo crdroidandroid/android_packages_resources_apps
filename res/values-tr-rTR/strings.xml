@@ -135,7 +135,7 @@
     <string name="omnijaws_weather_7">Karlı ve sulu sepken</string>
     <string name="omnijaws_weather_8">Soğuk çiseli</string>
     <string name="omnijaws_weather_9">Çiseleyen yağmur</string>
-    <string name="omnijaws_weather_10">Donan yağmur</string>
+    <string name="omnijaws_weather_10">Dondurucu yağmur</string>
     <string name="omnijaws_weather_11">Sağanak</string>
     <string name="omnijaws_weather_12">Sağanak</string>
     <string name="omnijaws_weather_13">Kar fırtınası</string>
@@ -162,16 +162,16 @@
     <string name="omnijaws_weather_34">Uygun</string>
     <string name="omnijaws_weather_35">Yağmur ve dolu</string>
     <string name="omnijaws_weather_36">Sıcak</string>
-    <string name="omnijaws_weather_37">Isolated thunderstorms</string>
-    <string name="omnijaws_weather_38">Scattered thunderstorms</string>
-    <string name="omnijaws_weather_39">Scattered showers</string>
-    <string name="omnijaws_weather_40">Rain showers</string>
-    <string name="omnijaws_weather_41">Heavy snow</string>
-    <string name="omnijaws_weather_42">Scattered snow showers</string>
-    <string name="omnijaws_weather_43">Heavy snow</string>
+    <string name="omnijaws_weather_37">Yerel gök gürültülü sağanak yağışlar</string>
+    <string name="omnijaws_weather_38">Yer yer gök gürültülü sağanak yağışlar</string>
+    <string name="omnijaws_weather_39">Aralıklı sağanak</string>
+    <string name="omnijaws_weather_40">Sağanak yağmur</string>
+    <string name="omnijaws_weather_41">Yoğun kar yağışlı</string>
+    <string name="omnijaws_weather_42">Yer yer kar sağanakları</string>
+    <string name="omnijaws_weather_43">Yoğun kar yağışlı</string>
     <string name="omnijaws_weather_44">Parçalı bulutlu</string>
-    <string name="omnijaws_weather_45">Thundershowers</string>
-    <string name="omnijaws_weather_46">Snow showers</string>
-    <string name="omnijaws_weather_47">Isolated thundershowers</string>
-    <string name="omnijaws_weather_3200">Not available</string>
+    <string name="omnijaws_weather_45">Gök gürültülü sağanak yağışlı</string>
+    <string name="omnijaws_weather_46">Kar sağanakları</string>
+    <string name="omnijaws_weather_47">Yerel gök gürültülü sağanak yağışlar</string>
+    <string name="omnijaws_weather_3200">Kullanılamıyor</string>
 </resources>
