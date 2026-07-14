@@ -10,7 +10,7 @@
     <string name="updater_link_donate">Bağış yap</string>
     <string name="updater_link_forum">Forum</string>
     <string name="updater_build_unofficial">Resmi olmayan</string>
-    <string name="updater_maintainer_by">by <xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g></string>
+    <string name="updater_maintainer_by"><xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g> tarafından</string>
     <!-- OmniJaws -->
     <string name="omnijaws_activity_title">Hava durumu</string>
     <!-- Settings -->
@@ -61,73 +61,73 @@
     <string name="omnijaws_forecast_card_title">Günlük hava durumu</string>
     <string name="omnijaws_forecast_show_more">Daha fazla göster</string>
     <string name="omnijaws_forecast_show_less">Daha az göster</string>
-    <string name="omnijaws_forecast_today">Today</string>
+    <string name="omnijaws_forecast_today">Bugün</string>
     <!-- Detail card titles -->
-    <string name="omnijaws_detail_feels_like">Feels like</string>
+    <string name="omnijaws_detail_feels_like">gibi hissettiriyor</string>
     <string name="omnijaws_detail_uv_index">UV index</string>
-    <string name="omnijaws_detail_humidity">Humidity</string>
-    <string name="omnijaws_detail_wind">Wind</string>
-    <string name="omnijaws_detail_pressure">Pressure</string>
-    <string name="omnijaws_detail_visibility">Visibility</string>
-    <string name="omnijaws_detail_sunrise_sunset">Sunrise &amp; Sunset</string>
+    <string name="omnijaws_detail_humidity">Nem</string>
+    <string name="omnijaws_detail_wind">Rüzgar</string>
+    <string name="omnijaws_detail_pressure">Basınç</string>
+    <string name="omnijaws_detail_visibility">Görüş Mesafesi</string>
+    <string name="omnijaws_detail_sunrise_sunset">Gün Doğumu &amp; Gün Batımı</string>
     <string name="omnijaws_detail_dew_point">Dew point</string>
     <!-- UV index levels -->
     <string name="omnijaws_uv_level_low">Düşük</string>
-    <string name="omnijaws_uv_level_moderate">Moderate</string>
+    <string name="omnijaws_uv_level_moderate">Orta</string>
     <string name="omnijaws_uv_level_high">Yüksek</string>
-    <string name="omnijaws_uv_level_very_high">Very High</string>
-    <string name="omnijaws_uv_level_extreme">Extreme</string>
+    <string name="omnijaws_uv_level_very_high">Çok Yüksek</string>
+    <string name="omnijaws_uv_level_extreme">Aşırı</string>
     <!-- Visibility levels -->
-    <string name="omnijaws_visibility_level_clear">Clear</string>
-    <string name="omnijaws_visibility_level_good">Good</string>
-    <string name="omnijaws_visibility_level_moderate">Moderate</string>
-    <string name="omnijaws_visibility_level_poor">Poor</string>
+    <string name="omnijaws_visibility_level_clear">Temiz</string>
+    <string name="omnijaws_visibility_level_good">İyi</string>
+    <string name="omnijaws_visibility_level_moderate">Orta</string>
+    <string name="omnijaws_visibility_level_poor">Kötü</string>
     <!-- %1$s is the visibility level, e.g. "km · Clear" -->
     <string name="omnijaws_visibility_subtitle">km \u00b7 %1$s</string>
     <!-- Dew point levels -->
-    <string name="omnijaws_dew_point_dry">Dry</string>
-    <string name="omnijaws_dew_point_comfortable">Comfortable</string>
-    <string name="omnijaws_dew_point_slightly_humid">Slightly humid</string>
-    <string name="omnijaws_dew_point_humid">Humid</string>
+    <string name="omnijaws_dew_point_dry">Kuru</string>
+    <string name="omnijaws_dew_point_comfortable">Rahat</string>
+    <string name="omnijaws_dew_point_slightly_humid">Hafif Nemli</string>
+    <string name="omnijaws_dew_point_humid">Nemli</string>
     <!-- Pressure unit symbol -->
     <!-- Pressure level descriptors -->
     <string name="omnijaws_pressure_level_low">Düşük</string>
     <string name="omnijaws_pressure_level_normal">Normal</string>
     <string name="omnijaws_pressure_level_high">Yüksek</string>
     <!-- Daylight duration, e.g. "11h 23m". %1$d = hours, %2$d = minutes -->
-    <string name="omnijaws_daylight_duration_format">%1$dh %2$dm</string>
+    <string name="omnijaws_daylight_duration_format">%1$ds %2$dd</string>
     <!-- Service -->
-    <string name="omnijaws_service_unkown">No weather data</string>
-    <string name="omnijaws_service_waiting">Waiting \u2026</string>
-    <string name="omnijaws_service_init">Waiting\u2026</string>
-    <string name="omnijaws_service_progress">Updating\u2026</string>
-    <string name="omnijaws_service_error">Error loading weather data</string>
-    <string name="omnijaws_service_last_update">Last update:</string>
-    <string name="omnijaws_city_unkown">Unknown</string>
+    <string name="omnijaws_service_unkown">Hava verisi yok</string>
+    <string name="omnijaws_service_waiting">\u2026 bekleniyor</string>
+    <string name="omnijaws_service_init">\u2026bekleniyor</string>
+    <string name="omnijaws_service_progress">\u2026güncelleniyor</string>
+    <string name="omnijaws_service_error">Hava verisi yüklenirken hata</string>
+    <string name="omnijaws_service_last_update">Son güncelleme:</string>
+    <string name="omnijaws_city_unkown">Bilinmiyor</string>
     <string name="omnijaws_detail_header">Hava durumu</string>
     <string name="omnijaws_label_default">Hava durumu</string>
     <!-- Location -->
-    <string name="omnijaws_location_browse_activity_title">Select location</string>
-    <string name="omnijaws_location_query_hint">Search location</string>
-    <string name="omnijaws_location_city_name">City name</string>
+    <string name="omnijaws_location_browse_activity_title">Konum Seç</string>
+    <string name="omnijaws_location_query_hint">Konum ara</string>
+    <string name="omnijaws_location_city_name">Şehir ismi</string>
     <!-- Widget -->
-    <string name="omnijaws_weather_widget">Weather widget</string>
-    <string name="omnijaws_weather_widget_desc">"Current weather and multi-day forecast"</string>
-    <string name="omnijaws_service_disabled">Service disabled</string>
-    <string name="omnijaws_service_error_long">Error loading weather data</string>
-    <string name="omnijaws_service_error_location">No location available</string>
-    <string name="omnijaws_service_error_network">No network found</string>
-    <string name="omnijaws_color_theme_title">Theme</string>
+    <string name="omnijaws_weather_widget">Hava durumu aracı</string>
+    <string name="omnijaws_weather_widget_desc">"Mevcut hava durumu ve çok günlük hava tahmini"</string>
+    <string name="omnijaws_service_disabled">Servis kapalı</string>
+    <string name="omnijaws_service_error_long">Hava verisi yüklenirken hata</string>
+    <string name="omnijaws_service_error_location">Herhangi bir konum yok</string>
+    <string name="omnijaws_service_error_network">İnternet bağlantısı bulunamadı</string>
+    <string name="omnijaws_color_theme_title">Tema</string>
     <string name="omnijaws_theme_follow_widget">Follow widget</string>
     <string name="omnijaws_theme_follow_app">Follow app</string>
-    <string name="omnijaws_bg_transparency_title">Transparency</string>
-    <string name="omnijaws_trans_semi">Semi-transparent</string>
-    <string name="omnijaws_trans_full">Transparent</string>
+    <string name="omnijaws_bg_transparency_title">Saydamlık</string>
+    <string name="omnijaws_trans_semi">Yarı saydam</string>
+    <string name="omnijaws_trans_full">Saydam</string>
     <string name="omnijaws_trans_solid">Solid</string>
     <!-- Weather condition description -->
     <string name="omnijaws_weather_0">Tornado</string>
-    <string name="omnijaws_weather_1">Tropical storm</string>
-    <string name="omnijaws_weather_2">Hurricane</string>
+    <string name="omnijaws_weather_1">Tropikal fırtına</string>
+    <string name="omnijaws_weather_2">Hortum</string>
     <string name="omnijaws_weather_3">Şiddetli gök gürültülü fırtınalar</string>
     <string name="omnijaws_weather_4">Gök gürültülü fırtına</string>
     <string name="omnijaws_weather_5">Karla karışık yağmur ve kar</string>
