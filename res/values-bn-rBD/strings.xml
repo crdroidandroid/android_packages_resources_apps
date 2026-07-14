@@ -61,7 +61,7 @@
     <string name="omnijaws_forecast_card_title">Multi-day forecast</string>
     <string name="omnijaws_forecast_show_more">বিস্তারিত</string>
     <string name="omnijaws_forecast_show_less">সংকোচন</string>
-    <string name="omnijaws_forecast_today">Today</string>
+    <string name="omnijaws_forecast_today">আজ</string>
     <!-- Detail card titles -->
     <string name="omnijaws_detail_feels_like">Feels like</string>
     <string name="omnijaws_detail_uv_index">UV index</string>
