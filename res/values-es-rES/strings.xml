@@ -18,7 +18,7 @@
     <string name="omnijaws_category_general">General</string>
     <string name="omnijaws_category_appearance">Appearance</string>
     <string name="omnijaws_category_api">API</string>
-    <string name="omnijaws_enable_title">Enable</string>
+    <string name="omnijaws_enable_title">Activar</string>
     <string name="omnijaws_provider_title">Weather provider</string>
     <string name="omnijaws_units_title">Unit</string>
     <string name="omnijaws_unit_metric">Metric (\u00b0C)</string>
