@@ -51,7 +51,7 @@
     <!-- Dashboard -->
     <string name="omnijaws_menu_title">Menu</string>
     <string name="omnijaws_update_title">Update</string>
-    <string name="omnijaws_settings_title">Settings</string>
+    <string name="omnijaws_settings_title">Pengaturan</string>
     <string name="omnijaws_temperature_low">Low</string>
     <string name="omnijaws_temperature_high">High</string>
     <string name="omnijaws_dashboard_error_subtitle">Check settings or try refreshing</string>
