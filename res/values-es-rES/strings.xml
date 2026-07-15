@@ -14,7 +14,7 @@
     <!-- OmniJaws -->
     <string name="omnijaws_activity_title">El Tiempo</string>
     <!-- Settings -->
-    <string name="omnijaws_weather_config_title">Configuración del servicio</string>
+    <string name="omnijaws_weather_config_title">Ajustes del servicio</string>
     <string name="omnijaws_category_general">General</string>
     <string name="omnijaws_category_appearance">Apariencia</string>
     <string name="omnijaws_category_api">API</string>
@@ -46,8 +46,8 @@
     <string name="omnijaws_owm_key">Código OWM personalizado</string>
     <string name="omnijaws_pirate_weather_key">Código API de Pirate Weather</string>
     <string name="omnijaws_provider_disabled">Proveedor deshabilitado</string>
-    <string name="omnijaws_api_key_note">Pirate Weather needs an API key provided to function, and a Custom OWM key is recommended for OpenWeatherMap. Press the \"Last update time\" field to force update and test your keys</string>
-    <string name="omnijaws_api_links_note"><![CDATA[Get API keys: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a>]]></string>
+    <string name="omnijaws_api_key_note">Pirate Weather necesita un código API para funcionar, y en el caso de OpenWeatherMap se recomienda usar un código personalizado OWM. Pulse en \"Hora de la última actualización\" para forzar una actualización y así probar sus códigos</string>
+    <string name="omnijaws_api_links_note"><![CDATA[Obtener código API: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a>]]></string>
     <!-- Dashboard -->
     <string name="omnijaws_menu_title">Menú</string>
     <string name="omnijaws_update_title">Actualizar</string>
@@ -55,32 +55,32 @@
     <string name="omnijaws_temperature_low">Baja</string>
     <string name="omnijaws_temperature_high">Alta</string>
     <string name="omnijaws_dashboard_error_subtitle">Compruebe los ajustes o presione actualizar</string>
-    <string name="omnijaws_dashboard_provider_attribution">Weather data provided by %1$s</string>
+    <string name="omnijaws_dashboard_provider_attribution">Datos del clima proporcionados por %1$s</string>
     <!-- Forecast card -->
     <string name="omnijaws_forecast_card_hourly_title">Pronóstico por hora</string>
-    <string name="omnijaws_forecast_card_title">Multi-day forecast</string>
+    <string name="omnijaws_forecast_card_title">Pronóstico de varios días</string>
     <string name="omnijaws_forecast_show_more">Mostrar más</string>
     <string name="omnijaws_forecast_show_less">Mostrar menos</string>
     <string name="omnijaws_forecast_today">Hoy</string>
     <!-- Detail card titles -->
-    <string name="omnijaws_detail_feels_like">Feels like</string>
+    <string name="omnijaws_detail_feels_like">Sensación térmica</string>
     <string name="omnijaws_detail_uv_index">Índice UV</string>
-    <string name="omnijaws_detail_humidity">Humidity</string>
+    <string name="omnijaws_detail_humidity">Humedad</string>
     <string name="omnijaws_detail_wind">Viento</string>
     <string name="omnijaws_detail_pressure">Presión atmosférica</string>
     <string name="omnijaws_detail_visibility">Visibilidad</string>
-    <string name="omnijaws_detail_sunrise_sunset">Sunrise &amp; Sunset</string>
-    <string name="omnijaws_detail_dew_point">Dew point</string>
+    <string name="omnijaws_detail_sunrise_sunset">Amanecer &amp; Ocaso</string>
+    <string name="omnijaws_detail_dew_point">Punto de rocío</string>
     <!-- UV index levels -->
-    <string name="omnijaws_uv_level_low">Baja</string>
-    <string name="omnijaws_uv_level_moderate">Moderate</string>
-    <string name="omnijaws_uv_level_high">Alta</string>
-    <string name="omnijaws_uv_level_very_high">Very High</string>
-    <string name="omnijaws_uv_level_extreme">Extreme</string>
+    <string name="omnijaws_uv_level_low">Bajo</string>
+    <string name="omnijaws_uv_level_moderate">Moderado</string>
+    <string name="omnijaws_uv_level_high">Alto</string>
+    <string name="omnijaws_uv_level_very_high">Muy alto</string>
+    <string name="omnijaws_uv_level_extreme">Extremo</string>
     <!-- Visibility levels -->
-    <string name="omnijaws_visibility_level_clear">Clear</string>
-    <string name="omnijaws_visibility_level_good">Good</string>
-    <string name="omnijaws_visibility_level_moderate">Moderate</string>
+    <string name="omnijaws_visibility_level_clear">Muy bueno</string>
+    <string name="omnijaws_visibility_level_good">Bueno</string>
+    <string name="omnijaws_visibility_level_moderate">Moderado</string>
     <string name="omnijaws_visibility_level_poor">Poor</string>
     <!-- %1$s is the visibility level, e.g. "km · Clear" -->
     <string name="omnijaws_visibility_subtitle">km \u00b7 %1$s</string>
@@ -156,7 +156,7 @@
     <string name="omnijaws_weather_28">Mostly cloudy</string>
     <string name="omnijaws_weather_29">Partly cloudy</string>
     <string name="omnijaws_weather_30">Partly cloudy</string>
-    <string name="omnijaws_weather_31">Clear</string>
+    <string name="omnijaws_weather_31">Muy bueno</string>
     <string name="omnijaws_weather_32">Sunny</string>
     <string name="omnijaws_weather_33">Fair</string>
     <string name="omnijaws_weather_34">Fair</string>
