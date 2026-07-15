@@ -72,9 +72,9 @@
     <string name="omnijaws_detail_sunrise_sunset">Восход и закат</string>
     <string name="omnijaws_detail_dew_point">Точка росы</string>
     <!-- UV index levels -->
-    <string name="omnijaws_uv_level_low">Низкая</string>
+    <string name="omnijaws_uv_level_low">Низкий</string>
     <string name="omnijaws_uv_level_moderate">Умеренный</string>
-    <string name="omnijaws_uv_level_high">Высокая</string>
+    <string name="omnijaws_uv_level_high">Высокий</string>
     <string name="omnijaws_uv_level_very_high">Очень высокий</string>
     <string name="omnijaws_uv_level_extreme">Экстремальный</string>
     <!-- Visibility levels -->
@@ -91,9 +91,9 @@
     <string name="omnijaws_dew_point_humid">Влажно</string>
     <!-- Pressure unit symbol -->
     <!-- Pressure level descriptors -->
-    <string name="omnijaws_pressure_level_low">Низкая</string>
+    <string name="omnijaws_pressure_level_low">Низкое</string>
     <string name="omnijaws_pressure_level_normal">Нормальное</string>
-    <string name="omnijaws_pressure_level_high">Высокая</string>
+    <string name="omnijaws_pressure_level_high">Низкое</string>
     <!-- Daylight duration, e.g. "11h 23m". %1$d = hours, %2$d = minutes -->
     <string name="omnijaws_daylight_duration_format">%1$dч %2$dм</string>
     <!-- Service -->
