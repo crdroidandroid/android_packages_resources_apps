@@ -113,7 +113,7 @@
     <!-- Widget -->
     <string name="omnijaws_weather_widget">Weather widget</string>
     <string name="omnijaws_weather_widget_desc">"Current weather and multi-day forecast"</string>
-    <string name="omnijaws_service_disabled">Service disabled</string>
+    <string name="omnijaws_service_disabled">Layanan di-nonaktifkan</string>
     <string name="omnijaws_service_error_long">Error loading weather data</string>
     <string name="omnijaws_service_error_location">No location available</string>
     <string name="omnijaws_service_error_network">No network found</string>
@@ -129,7 +129,7 @@
     <string name="omnijaws_weather_1">Tropical storm</string>
     <string name="omnijaws_weather_2">Hurricane</string>
     <string name="omnijaws_weather_3">Severe thunderstorms</string>
-    <string name="omnijaws_weather_4">Thunderstorms</string>
+    <string name="omnijaws_weather_4">Badai petir</string>
     <string name="omnijaws_weather_5">Mixed rain and snow</string>
     <string name="omnijaws_weather_6">Mixed rain and sleet</string>
     <string name="omnijaws_weather_7">Mixed snow and sleet</string>
