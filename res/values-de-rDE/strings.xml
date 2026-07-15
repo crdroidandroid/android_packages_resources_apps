@@ -35,8 +35,8 @@
     <string name="omnijaws_custom_location_summary">Manuell ausgewählten Standort verwenden</string>
     <string name="omnijaws_weather_custom_location_title">Standort</string>
     <string name="omnijaws_weather_custom_location_missing">Benutzerdefinierten Standort einstellen</string>
-    <string name="omnijaws_grant_location_permission_title">Grant location permission</string>
-    <string name="omnijaws_grant_location_permission_summary">Required for automatic location</string>
+    <string name="omnijaws_grant_location_permission_title">Standortberechtigung erteilen</string>
+    <string name="omnijaws_grant_location_permission_summary">Für die automatische Standortsuche benötigt</string>
     <string name="omnijaws_weather_icon_pack_title">Condition icon pack</string>
     <string name="omnijaws_icon_theme_title">Icon theme</string>
     <string name="omnijaws_theme_system">Follow System</string>
