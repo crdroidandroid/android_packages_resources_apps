@@ -7,34 +7,34 @@
     <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
     <!-- Updater -->
     <string name="updater_link_telegram">Telegram</string>
-    <string name="updater_link_donate">Donate</string>
+    <string name="updater_link_donate">Spenden</string>
     <string name="updater_link_forum">Forum</string>
-    <string name="updater_build_unofficial">Unofficial</string>
-    <string name="updater_maintainer_by">by <xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g></string>
+    <string name="updater_build_unofficial">Inoffiziell</string>
+    <string name="updater_maintainer_by">von <xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g></string>
     <!-- OmniJaws -->
-    <string name="omnijaws_activity_title">Weather</string>
+    <string name="omnijaws_activity_title">Wetter</string>
     <!-- Settings -->
-    <string name="omnijaws_weather_config_title">Service settings</string>
-    <string name="omnijaws_category_general">General</string>
-    <string name="omnijaws_category_appearance">Appearance</string>
-    <string name="omnijaws_category_api">API</string>
-    <string name="omnijaws_enable_title">Enable</string>
-    <string name="omnijaws_provider_title">Weather provider</string>
-    <string name="omnijaws_units_title">Unit</string>
-    <string name="omnijaws_unit_metric">Metric (\u00b0C)</string>
+    <string name="omnijaws_weather_config_title">Diensteinstellungen</string>
+    <string name="omnijaws_category_general">Allgemein</string>
+    <string name="omnijaws_category_appearance">Darstellung</string>
+    <string name="omnijaws_category_api">Schnittstelle (API)</string>
+    <string name="omnijaws_enable_title">Aktivieren</string>
+    <string name="omnijaws_provider_title">Wetteranbieter</string>
+    <string name="omnijaws_units_title">Einheit</string>
+    <string name="omnijaws_unit_metric">Metrisch (\u00b0C)</string>
     <string name="omnijaws_unit_imperial">Imperial (\u00b0F)</string>
-    <string name="omnijaws_update_interval_title">Update interval</string>
-    <string name="omnijaws_interval_1_hour">1 hour</string>
-    <string name="omnijaws_interval_2_hour">2 hours</string>
-    <string name="omnijaws_interval_4_hour">4 hours</string>
-    <string name="omnijaws_interval_6_hour">6 hours</string>
-    <string name="omnijaws_interval_12_hour">12 hours</string>
-    <string name="omnijaws_last_update_time">Last update time</string>
-    <string name="omnijaws_weather_last_update_never">Never</string>
-    <string name="omnijaws_custom_location_title">Custom location</string>
-    <string name="omnijaws_custom_location_summary">Use a manually selected location</string>
-    <string name="omnijaws_weather_custom_location_title">Location</string>
-    <string name="omnijaws_weather_custom_location_missing">Set custom location</string>
+    <string name="omnijaws_update_interval_title">Aktualisierungsintervall</string>
+    <string name="omnijaws_interval_1_hour">1 Stunde</string>
+    <string name="omnijaws_interval_2_hour">2 Stunden</string>
+    <string name="omnijaws_interval_4_hour">4 Stunden</string>
+    <string name="omnijaws_interval_6_hour">6 Stunden</string>
+    <string name="omnijaws_interval_12_hour">12 Stunden</string>
+    <string name="omnijaws_last_update_time">Letzte Aktualisierung</string>
+    <string name="omnijaws_weather_last_update_never">Nie</string>
+    <string name="omnijaws_custom_location_title">Benutzerdefinierter Standort</string>
+    <string name="omnijaws_custom_location_summary">Manuell ausgewählten Standort verwenden</string>
+    <string name="omnijaws_weather_custom_location_title">Standort</string>
+    <string name="omnijaws_weather_custom_location_missing">Benutzerdefinierten Standort einstellen</string>
     <string name="omnijaws_grant_location_permission_title">Grant location permission</string>
     <string name="omnijaws_grant_location_permission_summary">Required for automatic location</string>
     <string name="omnijaws_weather_icon_pack_title">Condition icon pack</string>
@@ -104,8 +104,8 @@
     <string name="omnijaws_service_error">Error loading weather data</string>
     <string name="omnijaws_service_last_update">Last update:</string>
     <string name="omnijaws_city_unkown">Unknown</string>
-    <string name="omnijaws_detail_header">Weather</string>
-    <string name="omnijaws_label_default">Weather</string>
+    <string name="omnijaws_detail_header">Wetter</string>
+    <string name="omnijaws_label_default">Wetter</string>
     <!-- Location -->
     <string name="omnijaws_location_browse_activity_title">Select location</string>
     <string name="omnijaws_location_query_hint">Search location</string>
