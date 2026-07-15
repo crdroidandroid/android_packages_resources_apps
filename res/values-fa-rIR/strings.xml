@@ -61,13 +61,13 @@
     <string name="omnijaws_forecast_card_title">پیش‌بینی چند روز آینده</string>
     <string name="omnijaws_forecast_show_more">بیشتر</string>
     <string name="omnijaws_forecast_show_less">کمتر</string>
-    <string name="omnijaws_forecast_today">Today</string>
+    <string name="omnijaws_forecast_today">امروز</string>
     <!-- Detail card titles -->
-    <string name="omnijaws_detail_feels_like">Feels like</string>
-    <string name="omnijaws_detail_uv_index">UV index</string>
-    <string name="omnijaws_detail_humidity">Humidity</string>
-    <string name="omnijaws_detail_wind">Wind</string>
-    <string name="omnijaws_detail_pressure">Pressure</string>
+    <string name="omnijaws_detail_feels_like">حس می‌شود</string>
+    <string name="omnijaws_detail_uv_index">شاخص فرابنفش</string>
+    <string name="omnijaws_detail_humidity">رطوبت</string>
+    <string name="omnijaws_detail_wind">باد</string>
+    <string name="omnijaws_detail_pressure">فشار</string>
     <string name="omnijaws_detail_visibility">قابل مشاهده</string>
     <string name="omnijaws_detail_sunrise_sunset">طلوع و غروب خورشید</string>
     <string name="omnijaws_detail_dew_point">شبنم</string>
@@ -114,7 +114,7 @@
     <string name="omnijaws_weather_widget">ویجت هواشناسی</string>
     <string name="omnijaws_weather_widget_desc">"وضعیت هوای الان و پیش‌بینی چند روز آینده"</string>
     <string name="omnijaws_service_disabled">سرویس غیرفعال</string>
-    <string name="omnijaws_service_error_long">خطا در نمایش اطلاعات هواشناسی</string>
+    <string name="omnijaws_service_error_long">خطا در بارگذاری اطلاعات هواشناسی </string>
     <string name="omnijaws_service_error_location">هیچ مکانی در دسترس نیست</string>
     <string name="omnijaws_service_error_network">شبکه پیدا نشد</string>
     <string name="omnijaws_color_theme_title">پوسته</string>
