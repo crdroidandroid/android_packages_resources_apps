@@ -7,50 +7,50 @@
     <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
     <!-- Updater -->
     <string name="updater_link_telegram">Telegram</string>
-    <string name="updater_link_donate">Donate</string>
+    <string name="updater_link_donate">Effettua una donazione</string>
     <string name="updater_link_forum">Forum</string>
     <string name="updater_build_unofficial">Tidak resmi</string>
     <string name="updater_maintainer_by">by <xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g></string>
     <!-- OmniJaws -->
-    <string name="omnijaws_activity_title">Weather</string>
+    <string name="omnijaws_activity_title">Meteo</string>
     <!-- Settings -->
-    <string name="omnijaws_weather_config_title">Service settings</string>
+    <string name="omnijaws_weather_config_title">Impostazioni servizio</string>
     <string name="omnijaws_category_general">Umum</string>
-    <string name="omnijaws_category_appearance">Appearance</string>
+    <string name="omnijaws_category_appearance">Aspetto</string>
     <string name="omnijaws_category_api">API</string>
-    <string name="omnijaws_enable_title">Enable</string>
-    <string name="omnijaws_provider_title">Weather provider</string>
-    <string name="omnijaws_units_title">Unit</string>
-    <string name="omnijaws_unit_metric">Metric (\u00b0C)</string>
-    <string name="omnijaws_unit_imperial">Imperial (\u00b0F)</string>
-    <string name="omnijaws_update_interval_title">Update interval</string>
+    <string name="omnijaws_enable_title">Abilita</string>
+    <string name="omnijaws_provider_title">Fornitore meteo</string>
+    <string name="omnijaws_units_title">Unità di misura</string>
+    <string name="omnijaws_unit_metric">Metrica (\u00b0C)</string>
+    <string name="omnijaws_unit_imperial">Imperiale (\u00b0F)</string>
+    <string name="omnijaws_update_interval_title">Intervallo aggiornamento</string>
     <string name="omnijaws_interval_1_hour">1 Jam</string>
     <string name="omnijaws_interval_2_hour">2 Jam</string>
     <string name="omnijaws_interval_4_hour">4 Jam</string>
     <string name="omnijaws_interval_6_hour">6 Jam</string>
-    <string name="omnijaws_interval_12_hour">12 hours</string>
+    <string name="omnijaws_interval_12_hour">12 ore</string>
     <string name="omnijaws_last_update_time">Terakhir di update</string>
     <string name="omnijaws_weather_last_update_never">Tidak pernah</string>
-    <string name="omnijaws_custom_location_title">Custom location</string>
-    <string name="omnijaws_custom_location_summary">Use a manually selected location</string>
-    <string name="omnijaws_weather_custom_location_title">Location</string>
-    <string name="omnijaws_weather_custom_location_missing">Set custom location</string>
-    <string name="omnijaws_grant_location_permission_title">Grant location permission</string>
-    <string name="omnijaws_grant_location_permission_summary">Required for automatic location</string>
-    <string name="omnijaws_weather_icon_pack_title">Condition icon pack</string>
-    <string name="omnijaws_icon_theme_title">Icon theme</string>
-    <string name="omnijaws_theme_system">Follow System</string>
+    <string name="omnijaws_custom_location_title">Località personalizzata</string>
+    <string name="omnijaws_custom_location_summary">Usa una posizione selezionata manualmente</string>
+    <string name="omnijaws_weather_custom_location_title">Posizione</string>
+    <string name="omnijaws_weather_custom_location_missing">Imposta una località personalizzata</string>
+    <string name="omnijaws_grant_location_permission_title">Concedi l\'autorizzazione ad accedere alla localizzazione</string>
+    <string name="omnijaws_grant_location_permission_summary">Richiesto per la posizione automatica</string>
+    <string name="omnijaws_weather_icon_pack_title">Pacchetto icone condizioni</string>
+    <string name="omnijaws_icon_theme_title">Tema di icone</string>
+    <string name="omnijaws_theme_system">Segui Sistema</string>
     <string name="omnijaws_theme_light">Terang</string>
     <string name="omnijaws_theme_dark">Gelap</string>
     <!-- OWM / Pirate Weather API -->
-    <string name="omnijaws_owm_key">Custom OWM key</string>
+    <string name="omnijaws_owm_key">Chiave OWM personalizzata</string>
     <string name="omnijaws_pirate_weather_key">Pirate Weather API Key</string>
-    <string name="omnijaws_provider_disabled">Provider disabled</string>
-    <string name="omnijaws_api_key_note">Pirate Weather needs an API key provided to function, and a Custom OWM key is recommended for OpenWeatherMap. Press the \"Last update time\" field to force update and test your keys</string>
+    <string name="omnijaws_provider_disabled">Provider disabilitato</string>
+    <string name="omnijaws_api_key_note">Pirate Weather ha bisogno di una chiave API fornita per funzionare, e una chiave OWM personalizzata è consigliata per OpenWeatherMap. Premi il campo \"Last update time\" per forzare l\'aggiornamento e testare le chiavi</string>
     <string name="omnijaws_api_links_note"><![CDATA[Get API keys: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a>]]></string>
     <!-- Dashboard -->
-    <string name="omnijaws_menu_title">Menu</string>
-    <string name="omnijaws_update_title">Update</string>
+    <string name="omnijaws_menu_title">Menù</string>
+    <string name="omnijaws_update_title">Aggiorna</string>
     <string name="omnijaws_settings_title">Pengaturan</string>
     <string name="omnijaws_temperature_low">Rendah</string>
     <string name="omnijaws_temperature_high">Tinggi</string>
@@ -104,8 +104,8 @@
     <string name="omnijaws_service_error">Error loading weather data</string>
     <string name="omnijaws_service_last_update">Last update:</string>
     <string name="omnijaws_city_unkown">Unknown</string>
-    <string name="omnijaws_detail_header">Weather</string>
-    <string name="omnijaws_label_default">Weather</string>
+    <string name="omnijaws_detail_header">Meteo</string>
+    <string name="omnijaws_label_default">Meteo</string>
     <!-- Location -->
     <string name="omnijaws_location_browse_activity_title">Select location</string>
     <string name="omnijaws_location_query_hint">Search location</string>
