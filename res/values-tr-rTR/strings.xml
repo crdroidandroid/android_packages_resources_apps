@@ -64,13 +64,13 @@
     <string name="omnijaws_forecast_today">Bugün</string>
     <!-- Detail card titles -->
     <string name="omnijaws_detail_feels_like">gibi hissettiriyor</string>
-    <string name="omnijaws_detail_uv_index">UV index</string>
+    <string name="omnijaws_detail_uv_index">UV indeksi</string>
     <string name="omnijaws_detail_humidity">Nem</string>
     <string name="omnijaws_detail_wind">Rüzgar</string>
     <string name="omnijaws_detail_pressure">Basınç</string>
     <string name="omnijaws_detail_visibility">Görüş Mesafesi</string>
     <string name="omnijaws_detail_sunrise_sunset">Gün Doğumu &amp; Gün Batımı</string>
-    <string name="omnijaws_detail_dew_point">Dew point</string>
+    <string name="omnijaws_detail_dew_point">Çiğ noktası</string>
     <!-- UV index levels -->
     <string name="omnijaws_uv_level_low">Düşük</string>
     <string name="omnijaws_uv_level_moderate">Orta</string>
@@ -118,14 +118,14 @@
     <string name="omnijaws_service_error_location">Herhangi bir konum yok</string>
     <string name="omnijaws_service_error_network">İnternet bağlantısı bulunamadı</string>
     <string name="omnijaws_color_theme_title">Tema</string>
-    <string name="omnijaws_theme_follow_widget">Follow widget</string>
-    <string name="omnijaws_theme_follow_app">Follow app</string>
+    <string name="omnijaws_theme_follow_widget">Widget\'ı takip et</string>
+    <string name="omnijaws_theme_follow_app">Uygulamayı takip et</string>
     <string name="omnijaws_bg_transparency_title">Saydamlık</string>
     <string name="omnijaws_trans_semi">Yarı saydam</string>
     <string name="omnijaws_trans_full">Saydam</string>
-    <string name="omnijaws_trans_solid">Solid</string>
+    <string name="omnijaws_trans_solid">Opak</string>
     <!-- Weather condition description -->
-    <string name="omnijaws_weather_0">Tornado</string>
+    <string name="omnijaws_weather_0">Kasırga</string>
     <string name="omnijaws_weather_1">Tropikal fırtına</string>
     <string name="omnijaws_weather_2">Hortum</string>
     <string name="omnijaws_weather_3">Şiddetli gök gürültülü fırtınalar</string>
