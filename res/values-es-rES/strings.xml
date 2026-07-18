@@ -162,16 +162,16 @@
     <string name="omnijaws_weather_34">Justo</string>
     <string name="omnijaws_weather_35">Lluvia y Granizo</string>
     <string name="omnijaws_weather_36">Calor</string>
-    <string name="omnijaws_weather_37">Isolated thunderstorms</string>
-    <string name="omnijaws_weather_38">Scattered thunderstorms</string>
-    <string name="omnijaws_weather_39">Scattered showers</string>
-    <string name="omnijaws_weather_40">Rain showers</string>
-    <string name="omnijaws_weather_41">Heavy snow</string>
-    <string name="omnijaws_weather_42">Scattered snow showers</string>
-    <string name="omnijaws_weather_43">Heavy snow</string>
+    <string name="omnijaws_weather_37">Tormentas eléctricas aisladas</string>
+    <string name="omnijaws_weather_38">Tormentas eléctricas dispersas</string>
+    <string name="omnijaws_weather_39">Chubascos dispersos</string>
+    <string name="omnijaws_weather_40">Chubascos</string>
+    <string name="omnijaws_weather_41">Nevada intensa</string>
+    <string name="omnijaws_weather_42">Chubascos de nieve dispersos</string>
+    <string name="omnijaws_weather_43">Nevada intensa</string>
     <string name="omnijaws_weather_44">Parcialmente nublado</string>
-    <string name="omnijaws_weather_45">Thundershowers</string>
-    <string name="omnijaws_weather_46">Snow showers</string>
-    <string name="omnijaws_weather_47">Isolated thundershowers</string>
-    <string name="omnijaws_weather_3200">Not available</string>
+    <string name="omnijaws_weather_45">Chubascos tormentosos</string>
+    <string name="omnijaws_weather_46">Chubascos de nieve</string>
+    <string name="omnijaws_weather_47">Chubascos tormentosos aislados</string>
+    <string name="omnijaws_weather_3200">No disponible</string>
 </resources>
