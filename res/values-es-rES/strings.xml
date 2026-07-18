@@ -158,10 +158,10 @@
     <string name="omnijaws_weather_30">Parcialmente nublado</string>
     <string name="omnijaws_weather_31">Muy bueno</string>
     <string name="omnijaws_weather_32">Soleado</string>
-    <string name="omnijaws_weather_33">Fair</string>
-    <string name="omnijaws_weather_34">Fair</string>
-    <string name="omnijaws_weather_35">Mixed rain and hail</string>
-    <string name="omnijaws_weather_36">Hot</string>
+    <string name="omnijaws_weather_33">Justo</string>
+    <string name="omnijaws_weather_34">Justo</string>
+    <string name="omnijaws_weather_35">Lluvia y Granizo</string>
+    <string name="omnijaws_weather_36">Calor</string>
     <string name="omnijaws_weather_37">Isolated thunderstorms</string>
     <string name="omnijaws_weather_38">Scattered thunderstorms</string>
     <string name="omnijaws_weather_39">Scattered showers</string>
