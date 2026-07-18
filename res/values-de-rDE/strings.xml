@@ -61,34 +61,34 @@
     <string name="omnijaws_forecast_card_title">Mehrtägige Vorhersage</string>
     <string name="omnijaws_forecast_show_more">Mehr anzeigen</string>
     <string name="omnijaws_forecast_show_less">Weniger anzeigen</string>
-    <string name="omnijaws_forecast_today">Today</string>
+    <string name="omnijaws_forecast_today">Heute</string>
     <!-- Detail card titles -->
-    <string name="omnijaws_detail_feels_like">Feels like</string>
-    <string name="omnijaws_detail_uv_index">UV index</string>
-    <string name="omnijaws_detail_humidity">Humidity</string>
+    <string name="omnijaws_detail_feels_like">Gefühlt</string>
+    <string name="omnijaws_detail_uv_index">UV-Index</string>
+    <string name="omnijaws_detail_humidity">Luftfeuchtigkeit</string>
     <string name="omnijaws_detail_wind">Wind</string>
-    <string name="omnijaws_detail_pressure">Pressure</string>
-    <string name="omnijaws_detail_visibility">Visibility</string>
-    <string name="omnijaws_detail_sunrise_sunset">Sunrise &amp; Sunset</string>
-    <string name="omnijaws_detail_dew_point">Dew point</string>
+    <string name="omnijaws_detail_pressure">Luftdruck</string>
+    <string name="omnijaws_detail_visibility">Sichtweite</string>
+    <string name="omnijaws_detail_sunrise_sunset">Sonnenauf- &amp; -untergang</string>
+    <string name="omnijaws_detail_dew_point">Taupunkt</string>
     <!-- UV index levels -->
     <string name="omnijaws_uv_level_low">Niedrig</string>
-    <string name="omnijaws_uv_level_moderate">Moderate</string>
+    <string name="omnijaws_uv_level_moderate">Mäßig</string>
     <string name="omnijaws_uv_level_high">Hoch</string>
-    <string name="omnijaws_uv_level_very_high">Very High</string>
-    <string name="omnijaws_uv_level_extreme">Extreme</string>
+    <string name="omnijaws_uv_level_very_high">Sehr hoch</string>
+    <string name="omnijaws_uv_level_extreme">Extrem</string>
     <!-- Visibility levels -->
-    <string name="omnijaws_visibility_level_clear">Clear</string>
-    <string name="omnijaws_visibility_level_good">Good</string>
-    <string name="omnijaws_visibility_level_moderate">Moderate</string>
-    <string name="omnijaws_visibility_level_poor">Poor</string>
+    <string name="omnijaws_visibility_level_clear">Klar</string>
+    <string name="omnijaws_visibility_level_good">Gut</string>
+    <string name="omnijaws_visibility_level_moderate">Mittel</string>
+    <string name="omnijaws_visibility_level_poor">Gering</string>
     <!-- %1$s is the visibility level, e.g. "km · Clear" -->
     <string name="omnijaws_visibility_subtitle">km \u00b7 %1$s</string>
     <!-- Dew point levels -->
-    <string name="omnijaws_dew_point_dry">Dry</string>
-    <string name="omnijaws_dew_point_comfortable">Comfortable</string>
-    <string name="omnijaws_dew_point_slightly_humid">Slightly humid</string>
-    <string name="omnijaws_dew_point_humid">Humid</string>
+    <string name="omnijaws_dew_point_dry">Trocken</string>
+    <string name="omnijaws_dew_point_comfortable">Angenehm</string>
+    <string name="omnijaws_dew_point_slightly_humid">Leicht feucht</string>
+    <string name="omnijaws_dew_point_humid">Feucht</string>
     <!-- Pressure unit symbol -->
     <!-- Pressure level descriptors -->
     <string name="omnijaws_pressure_level_low">Niedrig</string>
@@ -97,38 +97,38 @@
     <!-- Daylight duration, e.g. "11h 23m". %1$d = hours, %2$d = minutes -->
     <string name="omnijaws_daylight_duration_format">%1$dh %2$dm</string>
     <!-- Service -->
-    <string name="omnijaws_service_unkown">No weather data</string>
-    <string name="omnijaws_service_waiting">Waiting \u2026</string>
-    <string name="omnijaws_service_init">Waiting\u2026</string>
-    <string name="omnijaws_service_progress">Updating\u2026</string>
-    <string name="omnijaws_service_error">Error loading weather data</string>
-    <string name="omnijaws_service_last_update">Last update:</string>
-    <string name="omnijaws_city_unkown">Unknown</string>
+    <string name="omnijaws_service_unkown">Keine Wetterdaten</string>
+    <string name="omnijaws_service_waiting">Warte auf \u2026</string>
+    <string name="omnijaws_service_init">Warten auf\u2026</string>
+    <string name="omnijaws_service_progress">Aktualisiere\u2026</string>
+    <string name="omnijaws_service_error">Fehler beim Laden der Wetterdaten</string>
+    <string name="omnijaws_service_last_update">Letzte Aktualisierung:</string>
+    <string name="omnijaws_city_unkown">Unbekannt</string>
     <string name="omnijaws_detail_header">Wetter</string>
     <string name="omnijaws_label_default">Wetter</string>
     <!-- Location -->
-    <string name="omnijaws_location_browse_activity_title">Select location</string>
-    <string name="omnijaws_location_query_hint">Search location</string>
-    <string name="omnijaws_location_city_name">City name</string>
+    <string name="omnijaws_location_browse_activity_title">Standort auswählen</string>
+    <string name="omnijaws_location_query_hint">Ort suchen</string>
+    <string name="omnijaws_location_city_name">Stadtname</string>
     <!-- Widget -->
-    <string name="omnijaws_weather_widget">Weather widget</string>
-    <string name="omnijaws_weather_widget_desc">"Current weather and multi-day forecast"</string>
-    <string name="omnijaws_service_disabled">Service disabled</string>
-    <string name="omnijaws_service_error_long">Error loading weather data</string>
-    <string name="omnijaws_service_error_location">No location available</string>
-    <string name="omnijaws_service_error_network">No network found</string>
-    <string name="omnijaws_color_theme_title">Theme</string>
-    <string name="omnijaws_theme_follow_widget">Follow widget</string>
-    <string name="omnijaws_theme_follow_app">Follow app</string>
-    <string name="omnijaws_bg_transparency_title">Transparency</string>
-    <string name="omnijaws_trans_semi">Semi-transparent</string>
+    <string name="omnijaws_weather_widget">Wetter-Widget</string>
+    <string name="omnijaws_weather_widget_desc">"Aktuelles Wetter und mehrtägige Vorhersage"</string>
+    <string name="omnijaws_service_disabled">Dienst deaktiviert</string>
+    <string name="omnijaws_service_error_long">Fehler beim Laden der Wetterdaten</string>
+    <string name="omnijaws_service_error_location">Standort nicht verfügbar</string>
+    <string name="omnijaws_service_error_network">Kein Netzwerk gefunden</string>
+    <string name="omnijaws_color_theme_title">Farbschema</string>
+    <string name="omnijaws_theme_follow_widget">Widget folgen</string>
+    <string name="omnijaws_theme_follow_app">App folgen</string>
+    <string name="omnijaws_bg_transparency_title">Transparenz</string>
+    <string name="omnijaws_trans_semi">Halbtransparent</string>
     <string name="omnijaws_trans_full">Transparent</string>
-    <string name="omnijaws_trans_solid">Solid</string>
+    <string name="omnijaws_trans_solid">Deckend</string>
     <!-- Weather condition description -->
     <string name="omnijaws_weather_0">Tornado</string>
-    <string name="omnijaws_weather_1">Tropical storm</string>
-    <string name="omnijaws_weather_2">Hurricane</string>
-    <string name="omnijaws_weather_3">Severe thunderstorms</string>
+    <string name="omnijaws_weather_1">Tropensturm</string>
+    <string name="omnijaws_weather_2">Hurrikan</string>
+    <string name="omnijaws_weather_3">Schwere Gewitter</string>
     <string name="omnijaws_weather_4">Gewitter</string>
     <string name="omnijaws_weather_5">Schneeregen</string>
     <string name="omnijaws_weather_6">Regen und Graupel</string>
@@ -152,7 +152,7 @@
     <string name="omnijaws_weather_24">Windig</string>
     <string name="omnijaws_weather_25">Kalt</string>
     <string name="omnijaws_weather_26">Wolkig</string>
-    <string name="omnijaws_weather_27">Mostly cloudy</string>
+    <string name="omnijaws_weather_27">Überwiegend bewölkt</string>
     <string name="omnijaws_weather_28">Überwiegend bewölkt</string>
     <string name="omnijaws_weather_29">Teilweise bewölkt</string>
     <string name="omnijaws_weather_30">Teilweise bewölkt</string>
