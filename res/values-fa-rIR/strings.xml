@@ -10,14 +10,14 @@
     <string name="updater_link_donate">اهدا</string>
     <string name="updater_link_forum">انجمن</string>
     <string name="updater_build_unofficial">غیر رسمی</string>
-    <string name="updater_maintainer_by">by <xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g></string>
+    <string name="updater_maintainer_by">توسط <xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g></string>
     <!-- OmniJaws -->
     <string name="omnijaws_activity_title">آب و هوا</string>
     <!-- Settings -->
     <string name="omnijaws_weather_config_title">تنظیمات سرویس</string>
     <string name="omnijaws_category_general">عمومی</string>
     <string name="omnijaws_category_appearance">ظاهر</string>
-    <string name="omnijaws_category_api">رابط کاربری برنامه نویسی</string>
+    <string name="omnijaws_category_api">API</string>
     <string name="omnijaws_enable_title">فعال سازی</string>
     <string name="omnijaws_provider_title">ارائه دهنده آب و هوا</string>
     <string name="omnijaws_units_title">واحد</string>
@@ -41,7 +41,7 @@
     <string name="omnijaws_icon_theme_title">نمایه آیکون</string>
     <string name="omnijaws_theme_system">پیشفرض سیستم</string>
     <string name="omnijaws_theme_light">روشن</string>
-    <string name="omnijaws_theme_dark">تیره</string>
+    <string name="omnijaws_theme_dark">تاریک</string>
     <!-- OWM / Pirate Weather API -->
     <string name="omnijaws_owm_key">کلید OWM سفارشی</string>
     <string name="omnijaws_pirate_weather_key">کلید API غیرقانونی هواشناسی</string>
@@ -59,7 +59,7 @@
     <!-- Forecast card -->
     <string name="omnijaws_forecast_card_hourly_title">پیش‌بینی ساعتی</string>
     <string name="omnijaws_forecast_card_title">پیش‌بینی چند روز آینده</string>
-    <string name="omnijaws_forecast_show_more">بیشتر</string>
+    <string name="omnijaws_forecast_show_more">نمایش بیشتر</string>
     <string name="omnijaws_forecast_show_less">نمایش کمتر</string>
     <string name="omnijaws_forecast_today">امروز</string>
     <!-- Detail card titles -->
