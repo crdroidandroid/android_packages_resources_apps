@@ -34,12 +34,12 @@
     <string name="omnijaws_custom_location_title">مکان سفارشی</string>
     <string name="omnijaws_custom_location_summary">استفاده از مکان دستی</string>
     <string name="omnijaws_weather_custom_location_title">مکان</string>
-    <string name="omnijaws_weather_custom_location_missing">تایین مکان سفارشی</string>
+    <string name="omnijaws_weather_custom_location_missing">تعیین مکان سفارشی</string>
     <string name="omnijaws_grant_location_permission_title">اعطای مجوز مکان</string>
-    <string name="omnijaws_grant_location_permission_summary">درخواست مکانیابی اتوماتیک</string>
+    <string name="omnijaws_grant_location_permission_summary">درخواست مکان یابی اتوماتیک</string>
     <string name="omnijaws_weather_icon_pack_title">بسته آیکون وضعیت</string>
     <string name="omnijaws_icon_theme_title">نمایه آیکون</string>
-    <string name="omnijaws_theme_system">پیشفرض سیستم</string>
+    <string name="omnijaws_theme_system">پیش فرض سیستم</string>
     <string name="omnijaws_theme_light">روشن</string>
     <string name="omnijaws_theme_dark">تاریک</string>
     <!-- OWM / Pirate Weather API -->
