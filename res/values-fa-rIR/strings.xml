@@ -47,15 +47,15 @@
     <string name="omnijaws_pirate_weather_key">کلید API غیرقانونی هواشناسی</string>
     <string name="omnijaws_provider_disabled">ارائه دهنده غیر فعال</string>
     <string name="omnijaws_api_key_note">آب و هوای pirate برای عملکرد خود به یک کلید API ارائه شده نیاز دارد. و یک کلید OWM سفارشی برای OpenWeatherMap توصیه میشود. برای بروزرسانی اجباری و آزمایش کلید های خود، فیلد. \" آخرین زمان بروزرسانی. \" را فشار دهید</string>
-    <string name="omnijaws_api_links_note"><![CDATA[Get API keys: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a>]]></string>
+    <string name="omnijaws_api_links_note"><![CDATA[دریافت کلید API: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a>]]></string>
     <!-- Dashboard -->
-    <string name="omnijaws_menu_title">منو</string>
+    <string name="omnijaws_menu_title">فهرست</string>
     <string name="omnijaws_update_title">بروزرسانی</string>
     <string name="omnijaws_settings_title">تنظیمات</string>
     <string name="omnijaws_temperature_low">پایین</string>
     <string name="omnijaws_temperature_high">بالا</string>
     <string name="omnijaws_dashboard_error_subtitle">تنظیمات را جستجو کنید یا تازه سازی انجام دهید</string>
-    <string name="omnijaws_dashboard_provider_attribution">اطلاعات هواشناسی گردآوری شده از</string>
+    <string name="omnijaws_dashboard_provider_attribution">اطلاعات هواشناسی گردآوری شده از %1$s</string>
     <!-- Forecast card -->
     <string name="omnijaws_forecast_card_hourly_title">پیش‌بینی ساعتی</string>
     <string name="omnijaws_forecast_card_title">پیش‌بینی چند روز آینده</string>
@@ -83,7 +83,7 @@
     <string name="omnijaws_visibility_level_moderate">متوسط</string>
     <string name="omnijaws_visibility_level_poor">ضعیف</string>
     <!-- %1$s is the visibility level, e.g. "km · Clear" -->
-    <string name="omnijaws_visibility_subtitle">کیلومتر</string>
+    <string name="omnijaws_visibility_subtitle">کیلومتر  \u00b7 %1$s</string>
     <!-- Dew point levels -->
     <string name="omnijaws_dew_point_dry">خشک</string>
     <string name="omnijaws_dew_point_comfortable">راحت</string>
@@ -161,7 +161,7 @@
     <string name="omnijaws_weather_33">خوب</string>
     <string name="omnijaws_weather_34">خوب</string>
     <string name="omnijaws_weather_35">باران و تگرگ</string>
-    <string name="omnijaws_weather_36">گرم</string>
+    <string name="omnijaws_weather_36">داغ</string>
     <string name="omnijaws_weather_37">رعد و برق منطقه ای</string>
     <string name="omnijaws_weather_38">رعد و برق پراکنده</string>
     <string name="omnijaws_weather_39">رگبار پراکنده</string>
