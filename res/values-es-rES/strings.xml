@@ -86,7 +86,7 @@
     <string name="omnijaws_visibility_subtitle">km \u00b7 %1$s</string>
     <!-- Dew point levels -->
     <string name="omnijaws_dew_point_dry">Seco</string>
-    <string name="omnijaws_dew_point_comfortable">Confortable</string>
+    <string name="omnijaws_dew_point_comfortable">Normal</string>
     <string name="omnijaws_dew_point_slightly_humid">Levemente húmedo</string>
     <string name="omnijaws_dew_point_humid">Húmedo</string>
     <!-- Pressure unit symbol -->
@@ -138,19 +138,19 @@
     <string name="omnijaws_weather_10">Lluvias frías</string>
     <string name="omnijaws_weather_11">Chubascos</string>
     <string name="omnijaws_weather_12">Chubascos</string>
-    <string name="omnijaws_weather_13">Copos de nieve dispersos</string>
+    <string name="omnijaws_weather_13">Ráfagas de nieve</string>
     <string name="omnijaws_weather_14">Nevadas ligeras</string>
-    <string name="omnijaws_weather_15">Nieve con viento</string>
+    <string name="omnijaws_weather_15">Tormenta de nieve</string>
     <string name="omnijaws_weather_16">Nieve</string>
     <string name="omnijaws_weather_17">Granizo</string>
     <string name="omnijaws_weather_18">Aguanieve</string>
     <string name="omnijaws_weather_19">Polvo</string>
-    <string name="omnijaws_weather_20">Niebla</string>
+    <string name="omnijaws_weather_20">Neblinoso</string>
     <string name="omnijaws_weather_21">Brumoso</string>
-    <string name="omnijaws_weather_22">Con humo</string>
-    <string name="omnijaws_weather_23">Vientos iregulares</string>
-    <string name="omnijaws_weather_24">Vientos</string>
-    <string name="omnijaws_weather_25">Frio</string>
+    <string name="omnijaws_weather_22">Humo denso</string>
+    <string name="omnijaws_weather_23">Vientos irregulares</string>
+    <string name="omnijaws_weather_24">Vientos fuertes</string>
+    <string name="omnijaws_weather_25">Frío</string>
     <string name="omnijaws_weather_26">Nublado</string>
     <string name="omnijaws_weather_27">Mayormente nublado</string>
     <string name="omnijaws_weather_28">Mayormente nublado</string>
@@ -160,7 +160,7 @@
     <string name="omnijaws_weather_32">Soleado</string>
     <string name="omnijaws_weather_33">Buen tiempo</string>
     <string name="omnijaws_weather_34">Buen tiempo</string>
-    <string name="omnijaws_weather_35">Mezcla de lluvia y granizo</string>
+    <string name="omnijaws_weather_35">Lluvia con granizo</string>
     <string name="omnijaws_weather_36">Caluroso</string>
     <string name="omnijaws_weather_37">Tormentas eléctricas aisladas</string>
     <string name="omnijaws_weather_38">Tormentas eléctricas dispersas</string>
