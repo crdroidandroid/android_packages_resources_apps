@@ -46,7 +46,7 @@
     <string name="omnijaws_owm_key">کلید OWM سفارشی</string>
     <string name="omnijaws_pirate_weather_key">کلید API غیرقانونی هواشناسی</string>
     <string name="omnijaws_provider_disabled">ارائه دهنده غیر فعال</string>
-    <string name="omnijaws_api_key_note">آب و هوای pirate برای عملکرد خود به یک کلید API ارائه شده نیاز دارد و یک کلید OWM سفارشی برای OpenWeatherMap توصیه میشود.برای بروزرسانی اجباری و آزمایش کلید های خود، فیلد. \" آخرین زمان بروزرسانی. \" را فشار دهید</string>
+    <string name="omnijaws_api_key_note">آب و هوای pirate برای عملکرد خود به یک کلید API ارائه شده نیاز دارد. و یک کلید OWM سفارشی برای OpenWeatherMap توصیه میشود. برای بروزرسانی اجباری و آزمایش کلید های خود، فیلد. \" آخرین زمان بروزرسانی. \" را فشار دهید</string>
     <string name="omnijaws_api_links_note"><![CDATA[Get API keys: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a>]]></string>
     <!-- Dashboard -->
     <string name="omnijaws_menu_title">منو</string>
@@ -95,7 +95,7 @@
     <string name="omnijaws_pressure_level_normal">معمولی</string>
     <string name="omnijaws_pressure_level_high">زیاد</string>
     <!-- Daylight duration, e.g. "11h 23m". %1$d = hours, %2$d = minutes -->
-    <string name="omnijaws_daylight_duration_format">س د</string>
+    <string name="omnijaws_daylight_duration_format">%1$dس %2$dد</string>
     <!-- Service -->
     <string name="omnijaws_service_unkown">بدون اطلاعات هواشناسی</string>
     <string name="omnijaws_service_waiting">انتظار</string>
@@ -114,7 +114,7 @@
     <string name="omnijaws_weather_widget">ویجت هواشناسی</string>
     <string name="omnijaws_weather_widget_desc">"وضعیت هوای الان و پیش‌بینی چند روز آینده"</string>
     <string name="omnijaws_service_disabled">سرویس غیرفعال</string>
-    <string name="omnijaws_service_error_long">خطا در بارگذاری اطلاعات هواشناسی </string>
+    <string name="omnijaws_service_error_long">خطا در بارگذاری اطلاعات هواشناسی</string>
     <string name="omnijaws_service_error_location">هیچ مکانی در دسترس نیست</string>
     <string name="omnijaws_service_error_network">شبکه پیدا نشد</string>
     <string name="omnijaws_color_theme_title">پوسته</string>
