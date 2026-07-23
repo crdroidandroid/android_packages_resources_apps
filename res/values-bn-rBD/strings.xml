@@ -123,11 +123,11 @@
     <string name="omnijaws_bg_transparency_title">স্বচ্ছতা</string>
     <string name="omnijaws_trans_semi">আধা-স্বচ্ছ</string>
     <string name="omnijaws_trans_full">স্বচ্ছ</string>
-    <string name="omnijaws_trans_solid">Solid</string>
+    <string name="omnijaws_trans_solid">ঘন</string>
     <!-- Weather condition description -->
-    <string name="omnijaws_weather_0">Tornado</string>
-    <string name="omnijaws_weather_1">Tropical storm</string>
-    <string name="omnijaws_weather_2">Hurricane</string>
+    <string name="omnijaws_weather_0">ঘূর্ণিঝড়</string>
+    <string name="omnijaws_weather_1">ক্রান্তীয় ঝড়</string>
+    <string name="omnijaws_weather_2">হারিকেন</string>
     <string name="omnijaws_weather_3">Severe thunderstorms</string>
     <string name="omnijaws_weather_4">Thunderstorms</string>
     <string name="omnijaws_weather_5">Mixed rain and snow</string>
