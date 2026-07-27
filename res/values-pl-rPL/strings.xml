@@ -64,35 +64,35 @@
     <string name="omnijaws_forecast_today">Dzisiaj</string>
     <!-- Detail card titles -->
     <string name="omnijaws_detail_feels_like">Odczuwalna</string>
-    <string name="omnijaws_detail_uv_index">UV index</string>
-    <string name="omnijaws_detail_humidity">Humidity</string>
-    <string name="omnijaws_detail_wind">Wind</string>
-    <string name="omnijaws_detail_pressure">Pressure</string>
-    <string name="omnijaws_detail_visibility">Visibility</string>
-    <string name="omnijaws_detail_sunrise_sunset">Sunrise &amp; Sunset</string>
-    <string name="omnijaws_detail_dew_point">Dew point</string>
+    <string name="omnijaws_detail_uv_index">Indeks UV</string>
+    <string name="omnijaws_detail_humidity">Wilgotność</string>
+    <string name="omnijaws_detail_wind">Wiatr</string>
+    <string name="omnijaws_detail_pressure">Ciśnienie</string>
+    <string name="omnijaws_detail_visibility">Widoczność</string>
+    <string name="omnijaws_detail_sunrise_sunset">Wschód słońca &amp; Słońce</string>
+    <string name="omnijaws_detail_dew_point">Punkt rosy</string>
     <!-- UV index levels -->
     <string name="omnijaws_uv_level_low">Niski</string>
-    <string name="omnijaws_uv_level_moderate">Moderate</string>
+    <string name="omnijaws_uv_level_moderate">Umiarkowany</string>
     <string name="omnijaws_uv_level_high">Wysoki</string>
-    <string name="omnijaws_uv_level_very_high">Very High</string>
-    <string name="omnijaws_uv_level_extreme">Extreme</string>
+    <string name="omnijaws_uv_level_very_high">Bardzo Wysoki</string>
+    <string name="omnijaws_uv_level_extreme">Ekstremalne</string>
     <!-- Visibility levels -->
-    <string name="omnijaws_visibility_level_clear">Clear</string>
-    <string name="omnijaws_visibility_level_good">Good</string>
-    <string name="omnijaws_visibility_level_moderate">Moderate</string>
-    <string name="omnijaws_visibility_level_poor">Poor</string>
+    <string name="omnijaws_visibility_level_clear">Pogodnie</string>
+    <string name="omnijaws_visibility_level_good">Dobrze</string>
+    <string name="omnijaws_visibility_level_moderate">Umiarkowane</string>
+    <string name="omnijaws_visibility_level_poor">Ubogie</string>
     <!-- %1$s is the visibility level, e.g. "km · Clear" -->
     <string name="omnijaws_visibility_subtitle">km \u00b7 %1$s</string>
     <!-- Dew point levels -->
-    <string name="omnijaws_dew_point_dry">Dry</string>
-    <string name="omnijaws_dew_point_comfortable">Comfortable</string>
-    <string name="omnijaws_dew_point_slightly_humid">Slightly humid</string>
-    <string name="omnijaws_dew_point_humid">Humid</string>
+    <string name="omnijaws_dew_point_dry">Sucho</string>
+    <string name="omnijaws_dew_point_comfortable">Wygodny</string>
+    <string name="omnijaws_dew_point_slightly_humid">Lekko wilgotny</string>
+    <string name="omnijaws_dew_point_humid">Wilgotny</string>
     <!-- Pressure unit symbol -->
     <!-- Pressure level descriptors -->
     <string name="omnijaws_pressure_level_low">Niska</string>
-    <string name="omnijaws_pressure_level_normal">Normal</string>
+    <string name="omnijaws_pressure_level_normal">Normalny</string>
     <string name="omnijaws_pressure_level_high">Wysoka</string>
     <!-- Daylight duration, e.g. "11h 23m". %1$d = hours, %2$d = minutes -->
     <string name="omnijaws_daylight_duration_format">%1$dh %2$dm</string>
