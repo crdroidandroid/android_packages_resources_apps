@@ -95,35 +95,35 @@
     <string name="omnijaws_pressure_level_normal">Normalny</string>
     <string name="omnijaws_pressure_level_high">Wysoka</string>
     <!-- Daylight duration, e.g. "11h 23m". %1$d = hours, %2$d = minutes -->
-    <string name="omnijaws_daylight_duration_format">%1$dh %2$dm</string>
+    <string name="omnijaws_daylight_duration_format">%1$d godz. %2$d min</string>
     <!-- Service -->
-    <string name="omnijaws_service_unkown">No weather data</string>
-    <string name="omnijaws_service_waiting">Waiting \u2026</string>
-    <string name="omnijaws_service_init">Waiting\u2026</string>
-    <string name="omnijaws_service_progress">Updating\u2026</string>
-    <string name="omnijaws_service_error">Error loading weather data</string>
-    <string name="omnijaws_service_last_update">Last update:</string>
-    <string name="omnijaws_city_unkown">Unknown</string>
+    <string name="omnijaws_service_unkown">Brak danych o pogodzie</string>
+    <string name="omnijaws_service_waiting">Oczekiwanie \u2026</string>
+    <string name="omnijaws_service_init">Oczekiwanie\u2026</string>
+    <string name="omnijaws_service_progress">Aktualizowanie\u2026</string>
+    <string name="omnijaws_service_error">Błąd wczytywania danych o pogodzie</string>
+    <string name="omnijaws_service_last_update">Ostatnia aktualizacja:</string>
+    <string name="omnijaws_city_unkown">Nieznane</string>
     <string name="omnijaws_detail_header">Pogoda</string>
     <string name="omnijaws_label_default">Pogoda</string>
     <!-- Location -->
-    <string name="omnijaws_location_browse_activity_title">Select location</string>
-    <string name="omnijaws_location_query_hint">Search location</string>
-    <string name="omnijaws_location_city_name">City name</string>
+    <string name="omnijaws_location_browse_activity_title">Wybierz lokalizację</string>
+    <string name="omnijaws_location_query_hint">Znajdź lokalizację</string>
+    <string name="omnijaws_location_city_name">Nazwa miasta</string>
     <!-- Widget -->
     <string name="omnijaws_weather_widget">Widżet pogody</string>
-    <string name="omnijaws_weather_widget_desc">"Current weather and multi-day forecast"</string>
-    <string name="omnijaws_service_disabled">Service disabled</string>
-    <string name="omnijaws_service_error_long">Error loading weather data</string>
-    <string name="omnijaws_service_error_location">No location available</string>
-    <string name="omnijaws_service_error_network">No network found</string>
-    <string name="omnijaws_color_theme_title">Theme</string>
-    <string name="omnijaws_theme_follow_widget">Follow widget</string>
-    <string name="omnijaws_theme_follow_app">Follow app</string>
-    <string name="omnijaws_bg_transparency_title">Transparency</string>
-    <string name="omnijaws_trans_semi">Semi-transparent</string>
-    <string name="omnijaws_trans_full">Transparent</string>
-    <string name="omnijaws_trans_solid">Solid</string>
+    <string name="omnijaws_weather_widget_desc">"Bieżąca pogoda i wielodniowa prognoza"</string>
+    <string name="omnijaws_service_disabled">Usługa wyłączona</string>
+    <string name="omnijaws_service_error_long">Błąd ładowania danych o pogodzie</string>
+    <string name="omnijaws_service_error_location">Brak dostępnej lokalizacji</string>
+    <string name="omnijaws_service_error_network">Nie znaleziono sieci</string>
+    <string name="omnijaws_color_theme_title">Motyw</string>
+    <string name="omnijaws_theme_follow_widget">Obserwuj widżet</string>
+    <string name="omnijaws_theme_follow_app">Śledź aplikację</string>
+    <string name="omnijaws_bg_transparency_title">Przezroczystość</string>
+    <string name="omnijaws_trans_semi">Półprzezroczysty</string>
+    <string name="omnijaws_trans_full">Przezroczysty</string>
+    <string name="omnijaws_trans_solid">Stały</string>
     <!-- Weather condition description -->
     <string name="omnijaws_weather_0">Tornado</string>
     <string name="omnijaws_weather_1">Burza tropikalna</string>
@@ -138,12 +138,12 @@
     <string name="omnijaws_weather_10">Marznący deszcz</string>
     <string name="omnijaws_weather_11">Przelotne opady</string>
     <string name="omnijaws_weather_12">Przelotne opady</string>
-    <string name="omnijaws_weather_13">Snow flurries</string>
-    <string name="omnijaws_weather_14">Light snow showers</string>
-    <string name="omnijaws_weather_15">Blowing snow</string>
-    <string name="omnijaws_weather_16">Snow</string>
-    <string name="omnijaws_weather_17">Hail</string>
-    <string name="omnijaws_weather_18">Sleet</string>
+    <string name="omnijaws_weather_13">Zamiecie śnieżne</string>
+    <string name="omnijaws_weather_14">Lekkie przelotne opady śniegu</string>
+    <string name="omnijaws_weather_15">Świecący śnieg</string>
+    <string name="omnijaws_weather_16">Śnieg</string>
+    <string name="omnijaws_weather_17">Grad</string>
+    <string name="omnijaws_weather_18">Śnieg z deszczem</string>
     <string name="omnijaws_weather_19">Pył</string>
     <string name="omnijaws_weather_20">Mgliście</string>
     <string name="omnijaws_weather_21">Mgła</string>
