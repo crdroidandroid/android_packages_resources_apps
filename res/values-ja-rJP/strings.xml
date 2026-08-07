@@ -9,7 +9,7 @@
     <string name="updater_link_telegram">Telegram</string>
     <string name="updater_link_donate">寄付</string>
     <string name="updater_link_forum">フォーラム</string>
-    <string name="updater_build_unofficial">Unofficial</string>
+    <string name="updater_build_unofficial">非公式</string>
     <string name="updater_maintainer_by">by <xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g></string>
     <!-- OmniJaws -->
     <string name="omnijaws_activity_title">天気</string>
@@ -34,27 +34,27 @@
     <string name="omnijaws_custom_location_title">カスタムの場所</string>
     <string name="omnijaws_custom_location_summary">手動で選択した場所を使用</string>
     <string name="omnijaws_weather_custom_location_title">場所</string>
-    <string name="omnijaws_weather_custom_location_missing">Set custom location</string>
-    <string name="omnijaws_grant_location_permission_title">Grant location permission</string>
-    <string name="omnijaws_grant_location_permission_summary">Required for automatic location</string>
-    <string name="omnijaws_weather_icon_pack_title">Condition icon pack</string>
-    <string name="omnijaws_icon_theme_title">Icon theme</string>
-    <string name="omnijaws_theme_system">Follow System</string>
+    <string name="omnijaws_weather_custom_location_missing">カスタムの場所を設定する</string>
+    <string name="omnijaws_grant_location_permission_title">位置情報アクセスをオンにする</string>
+    <string name="omnijaws_grant_location_permission_summary">自動位置情報に必要です</string>
+    <string name="omnijaws_weather_icon_pack_title">天候のアイコンパック</string>
+    <string name="omnijaws_icon_theme_title">アイコンテーマ</string>
+    <string name="omnijaws_theme_system">システムテーマを使用</string>
     <string name="omnijaws_theme_light">ライト</string>
     <string name="omnijaws_theme_dark">ダーク</string>
     <!-- OWM / Pirate Weather API -->
-    <string name="omnijaws_owm_key">Custom OWM key</string>
-    <string name="omnijaws_pirate_weather_key">Pirate Weather API Key</string>
-    <string name="omnijaws_provider_disabled">Provider disabled</string>
-    <string name="omnijaws_api_key_note">Pirate Weather needs an API key provided to function, and a Custom OWM key is recommended for OpenWeatherMap. Press the \"Last update time\" field to force update and test your keys</string>
-    <string name="omnijaws_api_links_note"><![CDATA[Get API keys: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a>]]></string>
+    <string name="omnijaws_owm_key">カスタム OWM キー</string>
+    <string name="omnijaws_pirate_weather_key">Pirate Weather APIキー</string>
+    <string name="omnijaws_provider_disabled">プロバイダが無効</string>
+    <string name="omnijaws_api_key_note">Pirate Weather には機能するための API キーが必要で、OpenWeatherMap にはカスタム OWM キーが推奨されます。 「最終更新時刻」フィールドを押して、キーを強制的に更新してテストします</string>
+    <string name="omnijaws_api_links_note"><![CDATA[APIキーを取得: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a>]]></string>
     <!-- Dashboard -->
-    <string name="omnijaws_menu_title">Menu</string>
-    <string name="omnijaws_update_title">Update</string>
-    <string name="omnijaws_settings_title">Settings</string>
-    <string name="omnijaws_temperature_low">Low</string>
-    <string name="omnijaws_temperature_high">High</string>
-    <string name="omnijaws_dashboard_error_subtitle">Check settings or try refreshing</string>
+    <string name="omnijaws_menu_title">メニュー</string>
+    <string name="omnijaws_update_title">更新</string>
+    <string name="omnijaws_settings_title">設定</string>
+    <string name="omnijaws_temperature_low">低</string>
+    <string name="omnijaws_temperature_high">高</string>
+    <string name="omnijaws_dashboard_error_subtitle">設定を確認するか、更新してみてください</string>
     <string name="omnijaws_dashboard_provider_attribution">気象データの提供元: %1$s</string>
     <!-- Forecast card -->
     <string name="omnijaws_forecast_card_hourly_title">時間別天気予報</string>
@@ -63,14 +63,14 @@
     <string name="omnijaws_forecast_show_less">表示を減らす</string>
     <string name="omnijaws_forecast_today">今日</string>
     <!-- Detail card titles -->
-    <string name="omnijaws_detail_feels_like">Feels like</string>
+    <string name="omnijaws_detail_feels_like">体感温度</string>
     <string name="omnijaws_detail_uv_index">UVインデックス</string>
     <string name="omnijaws_detail_humidity">湿度</string>
     <string name="omnijaws_detail_wind">風</string>
     <string name="omnijaws_detail_pressure">気圧</string>
-    <string name="omnijaws_detail_visibility">Visibility</string>
-    <string name="omnijaws_detail_sunrise_sunset">Sunrise &amp; Sunset</string>
-    <string name="omnijaws_detail_dew_point">Dew point</string>
+    <string name="omnijaws_detail_visibility">視程</string>
+    <string name="omnijaws_detail_sunrise_sunset">日の出&amp;日の入</string>
+    <string name="omnijaws_detail_dew_point">露点</string>
     <!-- UV index levels -->
     <string name="omnijaws_uv_level_low">低い</string>
     <string name="omnijaws_uv_level_moderate">中程度</string>
@@ -78,29 +78,29 @@
     <string name="omnijaws_uv_level_very_high">非常に高い</string>
     <string name="omnijaws_uv_level_extreme">最高</string>
     <!-- Visibility levels -->
-    <string name="omnijaws_visibility_level_clear">Clear</string>
-    <string name="omnijaws_visibility_level_good">Good</string>
+    <string name="omnijaws_visibility_level_clear">良好</string>
+    <string name="omnijaws_visibility_level_good">おおむね良好</string>
     <string name="omnijaws_visibility_level_moderate">中程度</string>
-    <string name="omnijaws_visibility_level_poor">Poor</string>
+    <string name="omnijaws_visibility_level_poor">悪い</string>
     <!-- %1$s is the visibility level, e.g. "km · Clear" -->
     <string name="omnijaws_visibility_subtitle">km \u00b7 %1$s</string>
     <!-- Dew point levels -->
-    <string name="omnijaws_dew_point_dry">Dry</string>
-    <string name="omnijaws_dew_point_comfortable">Comfortable</string>
-    <string name="omnijaws_dew_point_slightly_humid">Slightly humid</string>
-    <string name="omnijaws_dew_point_humid">Humid</string>
+    <string name="omnijaws_dew_point_dry">乾燥</string>
+    <string name="omnijaws_dew_point_comfortable">快適</string>
+    <string name="omnijaws_dew_point_slightly_humid">やや蒸し暑い</string>
+    <string name="omnijaws_dew_point_humid">蒸し暑い</string>
     <!-- Pressure unit symbol -->
     <!-- Pressure level descriptors -->
     <string name="omnijaws_pressure_level_low">低い</string>
     <string name="omnijaws_pressure_level_normal">標準</string>
     <string name="omnijaws_pressure_level_high">高い</string>
     <!-- Daylight duration, e.g. "11h 23m". %1$d = hours, %2$d = minutes -->
-    <string name="omnijaws_daylight_duration_format">%1$dh %2$dm</string>
+    <string name="omnijaws_daylight_duration_format">%1$d時%2$d分</string>
     <!-- Service -->
     <string name="omnijaws_service_unkown">気象データがありません</string>
-    <string name="omnijaws_service_waiting">Waiting \u2026</string>
-    <string name="omnijaws_service_init">Waiting\u2026</string>
-    <string name="omnijaws_service_progress">Updating\u2026</string>
+    <string name="omnijaws_service_waiting">待機中\u2026</string>
+    <string name="omnijaws_service_init">待機中\u2026</string>
+    <string name="omnijaws_service_progress">更新中\u2026</string>
     <string name="omnijaws_service_error">気象データの読み込みエラー</string>
     <string name="omnijaws_service_last_update">最終更新:</string>
     <string name="omnijaws_city_unkown">不明</string>
@@ -112,18 +112,18 @@
     <string name="omnijaws_location_city_name">都市の名前</string>
     <!-- Widget -->
     <string name="omnijaws_weather_widget">天気ウィジェット</string>
-    <string name="omnijaws_weather_widget_desc">"Current weather and multi-day forecast"</string>
-    <string name="omnijaws_service_disabled">Service disabled</string>
+    <string name="omnijaws_weather_widget_desc">"今の天気と数日間の予報"</string>
+    <string name="omnijaws_service_disabled">サービスは無効です</string>
     <string name="omnijaws_service_error_long">気象データの読み込みエラー</string>
-    <string name="omnijaws_service_error_location">No location available</string>
-    <string name="omnijaws_service_error_network">No network found</string>
-    <string name="omnijaws_color_theme_title">Theme</string>
-    <string name="omnijaws_theme_follow_widget">Follow widget</string>
-    <string name="omnijaws_theme_follow_app">Follow app</string>
-    <string name="omnijaws_bg_transparency_title">Transparency</string>
-    <string name="omnijaws_trans_semi">Semi-transparent</string>
-    <string name="omnijaws_trans_full">Transparent</string>
-    <string name="omnijaws_trans_solid">Solid</string>
+    <string name="omnijaws_service_error_location">位置情報を取得できません</string>
+    <string name="omnijaws_service_error_network">ネットワークが見つかりません</string>
+    <string name="omnijaws_color_theme_title">テーマ</string>
+    <string name="omnijaws_theme_follow_widget">ウィジェットに合わせる</string>
+    <string name="omnijaws_theme_follow_app">アプリに合わせる</string>
+    <string name="omnijaws_bg_transparency_title">透明度</string>
+    <string name="omnijaws_trans_semi">より半透明</string>
+    <string name="omnijaws_trans_full">透明</string>
+    <string name="omnijaws_trans_solid">塗りつぶし</string>
     <!-- Weather condition description -->
     <string name="omnijaws_weather_0">竜巻</string>
     <string name="omnijaws_weather_1">熱帯暴風雨</string>
@@ -133,9 +133,9 @@
     <string name="omnijaws_weather_5">雨と雪</string>
     <string name="omnijaws_weather_6">雨とみぞれ</string>
     <string name="omnijaws_weather_7">雪とみぞれ</string>
-    <string name="omnijaws_weather_8">Freezing drizzle</string>
+    <string name="omnijaws_weather_8">冷たい霧雨</string>
     <string name="omnijaws_weather_9">小雨</string>
-    <string name="omnijaws_weather_10">Freezing rain</string>
+    <string name="omnijaws_weather_10">冷たい雨</string>
     <string name="omnijaws_weather_11">にわか雨</string>
     <string name="omnijaws_weather_12">にわか雨</string>
     <string name="omnijaws_weather_13">小雪</string>
@@ -144,11 +144,11 @@
     <string name="omnijaws_weather_16">雪</string>
     <string name="omnijaws_weather_17">ひょう</string>
     <string name="omnijaws_weather_18">みぞれ</string>
-    <string name="omnijaws_weather_19">Dust</string>
+    <string name="omnijaws_weather_19">煙たい</string>
     <string name="omnijaws_weather_20">霧</string>
     <string name="omnijaws_weather_21">霞</string>
-    <string name="omnijaws_weather_22">Smoky</string>
-    <string name="omnijaws_weather_23">Blustery</string>
+    <string name="omnijaws_weather_22">煙</string>
+    <string name="omnijaws_weather_23">大荒れ</string>
     <string name="omnijaws_weather_24">強風</string>
     <string name="omnijaws_weather_25">寒冷</string>
     <string name="omnijaws_weather_26">くもり</string>
@@ -161,7 +161,7 @@
     <string name="omnijaws_weather_33">晴れ</string>
     <string name="omnijaws_weather_34">晴れ</string>
     <string name="omnijaws_weather_35">雨とあられ</string>
-    <string name="omnijaws_weather_36">Hot</string>
+    <string name="omnijaws_weather_36">熱</string>
     <string name="omnijaws_weather_37">局地的な雷雨</string>
     <string name="omnijaws_weather_38">所により激しい雷雨</string>
     <string name="omnijaws_weather_39">所によりにわか雨</string>
