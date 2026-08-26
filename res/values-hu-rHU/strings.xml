@@ -10,7 +10,7 @@
     <string name="updater_link_donate">Támogatás</string>
     <string name="updater_link_forum">Fórum</string>
     <string name="updater_build_unofficial">Nem hivatalos</string>
-    <string name="updater_maintainer_by">by <xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g></string>
+    <string name="updater_maintainer_by"><xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g> által</string>
     <!-- OmniJaws -->
     <string name="omnijaws_activity_title">Időjárás</string>
     <!-- Settings -->
@@ -87,47 +87,47 @@
     <!-- Dew point levels -->
     <string name="omnijaws_dew_point_dry">Száraz</string>
     <string name="omnijaws_dew_point_comfortable">Kényelmes</string>
-    <string name="omnijaws_dew_point_slightly_humid">Slightly humid</string>
-    <string name="omnijaws_dew_point_humid">Humid</string>
+    <string name="omnijaws_dew_point_slightly_humid">Enyhén párás</string>
+    <string name="omnijaws_dew_point_humid">Fülledt</string>
     <!-- Pressure unit symbol -->
     <!-- Pressure level descriptors -->
     <string name="omnijaws_pressure_level_low">Gyenge</string>
-    <string name="omnijaws_pressure_level_normal">Normal</string>
+    <string name="omnijaws_pressure_level_normal">Átlagos</string>
     <string name="omnijaws_pressure_level_high">Erős</string>
     <!-- Daylight duration, e.g. "11h 23m". %1$d = hours, %2$d = minutes -->
-    <string name="omnijaws_daylight_duration_format">%1$dh %2$dm</string>
+    <string name="omnijaws_daylight_duration_format">%1$dó %2$dp</string>
     <!-- Service -->
-    <string name="omnijaws_service_unkown">No weather data</string>
-    <string name="omnijaws_service_waiting">Waiting \u2026</string>
-    <string name="omnijaws_service_init">Waiting\u2026</string>
-    <string name="omnijaws_service_progress">Updating\u2026</string>
-    <string name="omnijaws_service_error">Error loading weather data</string>
-    <string name="omnijaws_service_last_update">Last update:</string>
-    <string name="omnijaws_city_unkown">Unknown</string>
+    <string name="omnijaws_service_unkown">Nincsenek időjárásadatok</string>
+    <string name="omnijaws_service_waiting">Várj egy kicsit \u2026</string>
+    <string name="omnijaws_service_init">Várj egy kicsit\u2026</string>
+    <string name="omnijaws_service_progress">Frissítés\u2026</string>
+    <string name="omnijaws_service_error">Hiba az időjárásadatok betöltésekor</string>
+    <string name="omnijaws_service_last_update">Utoljára frissítve:</string>
+    <string name="omnijaws_city_unkown">Ismeretlen</string>
     <string name="omnijaws_detail_header">Időjárás</string>
     <string name="omnijaws_label_default">Időjárás</string>
     <!-- Location -->
-    <string name="omnijaws_location_browse_activity_title">Select location</string>
-    <string name="omnijaws_location_query_hint">Search location</string>
-    <string name="omnijaws_location_city_name">City name</string>
+    <string name="omnijaws_location_browse_activity_title">Hely kiválasztása</string>
+    <string name="omnijaws_location_query_hint">Helyszín keresése</string>
+    <string name="omnijaws_location_city_name">Város neve</string>
     <!-- Widget -->
-    <string name="omnijaws_weather_widget">Weather widget</string>
-    <string name="omnijaws_weather_widget_desc">"Current weather and multi-day forecast"</string>
-    <string name="omnijaws_service_disabled">Service disabled</string>
-    <string name="omnijaws_service_error_long">Error loading weather data</string>
-    <string name="omnijaws_service_error_location">No location available</string>
-    <string name="omnijaws_service_error_network">No network found</string>
-    <string name="omnijaws_color_theme_title">Theme</string>
-    <string name="omnijaws_theme_follow_widget">Follow widget</string>
-    <string name="omnijaws_theme_follow_app">Follow app</string>
-    <string name="omnijaws_bg_transparency_title">Transparency</string>
-    <string name="omnijaws_trans_semi">Semi-transparent</string>
-    <string name="omnijaws_trans_full">Transparent</string>
-    <string name="omnijaws_trans_solid">Solid</string>
+    <string name="omnijaws_weather_widget">Időjárás modul</string>
+    <string name="omnijaws_weather_widget_desc">"Aktuális időjárás és többnapos előrejelzés"</string>
+    <string name="omnijaws_service_disabled">Szolgáltatás letiltva</string>
+    <string name="omnijaws_service_error_long">Hiba az időjárásadatok betöltésekor</string>
+    <string name="omnijaws_service_error_location">Nincs helymeghatározás</string>
+    <string name="omnijaws_service_error_network">Nem található hálózat</string>
+    <string name="omnijaws_color_theme_title">Téma</string>
+    <string name="omnijaws_theme_follow_widget">Modul követése</string>
+    <string name="omnijaws_theme_follow_app">Alkalmazás követése</string>
+    <string name="omnijaws_bg_transparency_title">Átlátszóság</string>
+    <string name="omnijaws_trans_semi">Félig átlátszó</string>
+    <string name="omnijaws_trans_full">Átlátszó</string>
+    <string name="omnijaws_trans_solid">Kitöltött</string>
     <!-- Weather condition description -->
-    <string name="omnijaws_weather_0">Tornado</string>
-    <string name="omnijaws_weather_1">Tropical storm</string>
-    <string name="omnijaws_weather_2">Hurricane</string>
+    <string name="omnijaws_weather_0">Forgószél</string>
+    <string name="omnijaws_weather_1">Trópusi vihar</string>
+    <string name="omnijaws_weather_2">Hurrikán</string>
     <string name="omnijaws_weather_3">Heves zivatarok</string>
     <string name="omnijaws_weather_4">Zivatarok</string>
     <string name="omnijaws_weather_5">Havaseső</string>
@@ -162,16 +162,16 @@
     <string name="omnijaws_weather_34">Derűs</string>
     <string name="omnijaws_weather_35">Havaseső</string>
     <string name="omnijaws_weather_36">Forróság</string>
-    <string name="omnijaws_weather_37">Isolated thunderstorms</string>
-    <string name="omnijaws_weather_38">Scattered thunderstorms</string>
-    <string name="omnijaws_weather_39">Scattered showers</string>
+    <string name="omnijaws_weather_37">Szórványos viharok</string>
+    <string name="omnijaws_weather_38">Elszórt zivatarok</string>
+    <string name="omnijaws_weather_39">Elszórt záporok</string>
     <string name="omnijaws_weather_40">Záporok</string>
     <string name="omnijaws_weather_41">Erős havazás</string>
-    <string name="omnijaws_weather_42">Scattered snow showers</string>
+    <string name="omnijaws_weather_42">Szorványos havazás</string>
     <string name="omnijaws_weather_43">Erős havazás</string>
     <string name="omnijaws_weather_44">Helyenként felhős</string>
-    <string name="omnijaws_weather_45">Thundershowers</string>
+    <string name="omnijaws_weather_45">Vihar esővel</string>
     <string name="omnijaws_weather_46">Hózáporok</string>
-    <string name="omnijaws_weather_47">Isolated thundershowers</string>
+    <string name="omnijaws_weather_47">Szórványos viharok esővel</string>
     <string name="omnijaws_weather_3200">Nem elérhető</string>
 </resources>
