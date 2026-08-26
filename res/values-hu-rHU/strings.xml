@@ -61,32 +61,32 @@
     <string name="omnijaws_forecast_card_title">Többnapos előrejelzés</string>
     <string name="omnijaws_forecast_show_more">Több megjelenítése</string>
     <string name="omnijaws_forecast_show_less">Kevesebb megjelenítése</string>
-    <string name="omnijaws_forecast_today">Today</string>
+    <string name="omnijaws_forecast_today">Ma</string>
     <!-- Detail card titles -->
-    <string name="omnijaws_detail_feels_like">Feels like</string>
-    <string name="omnijaws_detail_uv_index">UV index</string>
-    <string name="omnijaws_detail_humidity">Humidity</string>
-    <string name="omnijaws_detail_wind">Wind</string>
-    <string name="omnijaws_detail_pressure">Pressure</string>
-    <string name="omnijaws_detail_visibility">Visibility</string>
-    <string name="omnijaws_detail_sunrise_sunset">Sunrise &amp; Sunset</string>
-    <string name="omnijaws_detail_dew_point">Dew point</string>
+    <string name="omnijaws_detail_feels_like">Hőérzet</string>
+    <string name="omnijaws_detail_uv_index">UV sugárzás</string>
+    <string name="omnijaws_detail_humidity">Páratartalom</string>
+    <string name="omnijaws_detail_wind">Szél</string>
+    <string name="omnijaws_detail_pressure">Légnyomás</string>
+    <string name="omnijaws_detail_visibility">Láthatóság</string>
+    <string name="omnijaws_detail_sunrise_sunset">Napkelte &amp; napnyugta</string>
+    <string name="omnijaws_detail_dew_point">Harmatpont</string>
     <!-- UV index levels -->
     <string name="omnijaws_uv_level_low">Gyenge</string>
-    <string name="omnijaws_uv_level_moderate">Moderate</string>
+    <string name="omnijaws_uv_level_moderate">Mérsékelt</string>
     <string name="omnijaws_uv_level_high">Erős</string>
-    <string name="omnijaws_uv_level_very_high">Very High</string>
-    <string name="omnijaws_uv_level_extreme">Extreme</string>
+    <string name="omnijaws_uv_level_very_high">Nagyon magas</string>
+    <string name="omnijaws_uv_level_extreme">Extrém</string>
     <!-- Visibility levels -->
-    <string name="omnijaws_visibility_level_clear">Clear</string>
-    <string name="omnijaws_visibility_level_good">Good</string>
-    <string name="omnijaws_visibility_level_moderate">Moderate</string>
-    <string name="omnijaws_visibility_level_poor">Poor</string>
+    <string name="omnijaws_visibility_level_clear">Tiszta idő</string>
+    <string name="omnijaws_visibility_level_good">Jó</string>
+    <string name="omnijaws_visibility_level_moderate">Mérsékelt</string>
+    <string name="omnijaws_visibility_level_poor">Alacsony</string>
     <!-- %1$s is the visibility level, e.g. "km · Clear" -->
     <string name="omnijaws_visibility_subtitle">km \u00b7 %1$s</string>
     <!-- Dew point levels -->
-    <string name="omnijaws_dew_point_dry">Dry</string>
-    <string name="omnijaws_dew_point_comfortable">Comfortable</string>
+    <string name="omnijaws_dew_point_dry">Száraz</string>
+    <string name="omnijaws_dew_point_comfortable">Kényelmes</string>
     <string name="omnijaws_dew_point_slightly_humid">Slightly humid</string>
     <string name="omnijaws_dew_point_humid">Humid</string>
     <!-- Pressure unit symbol -->
