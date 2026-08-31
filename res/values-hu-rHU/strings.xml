@@ -46,7 +46,7 @@
     <string name="omnijaws_owm_key">Egyéni OWM-kulcs</string>
     <string name="omnijaws_pirate_weather_key">Pirate Weather API kulcs</string>
     <string name="omnijaws_provider_disabled">Szolgáltató letiltva</string>
-    <string name="omnijaws_api_key_note">A Pirate Weather működéséhez API-kulcsra van szükség, az OpenWeatherMap-hez pedig egyéni OWM-kulcs ajánlott. A frissítés kikényszerítéséhez és a kulcsok teszteléséhez kattintson az „Utolsó frissítés ideje” mezőre</string>
+    <string name="omnijaws_api_key_note">A Pirate Weather működéséhez API-kulcsra van szükség, az OpenWeatherMap-hez pedig egyéni OWM-kulcs ajánlott. A frissítés kikényszerítéséhez és a kulcsok teszteléséhez kattintson az „Utolsó frissítés időpontja” mezőre</string>
     <string name="omnijaws_api_links_note"><![CDATA[API-kulcsok beszerzése: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a>]]></string>
     <!-- Dashboard -->
     <string name="omnijaws_menu_title">Menü</string>
