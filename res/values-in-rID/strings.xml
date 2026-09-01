@@ -10,7 +10,7 @@
     <string name="updater_link_donate">Donasi</string>
     <string name="updater_link_forum">Forum</string>
     <string name="updater_build_unofficial">Tidak resmi</string>
-    <string name="updater_maintainer_by">by <xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g></string>
+    <string name="updater_maintainer_by">oleh <xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g></string>
     <!-- OmniJaws -->
     <string name="omnijaws_activity_title">Cuaca</string>
     <!-- Settings -->
@@ -47,7 +47,7 @@
     <string name="omnijaws_pirate_weather_key">Kunci API Cuaca Pirate</string>
     <string name="omnijaws_provider_disabled">Layanan di-nonaktifkan</string>
     <string name="omnijaws_api_key_note">Cuaca Pirate memerlukan kunci API agar dapat berfungsi dan kunci OWM Kustom direkomendasikan untuk OpenWeatherMap. Tekan kolom \"Waktu pembaruan terakhir\" untuk memaksa pembaruan dan menguji kunci Anda</string>
-    <string name="omnijaws_api_links_note"><![CDATA[Get API keys: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a>]]></string>
+    <string name="omnijaws_api_links_note"><![CDATA[Dapatkan kunci API: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a>]]></string>
     <!-- Dashboard -->
     <string name="omnijaws_menu_title">Menu</string>
     <string name="omnijaws_update_title">Perbarui</string>
@@ -63,72 +63,72 @@
     <string name="omnijaws_forecast_show_less">Tampilkan lebih sedikit</string>
     <string name="omnijaws_forecast_today">Hari Ini</string>
     <!-- Detail card titles -->
-    <string name="omnijaws_detail_feels_like">Feels like</string>
-    <string name="omnijaws_detail_uv_index">UV index</string>
-    <string name="omnijaws_detail_humidity">Humidity</string>
-    <string name="omnijaws_detail_wind">Wind</string>
-    <string name="omnijaws_detail_pressure">Pressure</string>
-    <string name="omnijaws_detail_visibility">Visibility</string>
-    <string name="omnijaws_detail_sunrise_sunset">Sunrise &amp; Sunset</string>
-    <string name="omnijaws_detail_dew_point">Dew point</string>
+    <string name="omnijaws_detail_feels_like">Terasa seperti</string>
+    <string name="omnijaws_detail_uv_index">Indeks UV</string>
+    <string name="omnijaws_detail_humidity">Kelembaban</string>
+    <string name="omnijaws_detail_wind">Angin</string>
+    <string name="omnijaws_detail_pressure">Tekanan</string>
+    <string name="omnijaws_detail_visibility">Visibilitas</string>
+    <string name="omnijaws_detail_sunrise_sunset">Terbit &amp; terbenam</string>
+    <string name="omnijaws_detail_dew_point">Titik embun</string>
     <!-- UV index levels -->
     <string name="omnijaws_uv_level_low">Rendah</string>
-    <string name="omnijaws_uv_level_moderate">Moderate</string>
+    <string name="omnijaws_uv_level_moderate">Moderat</string>
     <string name="omnijaws_uv_level_high">Tinggi</string>
-    <string name="omnijaws_uv_level_very_high">Very High</string>
-    <string name="omnijaws_uv_level_extreme">Extreme</string>
+    <string name="omnijaws_uv_level_very_high">Sangat tinggi</string>
+    <string name="omnijaws_uv_level_extreme">Ekstrim</string>
     <!-- Visibility levels -->
-    <string name="omnijaws_visibility_level_clear">Clear</string>
-    <string name="omnijaws_visibility_level_good">Good</string>
-    <string name="omnijaws_visibility_level_moderate">Moderate</string>
-    <string name="omnijaws_visibility_level_poor">Poor</string>
+    <string name="omnijaws_visibility_level_clear">Bersih</string>
+    <string name="omnijaws_visibility_level_good">Baik</string>
+    <string name="omnijaws_visibility_level_moderate">Moderat</string>
+    <string name="omnijaws_visibility_level_poor">Buruk</string>
     <!-- %1$s is the visibility level, e.g. "km · Clear" -->
     <string name="omnijaws_visibility_subtitle">km \u00b7 %1$s</string>
     <!-- Dew point levels -->
-    <string name="omnijaws_dew_point_dry">Dry</string>
-    <string name="omnijaws_dew_point_comfortable">Comfortable</string>
-    <string name="omnijaws_dew_point_slightly_humid">Slightly humid</string>
-    <string name="omnijaws_dew_point_humid">Humid</string>
+    <string name="omnijaws_dew_point_dry">Kering</string>
+    <string name="omnijaws_dew_point_comfortable">Longgar</string>
+    <string name="omnijaws_dew_point_slightly_humid">Agak lembap</string>
+    <string name="omnijaws_dew_point_humid">Lembab</string>
     <!-- Pressure unit symbol -->
     <!-- Pressure level descriptors -->
     <string name="omnijaws_pressure_level_low">Rendah</string>
     <string name="omnijaws_pressure_level_normal">Normal</string>
     <string name="omnijaws_pressure_level_high">Tinggi</string>
     <!-- Daylight duration, e.g. "11h 23m". %1$d = hours, %2$d = minutes -->
-    <string name="omnijaws_daylight_duration_format">%1$dh %2$dm</string>
+    <string name="omnijaws_daylight_duration_format">%1$dj %2$dm</string>
     <!-- Service -->
-    <string name="omnijaws_service_unkown">No weather data</string>
-    <string name="omnijaws_service_waiting">Waiting \u2026</string>
-    <string name="omnijaws_service_init">Waiting\u2026</string>
-    <string name="omnijaws_service_progress">Updating\u2026</string>
-    <string name="omnijaws_service_error">Error loading weather data</string>
-    <string name="omnijaws_service_last_update">Last update:</string>
-    <string name="omnijaws_city_unkown">Unknown</string>
+    <string name="omnijaws_service_unkown">Tidak ada data cuaca</string>
+    <string name="omnijaws_service_waiting">Menunggu \u2026</string>
+    <string name="omnijaws_service_init">Menunggu \u2026</string>
+    <string name="omnijaws_service_progress">Memperbarui\u2026</string>
+    <string name="omnijaws_service_error">Kesalahan ketika memuat data cuaca</string>
+    <string name="omnijaws_service_last_update">Pembaruan terakhir:</string>
+    <string name="omnijaws_city_unkown">Tidak diketahui</string>
     <string name="omnijaws_detail_header">Cuaca</string>
     <string name="omnijaws_label_default">Cuaca</string>
     <!-- Location -->
-    <string name="omnijaws_location_browse_activity_title">Select location</string>
-    <string name="omnijaws_location_query_hint">Search location</string>
-    <string name="omnijaws_location_city_name">City name</string>
+    <string name="omnijaws_location_browse_activity_title">Pilih lokasi</string>
+    <string name="omnijaws_location_query_hint">Cari lokasi</string>
+    <string name="omnijaws_location_city_name">Nama Kota</string>
     <!-- Widget -->
-    <string name="omnijaws_weather_widget">Weather widget</string>
-    <string name="omnijaws_weather_widget_desc">"Current weather and multi-day forecast"</string>
+    <string name="omnijaws_weather_widget">Widget cuaca</string>
+    <string name="omnijaws_weather_widget_desc">"Cuaca saat ini dan prakiraan beberapa hari ke depan"</string>
     <string name="omnijaws_service_disabled">Layanan di-nonaktifkan</string>
-    <string name="omnijaws_service_error_long">Error loading weather data</string>
-    <string name="omnijaws_service_error_location">No location available</string>
-    <string name="omnijaws_service_error_network">No network found</string>
-    <string name="omnijaws_color_theme_title">Theme</string>
-    <string name="omnijaws_theme_follow_widget">Follow widget</string>
-    <string name="omnijaws_theme_follow_app">Follow app</string>
-    <string name="omnijaws_bg_transparency_title">Transparency</string>
-    <string name="omnijaws_trans_semi">Semi-transparent</string>
-    <string name="omnijaws_trans_full">Transparent</string>
+    <string name="omnijaws_service_error_long">Kesalahan ketika memuat data cuaca</string>
+    <string name="omnijaws_service_error_location">Tidak ada lokasi yang tersedia</string>
+    <string name="omnijaws_service_error_network">Tidak ada jaringan yang ditemukan</string>
+    <string name="omnijaws_color_theme_title">Tema</string>
+    <string name="omnijaws_theme_follow_widget">Ikuti widget</string>
+    <string name="omnijaws_theme_follow_app">Ikuti aplikasi</string>
+    <string name="omnijaws_bg_transparency_title">Transparansi</string>
+    <string name="omnijaws_trans_semi">Semi-transparan</string>
+    <string name="omnijaws_trans_full">Transparan</string>
     <string name="omnijaws_trans_solid">Solid</string>
     <!-- Weather condition description -->
-    <string name="omnijaws_weather_0">Tornado</string>
-    <string name="omnijaws_weather_1">Tropical storm</string>
-    <string name="omnijaws_weather_2">Hurricane</string>
-    <string name="omnijaws_weather_3">Severe thunderstorms</string>
+    <string name="omnijaws_weather_0">Angin topan</string>
+    <string name="omnijaws_weather_1">Badai tropis</string>
+    <string name="omnijaws_weather_2">Badai</string>
+    <string name="omnijaws_weather_3">Badai Petir Besar</string>
     <string name="omnijaws_weather_4">Badai petir</string>
     <string name="omnijaws_weather_5">Campuran hujan dan salju</string>
     <string name="omnijaws_weather_6">Campuran Hujan dan Hujan Es</string>
@@ -139,39 +139,39 @@
     <string name="omnijaws_weather_11">Hujan ringan</string>
     <string name="omnijaws_weather_12">Hujan ringan</string>
     <string name="omnijaws_weather_13">Hujan salju ringan</string>
-    <string name="omnijaws_weather_14">Light snow showers</string>
-    <string name="omnijaws_weather_15">Blowing snow</string>
-    <string name="omnijaws_weather_16">Snow</string>
-    <string name="omnijaws_weather_17">Hail</string>
-    <string name="omnijaws_weather_18">Sleet</string>
-    <string name="omnijaws_weather_19">Dust</string>
-    <string name="omnijaws_weather_20">Foggy</string>
-    <string name="omnijaws_weather_21">Haze</string>
-    <string name="omnijaws_weather_22">Smoky</string>
-    <string name="omnijaws_weather_23">Blustery</string>
-    <string name="omnijaws_weather_24">Windy</string>
-    <string name="omnijaws_weather_25">Cold</string>
-    <string name="omnijaws_weather_26">Cloudy</string>
-    <string name="omnijaws_weather_27">Mostly cloudy</string>
-    <string name="omnijaws_weather_28">Mostly cloudy</string>
-    <string name="omnijaws_weather_29">Partly cloudy</string>
-    <string name="omnijaws_weather_30">Partly cloudy</string>
-    <string name="omnijaws_weather_31">Clear</string>
-    <string name="omnijaws_weather_32">Sunny</string>
-    <string name="omnijaws_weather_33">Fair</string>
-    <string name="omnijaws_weather_34">Fair</string>
-    <string name="omnijaws_weather_35">Mixed rain and hail</string>
-    <string name="omnijaws_weather_36">Hot</string>
-    <string name="omnijaws_weather_37">Isolated thunderstorms</string>
-    <string name="omnijaws_weather_38">Scattered thunderstorms</string>
-    <string name="omnijaws_weather_39">Scattered showers</string>
-    <string name="omnijaws_weather_40">Rain showers</string>
-    <string name="omnijaws_weather_41">Heavy snow</string>
-    <string name="omnijaws_weather_42">Scattered snow showers</string>
-    <string name="omnijaws_weather_43">Heavy snow</string>
-    <string name="omnijaws_weather_44">Partly cloudy</string>
-    <string name="omnijaws_weather_45">Thundershowers</string>
-    <string name="omnijaws_weather_46">Snow showers</string>
-    <string name="omnijaws_weather_47">Isolated thundershowers</string>
-    <string name="omnijaws_weather_3200">Not available</string>
+    <string name="omnijaws_weather_14">Hujan salju ringan</string>
+    <string name="omnijaws_weather_15">Hembusan Salju</string>
+    <string name="omnijaws_weather_16">Salju</string>
+    <string name="omnijaws_weather_17">Hujan es</string>
+    <string name="omnijaws_weather_18">Hujan es</string>
+    <string name="omnijaws_weather_19">Debu</string>
+    <string name="omnijaws_weather_20">Berkabut</string>
+    <string name="omnijaws_weather_21">Berkabut</string>
+    <string name="omnijaws_weather_22">Berasap</string>
+    <string name="omnijaws_weather_23">Angin kencang</string>
+    <string name="omnijaws_weather_24">Berangin</string>
+    <string name="omnijaws_weather_25">Dingin</string>
+    <string name="omnijaws_weather_26">Berawan</string>
+    <string name="omnijaws_weather_27">Umumnya berawan</string>
+    <string name="omnijaws_weather_28">Umumnya berawan</string>
+    <string name="omnijaws_weather_29">Sebagian berawan</string>
+    <string name="omnijaws_weather_30">Sebagian berawan</string>
+    <string name="omnijaws_weather_31">Bersih</string>
+    <string name="omnijaws_weather_32">Cerah</string>
+    <string name="omnijaws_weather_33">Cerah</string>
+    <string name="omnijaws_weather_34">Cerah</string>
+    <string name="omnijaws_weather_35">Campuran hujan dan salju</string>
+    <string name="omnijaws_weather_36">Panas</string>
+    <string name="omnijaws_weather_37">Terisolasi petir</string>
+    <string name="omnijaws_weather_38">Badai Petir Besar</string>
+    <string name="omnijaws_weather_39">Hujan Gerimis</string>
+    <string name="omnijaws_weather_40">Hujan ringan</string>
+    <string name="omnijaws_weather_41">Salju lebat</string>
+    <string name="omnijaws_weather_42">Hujan Gerimis</string>
+    <string name="omnijaws_weather_43">Salju lebat</string>
+    <string name="omnijaws_weather_44">Sebagian berawan</string>
+    <string name="omnijaws_weather_45">Petir disertai hujan</string>
+    <string name="omnijaws_weather_46">Hujan salju</string>
+    <string name="omnijaws_weather_47">Terisolasi petir</string>
+    <string name="omnijaws_weather_3200">Tidak tersedia</string>
 </resources>
