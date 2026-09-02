@@ -6,7 +6,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- DO NOT TRANSLATE Empty summary for dynamic preferences -->
     <!-- Updater -->
-    <string name="updater_link_telegram">Teelegram</string>
+    <string name="updater_link_telegram">Telegram</string>
     <string name="updater_link_donate">Donasi</string>
     <string name="updater_link_forum">Forum</string>
     <string name="updater_build_unofficial">Tidak resmi</string>
@@ -32,21 +32,21 @@
     <string name="omnijaws_last_update_time">Waktu pembaruan terakhir</string>
     <string name="omnijaws_weather_last_update_never">Jangan pernah</string>
     <string name="omnijaws_custom_location_title">Lokasi khusus</string>
-    <string name="omnijaws_custom_location_summary">Gunakan lokasi yang dipilih secara manual</string>
+    <string name="omnijaws_custom_location_summary">Gunakan lokasi yang dipilih manual</string>
     <string name="omnijaws_weather_custom_location_title">Lokasi</string>
-    <string name="omnijaws_weather_custom_location_missing">Tentukan lokasi khusus</string>
-    <string name="omnijaws_grant_location_permission_title">Berikan izin lokasi</string>
-    <string name="omnijaws_grant_location_permission_summary">Diperlukan untuk penentuan lokasi otomatis</string>
-    <string name="omnijaws_weather_icon_pack_title">Kondisi paket ikon</string>
+    <string name="omnijaws_weather_custom_location_missing">Atur lokasi khusus</string>
+    <string name="omnijaws_grant_location_permission_title">Beri izin lokasi</string>
+    <string name="omnijaws_grant_location_permission_summary">Perlu untuk penentuan lokasi otomatis</string>
+    <string name="omnijaws_weather_icon_pack_title">Paket ikon kondisi</string>
     <string name="omnijaws_icon_theme_title">Tema ikon</string>
-    <string name="omnijaws_theme_system">Ikuti Sistem</string>
+    <string name="omnijaws_theme_system">Ikut Sistem</string>
     <string name="omnijaws_theme_light">Terang</string>
     <string name="omnijaws_theme_dark">Gelap</string>
     <!-- OWM / Pirate Weather API -->
-    <string name="omnijaws_owm_key">Kunci OWM kustom</string>
-    <string name="omnijaws_pirate_weather_key">Kunci API Cuaca Pirate</string>
+    <string name="omnijaws_owm_key">Kunci OWM khusus</string>
+    <string name="omnijaws_pirate_weather_key">Kunci API Pirate Weather</string>
     <string name="omnijaws_provider_disabled">Layanan di-nonaktifkan</string>
-    <string name="omnijaws_api_key_note">Cuaca Pirate memerlukan kunci API agar dapat berfungsi dan kunci OWM Kustom direkomendasikan untuk OpenWeatherMap. Tekan kolom \"Waktu pembaruan terakhir\" untuk memaksa pembaruan dan menguji kunci Anda</string>
+    <string name="omnijaws_api_key_note">Pirate Weather perlu diberi kunci API agar dapat berfungsi dan kunci OWM Khusus yang direkomendasikan untuk OpenWeatherMap. Tekan kolom \"Waktu pembaruan terakhir\" untuk memaksa pembaruan dan menguji kunci Anda</string>
     <string name="omnijaws_api_links_note"><![CDATA[Dapatkan kunci API: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a>]]></string>
     <!-- Dashboard -->
     <string name="omnijaws_menu_title">Menu</string>
