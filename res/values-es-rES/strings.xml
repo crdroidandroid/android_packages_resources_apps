@@ -82,8 +82,6 @@
     <string name="omnijaws_visibility_level_good">Bueno</string>
     <string name="omnijaws_visibility_level_moderate">Moderado</string>
     <string name="omnijaws_visibility_level_poor">Escaso</string>
-    <!-- %1$s is the visibility level, e.g. "km · Clear" -->
-    <string name="omnijaws_visibility_subtitle">km \u00b7 %1$s</string>
     <!-- Dew point levels -->
     <string name="omnijaws_dew_point_dry">Seco</string>
     <string name="omnijaws_dew_point_comfortable">Normal</string>
