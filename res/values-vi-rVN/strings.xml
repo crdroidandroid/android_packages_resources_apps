@@ -82,8 +82,6 @@
     <string name="omnijaws_visibility_level_good">Tốt</string>
     <string name="omnijaws_visibility_level_moderate">Vừa phải</string>
     <string name="omnijaws_visibility_level_poor">Yếu</string>
-    <!-- %1$s is the visibility level, e.g. "km · Clear" -->
-    <string name="omnijaws_visibility_subtitle">km \u00b7 %1$s</string>
     <!-- Dew point levels -->
     <string name="omnijaws_dew_point_dry">Khô</string>
     <string name="omnijaws_dew_point_comfortable">Thoải mái</string>
@@ -174,4 +172,13 @@
     <string name="omnijaws_weather_46">Mưa tuyết</string>
     <string name="omnijaws_weather_47">Mưa bão riêng lẻ</string>
     <string name="omnijaws_weather_3200">Không khả dụng</string>
+    <!-- HourlyForecastCard: label for the current hour column -->
+    <string name="omnijaws_hourly_now">Bây giờ</string>
+    <!-- DetailCards: visibility units -->
+    <string name="omnijaws_unit_km">km</string>
+    <string name="omnijaws_unit_mi">dặm</string>
+    <!-- WeatherDashboardScreen: specific failure reasons -->
+    <string name="omnijaws_error_network">Không thể liên lạc được với dịch vụ thời tiết</string>
+    <string name="omnijaws_error_location">Vị trí của bạn không khả dụng</string>
+    <string name="omnijaws_error_disabled">Dịch vụ dự báo thời tiết đã bị tắt</string>
 </resources>
