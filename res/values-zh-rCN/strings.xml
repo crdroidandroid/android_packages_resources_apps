@@ -180,5 +180,5 @@
     <!-- WeatherDashboardScreen: specific failure reasons -->
     <string name="omnijaws_error_network">Could not reach the weather service</string>
     <string name="omnijaws_error_location">Your location is not available</string>
-    <string name="omnijaws_error_disabled">The weather service is turned off</string>
+    <string name="omnijaws_error_disabled">天气服务已关闭</string>
 </resources>
