@@ -173,12 +173,12 @@
     <string name="omnijaws_weather_47">局部雷阵雨</string>
     <string name="omnijaws_weather_3200">暂不可用</string>
     <!-- HourlyForecastCard: label for the current hour column -->
-    <string name="omnijaws_hourly_now">Now</string>
+    <string name="omnijaws_hourly_now">当前</string>
     <!-- DetailCards: visibility units -->
-    <string name="omnijaws_unit_km">km</string>
-    <string name="omnijaws_unit_mi">mi</string>
+    <string name="omnijaws_unit_km">千米</string>
+    <string name="omnijaws_unit_mi">英里</string>
     <!-- WeatherDashboardScreen: specific failure reasons -->
-    <string name="omnijaws_error_network">Could not reach the weather service</string>
-    <string name="omnijaws_error_location">Your location is not available</string>
+    <string name="omnijaws_error_network">无法连接天气服务</string>
+    <string name="omnijaws_error_location">无法获取位置信息</string>
     <string name="omnijaws_error_disabled">天气服务已关闭</string>
 </resources>
