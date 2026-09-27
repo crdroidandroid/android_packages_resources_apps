@@ -173,12 +173,12 @@
     <string name="omnijaws_weather_47">Terisolasi petir</string>
     <string name="omnijaws_weather_3200">Tidak tersedia</string>
     <!-- HourlyForecastCard: label for the current hour column -->
-    <string name="omnijaws_hourly_now">Now</string>
+    <string name="omnijaws_hourly_now">Sekarang</string>
     <!-- DetailCards: visibility units -->
     <string name="omnijaws_unit_km">km</string>
-    <string name="omnijaws_unit_mi">mi</string>
+    <string name="omnijaws_unit_mi">mil</string>
     <!-- WeatherDashboardScreen: specific failure reasons -->
-    <string name="omnijaws_error_network">Could not reach the weather service</string>
-    <string name="omnijaws_error_location">Your location is not available</string>
-    <string name="omnijaws_error_disabled">The weather service is turned off</string>
+    <string name="omnijaws_error_network">Gagal terhubung ke layanan cuaca</string>
+    <string name="omnijaws_error_location">Lokasi tidak tersedia</string>
+    <string name="omnijaws_error_disabled">Layanan cuaca dinonaktifkan</string>
 </resources>
