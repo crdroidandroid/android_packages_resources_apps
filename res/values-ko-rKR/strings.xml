@@ -39,15 +39,15 @@
     <string name="omnijaws_grant_location_permission_summary">자동 위치 확인에 필요</string>
     <string name="omnijaws_weather_icon_pack_title">날씨 상태 아이콘 팩</string>
     <string name="omnijaws_icon_theme_title">아이콘 테마</string>
-    <string name="omnijaws_theme_system">시스템 설정 따르기</string>
+    <string name="omnijaws_theme_system">Follow system</string>
     <string name="omnijaws_theme_light">밝은 테마</string>
     <string name="omnijaws_theme_dark">어두운 테마</string>
-    <!-- OWM / Pirate Weather API -->
+    <!-- OWM / Pirate Weather / Visual Crossing API -->
     <string name="omnijaws_owm_key">사용자 지정 OWM 키</string>
     <string name="omnijaws_pirate_weather_key">Pirate Weather API 키</string>
     <string name="omnijaws_provider_disabled">제공업체 비활성화됨</string>
-    <string name="omnijaws_api_key_note">Pirate Weather를 사용하려면 API 키가 필요하며, OpenWeatherMap에는 사용자 지정 OWM 키를 사용하는 것이 좋습니다. \"마지막 업데이트 시간\" 필드를 눌러 키를 강제로 업데이트하고 테스트하세요</string>
-    <string name="omnijaws_api_links_note"><![CDATA[API 키를 받으세요: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a>]]></string>
+    <string name="omnijaws_api_key_note">Pirate Weather and Visual Crossing need an API key to work, and a custom OWM key is recommended for OpenWeatherMap. Tap \"Last update time\" to force an update and test your key.</string>
+    <string name="omnijaws_api_links_note"><![CDATA[Get API keys: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a> | <a href="https://www.visualcrossing.com/">Visual Crossing</a>]]></string>
     <!-- Dashboard -->
     <string name="omnijaws_menu_title">메뉴</string>
     <string name="omnijaws_update_title">업데이트</string>
@@ -181,4 +181,14 @@
     <string name="omnijaws_error_network">Could not reach the weather service</string>
     <string name="omnijaws_error_location">Your location is not available</string>
     <string name="omnijaws_error_disabled">The weather service is turned off</string>
+    <string name="omnijaws_error_location_services_off">Location is turned off</string>
+    <string name="omnijaws_error_location_services_off_summary">Turn on location to see the weather where you are, or pick a location manually</string>
+    <string name="omnijaws_error_location_permission">Location access is needed</string>
+    <string name="omnijaws_error_location_permission_summary">Allow location access to see the weather where you are, or pick a location manually</string>
+    <string name="omnijaws_action_open_location_settings">Open location settings</string>
+    <string name="omnijaws_action_grant_location_permission">Allow location access</string>
+    <string name="omnijaws_action_pick_location">Pick a location manually</string>
+    <string name="omnijaws_error_custom_location_missing">No location selected</string>
+    <string name="omnijaws_error_custom_location_missing_summary">Choose a location to see its weather, or turn off custom location in settings</string>
+    <string name="omnijaws_action_choose_location">Choose location</string>
 </resources>
