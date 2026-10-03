@@ -39,15 +39,15 @@
     <string name="omnijaws_grant_location_permission_summary">Cần thiết để sự dụng vị trí tự động</string>
     <string name="omnijaws_weather_icon_pack_title">Gói biểu tượng tình trạng</string>
     <string name="omnijaws_icon_theme_title">Chủ đề biểu tượng</string>
-    <string name="omnijaws_theme_system">Mặc định hệ thống</string>
+    <string name="omnijaws_theme_system">Follow system</string>
     <string name="omnijaws_theme_light">Sáng</string>
     <string name="omnijaws_theme_dark">Tối</string>
-    <!-- OWM / Pirate Weather API -->
+    <!-- OWM / Pirate Weather / Visual Crossing API -->
     <string name="omnijaws_owm_key">Khóa OWM tùy chỉnh</string>
     <string name="omnijaws_pirate_weather_key">Khoá API Pirate Weather</string>
     <string name="omnijaws_provider_disabled">Dịch vụ nhà cung cấp thời tiết đã bị tắt</string>
-    <string name="omnijaws_api_key_note">Pirate Weather cần có khóa API để hoạt động và khuyến khích sử dụng khóa OWM tùy chỉnh cho OpenWeatherMap. Nhấn vào mục \"Thời gian cập nhật lần cuối\" để bắt buộc cập nhật và kiểm tra các khóa của bạn</string>
-    <string name="omnijaws_api_links_note"><![CDATA[Lấy các khoá API: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeather Map</a>]]></string>
+    <string name="omnijaws_api_key_note">Pirate Weather and Visual Crossing need an API key to work, and a custom OWM key is recommended for OpenWeatherMap. Tap \"Last update time\" to force an update and test your key.</string>
+    <string name="omnijaws_api_links_note"><![CDATA[Get API keys: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a> | <a href="https://www.visualcrossing.com/">Visual Crossing</a>]]></string>
     <!-- Dashboard -->
     <string name="omnijaws_menu_title">Bảng chọn</string>
     <string name="omnijaws_update_title">Cập nhật</string>
@@ -181,4 +181,14 @@
     <string name="omnijaws_error_network">Không thể liên lạc được với dịch vụ thời tiết</string>
     <string name="omnijaws_error_location">Vị trí của bạn không khả dụng</string>
     <string name="omnijaws_error_disabled">Dịch vụ dự báo thời tiết đã bị tắt</string>
+    <string name="omnijaws_error_location_services_off">Location is turned off</string>
+    <string name="omnijaws_error_location_services_off_summary">Turn on location to see the weather where you are, or pick a location manually</string>
+    <string name="omnijaws_error_location_permission">Location access is needed</string>
+    <string name="omnijaws_error_location_permission_summary">Allow location access to see the weather where you are, or pick a location manually</string>
+    <string name="omnijaws_action_open_location_settings">Open location settings</string>
+    <string name="omnijaws_action_grant_location_permission">Allow location access</string>
+    <string name="omnijaws_action_pick_location">Pick a location manually</string>
+    <string name="omnijaws_error_custom_location_missing">No location selected</string>
+    <string name="omnijaws_error_custom_location_missing_summary">Choose a location to see its weather, or turn off custom location in settings</string>
+    <string name="omnijaws_action_choose_location">Choose location</string>
 </resources>
