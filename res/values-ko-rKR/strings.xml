@@ -37,6 +37,8 @@
     <string name="omnijaws_weather_custom_location_missing">사용자 지정 위치 설정</string>
     <string name="omnijaws_grant_location_permission_title">위치 권한 허용</string>
     <string name="omnijaws_grant_location_permission_summary">자동 위치 확인에 필요</string>
+    <string name="omnijaws_grant_background_location_title">Allow location all the time</string>
+    <string name="omnijaws_grant_background_location_summary">Needed to keep the widget and lock screen weather updated in the background</string>
     <string name="omnijaws_weather_icon_pack_title">날씨 상태 아이콘 팩</string>
     <string name="omnijaws_icon_theme_title">아이콘 테마</string>
     <string name="omnijaws_theme_system">Follow system</string>
