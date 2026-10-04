@@ -37,6 +37,8 @@
     <string name="omnijaws_weather_custom_location_missing">Đặt vị trí tùy chỉnh</string>
     <string name="omnijaws_grant_location_permission_title">Cấp quyền vị trí</string>
     <string name="omnijaws_grant_location_permission_summary">Cần thiết để sự dụng vị trí tự động</string>
+    <string name="omnijaws_grant_background_location_title">Allow location all the time</string>
+    <string name="omnijaws_grant_background_location_summary">Needed to keep the widget and lock screen weather updated in the background</string>
     <string name="omnijaws_weather_icon_pack_title">Gói biểu tượng tình trạng</string>
     <string name="omnijaws_icon_theme_title">Chủ đề biểu tượng</string>
     <string name="omnijaws_theme_system">Follow system</string>
