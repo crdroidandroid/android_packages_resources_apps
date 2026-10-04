@@ -37,6 +37,8 @@
     <string name="omnijaws_weather_custom_location_missing">カスタムの場所を設定する</string>
     <string name="omnijaws_grant_location_permission_title">位置情報アクセスをオンにする</string>
     <string name="omnijaws_grant_location_permission_summary">自動位置情報に必要です</string>
+    <string name="omnijaws_grant_background_location_title">Allow location all the time</string>
+    <string name="omnijaws_grant_background_location_summary">Needed to keep the widget and lock screen weather updated in the background</string>
     <string name="omnijaws_weather_icon_pack_title">天候のアイコンパック</string>
     <string name="omnijaws_icon_theme_title">アイコンテーマ</string>
     <string name="omnijaws_theme_system">Follow system</string>
