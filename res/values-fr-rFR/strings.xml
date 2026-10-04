@@ -37,6 +37,8 @@
     <string name="omnijaws_weather_custom_location_missing">Définir un emplacement personnalisé</string>
     <string name="omnijaws_grant_location_permission_title">Autoriser l\'accès à la localisation</string>
     <string name="omnijaws_grant_location_permission_summary">Requis pour la localisation automatique</string>
+    <string name="omnijaws_grant_background_location_title">Allow location all the time</string>
+    <string name="omnijaws_grant_background_location_summary">Needed to keep the widget and lock screen weather updated in the background</string>
     <string name="omnijaws_weather_icon_pack_title">Pack d\'icônes d\'état</string>
     <string name="omnijaws_icon_theme_title">Thème d\'icônes</string>
     <string name="omnijaws_theme_system">Follow system</string>
