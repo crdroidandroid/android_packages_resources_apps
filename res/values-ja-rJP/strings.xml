@@ -113,6 +113,8 @@
     <!-- Widget -->
     <string name="omnijaws_weather_widget">天気ウィジェット</string>
     <string name="omnijaws_weather_widget_desc">"今の天気と数日間の予報"</string>
+    <string name="omnijaws_weather_pebble_widget">Weather pebble</string>
+    <string name="omnijaws_weather_pebble_widget_desc">Current temperature and condition</string>
     <string name="omnijaws_service_disabled">サービスは無効です</string>
     <string name="omnijaws_service_error_long">気象データの読み込みエラー</string>
     <string name="omnijaws_service_error_location">位置情報を取得できません</string>
