@@ -113,6 +113,8 @@
     <!-- Widget -->
     <string name="omnijaws_weather_widget">Widget cuaca</string>
     <string name="omnijaws_weather_widget_desc">"Cuaca saat ini dan prakiraan beberapa hari ke depan"</string>
+    <string name="omnijaws_weather_pebble_widget">Weather pebble</string>
+    <string name="omnijaws_weather_pebble_widget_desc">Current temperature and condition</string>
     <string name="omnijaws_service_disabled">Layanan di-nonaktifkan</string>
     <string name="omnijaws_service_error_long">Kesalahan ketika memuat data cuaca</string>
     <string name="omnijaws_service_error_location">Tidak ada lokasi yang tersedia</string>
