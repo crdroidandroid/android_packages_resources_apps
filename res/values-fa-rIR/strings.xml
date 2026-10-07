@@ -113,6 +113,8 @@
     <!-- Widget -->
     <string name="omnijaws_weather_widget">ویجت هواشناسی</string>
     <string name="omnijaws_weather_widget_desc">"وضعیت هوای الان و پیش‌بینی چند روز آینده"</string>
+    <string name="omnijaws_weather_pebble_widget">Weather pebble</string>
+    <string name="omnijaws_weather_pebble_widget_desc">Current temperature and condition</string>
     <string name="omnijaws_service_disabled">سرویس غیرفعال</string>
     <string name="omnijaws_service_error_long">خطا در بارگذاری اطلاعات هواشناسی</string>
     <string name="omnijaws_service_error_location">هیچ مکانی در دسترس نیست</string>
