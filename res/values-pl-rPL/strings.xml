@@ -113,6 +113,8 @@
     <!-- Widget -->
     <string name="omnijaws_weather_widget">Widżet pogody</string>
     <string name="omnijaws_weather_widget_desc">"Bieżąca pogoda i wielodniowa prognoza"</string>
+    <string name="omnijaws_weather_pebble_widget">Weather pebble</string>
+    <string name="omnijaws_weather_pebble_widget_desc">Current temperature and condition</string>
     <string name="omnijaws_service_disabled">Usługa wyłączona</string>
     <string name="omnijaws_service_error_long">Błąd ładowania danych o pogodzie</string>
     <string name="omnijaws_service_error_location">Brak dostępnej lokalizacji</string>
