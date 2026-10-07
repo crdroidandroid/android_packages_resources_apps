@@ -113,8 +113,8 @@
     <!-- Widget -->
     <string name="omnijaws_weather_widget">Widget del tiempo</string>
     <string name="omnijaws_weather_widget_desc">"Clima actual y pronóstico extendido"</string>
-    <string name="omnijaws_weather_pebble_widget">Weather pebble</string>
-    <string name="omnijaws_weather_pebble_widget_desc">Current temperature and condition</string>
+    <string name="omnijaws_weather_pebble_widget">Indicador del clima</string>
+    <string name="omnijaws_weather_pebble_widget_desc">Temperatura y estado actuales</string>
     <string name="omnijaws_service_disabled">Servicio deshabilitado</string>
     <string name="omnijaws_service_error_long">Error al cargar los datos del clima</string>
     <string name="omnijaws_service_error_location">Sin ubicación disponible</string>
