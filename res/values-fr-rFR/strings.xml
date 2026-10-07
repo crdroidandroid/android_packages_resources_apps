@@ -113,6 +113,8 @@
     <!-- Widget -->
     <string name="omnijaws_weather_widget">Widget météo</string>
     <string name="omnijaws_weather_widget_desc">"Météo actuelle et prévisions sur plusieurs jours"</string>
+    <string name="omnijaws_weather_pebble_widget">Weather pebble</string>
+    <string name="omnijaws_weather_pebble_widget_desc">Current temperature and condition</string>
     <string name="omnijaws_service_disabled">Service désactivé</string>
     <string name="omnijaws_service_error_long">Erreur lors du chargement des données météo</string>
     <string name="omnijaws_service_error_location">Aucun emplacement disponible</string>
