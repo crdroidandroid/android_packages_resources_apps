@@ -113,6 +113,8 @@
     <!-- Widget -->
     <string name="omnijaws_weather_widget">Widget thời tiết</string>
     <string name="omnijaws_weather_widget_desc">"Thời tiết và dự báo nhiều ngày"</string>
+    <string name="omnijaws_weather_pebble_widget">Weather pebble</string>
+    <string name="omnijaws_weather_pebble_widget_desc">Current temperature and condition</string>
     <string name="omnijaws_service_disabled">Dịch vụ bị vô hiệu hóa</string>
     <string name="omnijaws_service_error_long">Lỗi khi tải dữ liệu thời tiết</string>
     <string name="omnijaws_service_error_location">Không có vị trí có sẵn</string>
