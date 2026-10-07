@@ -37,19 +37,19 @@
     <string name="omnijaws_weather_custom_location_missing">Establecer ubicación personalizada</string>
     <string name="omnijaws_grant_location_permission_title">Otorgar permisos de ubicación</string>
     <string name="omnijaws_grant_location_permission_summary">Requerido para ubicación automática</string>
-    <string name="omnijaws_grant_background_location_title">Allow location all the time</string>
-    <string name="omnijaws_grant_background_location_summary">Needed to keep the widget and lock screen weather updated in the background</string>
+    <string name="omnijaws_grant_background_location_title">Permitir el acceso a la ubicación todo el tiempo</string>
+    <string name="omnijaws_grant_background_location_summary">Necesario para mantener actualizado en segundo plano el clima del widget y de la pantalla de bloqueo</string>
     <string name="omnijaws_weather_icon_pack_title">Paquete de iconos de clima</string>
     <string name="omnijaws_icon_theme_title">Tema del icono</string>
-    <string name="omnijaws_theme_system">Follow system</string>
+    <string name="omnijaws_theme_system">Seguir configuración del sistema</string>
     <string name="omnijaws_theme_light">Claro</string>
     <string name="omnijaws_theme_dark">Oscuro</string>
     <!-- OWM / Pirate Weather / Visual Crossing API -->
     <string name="omnijaws_owm_key">Código OWM personalizado</string>
     <string name="omnijaws_pirate_weather_key">Código API de Pirate Weather</string>
     <string name="omnijaws_provider_disabled">Proveedor deshabilitado</string>
-    <string name="omnijaws_api_key_note">Pirate Weather and Visual Crossing need an API key to work, and a custom OWM key is recommended for OpenWeatherMap. Tap \"Last update time\" to force an update and test your key.</string>
-    <string name="omnijaws_api_links_note"><![CDATA[Get API keys: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a> | <a href="https://www.visualcrossing.com/">Visual Crossing</a>]]></string>
+    <string name="omnijaws_api_key_note">Pirate Weather y Visual Crossing necesitan una clave de API para funcionar, y se recomienda utilizar una clave personalizada de OWM para OpenWeatherMap. Toca \"Hora de la última actualización\" para forzar una actualización y comprobar tu clave.</string>
+    <string name="omnijaws_api_links_note"><![CDATA[Obtener claves de API: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a> | <a href="https://www.visualcrossing.com/">Visual Crossing</a>]]></string>
     <!-- Dashboard -->
     <string name="omnijaws_menu_title">Menú</string>
     <string name="omnijaws_update_title">Actualizar</string>
@@ -183,16 +183,16 @@
     <string name="omnijaws_error_network">No se pudo contactar con el servicio del clima</string>
     <string name="omnijaws_error_location">Su ubicación no está disponible</string>
     <string name="omnijaws_error_disabled">El servicio del clima está desactivado</string>
-    <string name="omnijaws_error_location_services_off">Location is turned off</string>
-    <string name="omnijaws_error_location_services_off_summary">Turn on location to see the weather where you are, or pick a location manually</string>
-    <string name="omnijaws_error_location_permission">Location access is needed</string>
-    <string name="omnijaws_error_location_permission_summary">Allow location access to see the weather where you are, or pick a location manually</string>
-    <string name="omnijaws_action_open_location_settings">Open location settings</string>
-    <string name="omnijaws_action_grant_location_permission">Allow location access</string>
-    <string name="omnijaws_action_pick_location">Pick a location manually</string>
-    <string name="omnijaws_error_custom_location_missing">No location selected</string>
-    <string name="omnijaws_error_custom_location_missing_summary">Choose a location to see its weather, or turn off custom location in settings</string>
-    <string name="omnijaws_action_choose_location">Choose location</string>
-    <string name="omnijaws_error_api_key_missing">An API key is needed</string>
-    <string name="omnijaws_error_api_key_missing_summary">The selected weather provider needs an API key. Add one in Settings or choose another provider.</string>
+    <string name="omnijaws_error_location_services_off">La ubicación está desactivada</string>
+    <string name="omnijaws_error_location_services_off_summary">Activa la ubicación para ver el clima donde se encuentra, o elegir una ubicación manualmente</string>
+    <string name="omnijaws_error_location_permission">Se necesita acceso a la ubicación</string>
+    <string name="omnijaws_error_location_permission_summary">Permitir el acceso a la ubicación para ver el clima donde se encuentra, o elegir una ubicación manualmente</string>
+    <string name="omnijaws_action_open_location_settings">Abrir configuración de ubicación</string>
+    <string name="omnijaws_action_grant_location_permission">Permitir acceso a la ubicación</string>
+    <string name="omnijaws_action_pick_location">Seleccionar una ubicación manualmente</string>
+    <string name="omnijaws_error_custom_location_missing">No se ha seleccionado ninguna ubicación</string>
+    <string name="omnijaws_error_custom_location_missing_summary">Seleccione una ubicación para ver su clima o desactive la ubicación personalizada en la configuración</string>
+    <string name="omnijaws_action_choose_location">Elegir la ubicación</string>
+    <string name="omnijaws_error_api_key_missing">Se necesita una clave de API</string>
+    <string name="omnijaws_error_api_key_missing_summary">El proveedor de clima seleccionado necesita una clave de API. Añada una en Configuración o elija otro proveedor.</string>
 </resources>
