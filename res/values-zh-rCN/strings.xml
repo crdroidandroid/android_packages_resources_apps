@@ -113,6 +113,8 @@
     <!-- Widget -->
     <string name="omnijaws_weather_widget">天气小部件</string>
     <string name="omnijaws_weather_widget_desc">"实时天气与多日预报"</string>
+    <string name="omnijaws_weather_pebble_widget">Weather pebble</string>
+    <string name="omnijaws_weather_pebble_widget_desc">Current temperature and condition</string>
     <string name="omnijaws_service_disabled">服务已禁用</string>
     <string name="omnijaws_service_error_long">加载天气数据失败</string>
     <string name="omnijaws_service_error_location">暂无可用位置信息</string>
