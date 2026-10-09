@@ -37,19 +37,19 @@
     <string name="omnijaws_weather_custom_location_missing">Définir un emplacement personnalisé</string>
     <string name="omnijaws_grant_location_permission_title">Autoriser l\'accès à la localisation</string>
     <string name="omnijaws_grant_location_permission_summary">Requis pour la localisation automatique</string>
-    <string name="omnijaws_grant_background_location_title">Allow location all the time</string>
-    <string name="omnijaws_grant_background_location_summary">Needed to keep the widget and lock screen weather updated in the background</string>
+    <string name="omnijaws_grant_background_location_title">Activer la localisation tout le temps</string>
+    <string name="omnijaws_grant_background_location_summary">Nécessaire pour garder le widget et la météo de l\'écran de verrouillage à jour en arrière-plan</string>
     <string name="omnijaws_weather_icon_pack_title">Pack d\'icônes d\'état</string>
     <string name="omnijaws_icon_theme_title">Thème d\'icônes</string>
-    <string name="omnijaws_theme_system">Follow system</string>
+    <string name="omnijaws_theme_system">Suivre le système</string>
     <string name="omnijaws_theme_light">Clair</string>
     <string name="omnijaws_theme_dark">Sombre</string>
     <!-- OWM / Pirate Weather / Visual Crossing API -->
     <string name="omnijaws_owm_key">Clé OWM personnalisée</string>
     <string name="omnijaws_pirate_weather_key">Clé api Pirate Weather</string>
     <string name="omnijaws_provider_disabled">Fournisseur désactivé</string>
-    <string name="omnijaws_api_key_note">Pirate Weather and Visual Crossing need an API key to work, and a custom OWM key is recommended for OpenWeatherMap. Tap \"Last update time\" to force an update and test your key.</string>
-    <string name="omnijaws_api_links_note"><![CDATA[Get API keys: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a> | <a href="https://www.visualcrossing.com/">Visual Crossing</a>]]></string>
+    <string name="omnijaws_api_key_note">Pirate Weather et Visual Crossing ont besoin d\'une clé d\'API pour fonctionner, et une clé OWM personnalisée est recommandée pour OpenWeatherMap. Cliquez sur \"Date de la dernière mise à jour\" pour forcer une mise à jour et tester votre clé.</string>
+    <string name="omnijaws_api_links_note"><![CDATA[Obtenir une clé d'API : <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a> | <a href="https://www.visualcrossing.com/">Visual Crossing</a>]]></string>
     <!-- Dashboard -->
     <string name="omnijaws_menu_title">Menu</string>
     <string name="omnijaws_update_title">Mise à jour</string>
@@ -113,6 +113,8 @@
     <!-- Widget -->
     <string name="omnijaws_weather_widget">Widget météo</string>
     <string name="omnijaws_weather_widget_desc">"Météo actuelle et prévisions sur plusieurs jours"</string>
+    <string name="omnijaws_weather_pebble_widget">Weather pebble</string>
+    <string name="omnijaws_weather_pebble_widget_desc">Current temperature and condition</string>
     <string name="omnijaws_service_disabled">Service désactivé</string>
     <string name="omnijaws_service_error_long">Erreur lors du chargement des données météo</string>
     <string name="omnijaws_service_error_location">Aucun emplacement disponible</string>
@@ -175,22 +177,24 @@
     <string name="omnijaws_weather_47">Averses orageuses isolées</string>
     <string name="omnijaws_weather_3200">Pas disponible</string>
     <!-- HourlyForecastCard: label for the current hour column -->
-    <string name="omnijaws_hourly_now">Now</string>
+    <string name="omnijaws_hourly_now">Maintenant</string>
     <!-- DetailCards: visibility units -->
-    <string name="omnijaws_unit_km">km</string>
-    <string name="omnijaws_unit_mi">mi</string>
+    <string name="omnijaws_unit_km">Km</string>
+    <string name="omnijaws_unit_mi">Miles</string>
     <!-- WeatherDashboardScreen: specific failure reasons -->
-    <string name="omnijaws_error_network">Could not reach the weather service</string>
-    <string name="omnijaws_error_location">Your location is not available</string>
-    <string name="omnijaws_error_disabled">The weather service is turned off</string>
-    <string name="omnijaws_error_location_services_off">Location is turned off</string>
-    <string name="omnijaws_error_location_services_off_summary">Turn on location to see the weather where you are, or pick a location manually</string>
-    <string name="omnijaws_error_location_permission">Location access is needed</string>
-    <string name="omnijaws_error_location_permission_summary">Allow location access to see the weather where you are, or pick a location manually</string>
-    <string name="omnijaws_action_open_location_settings">Open location settings</string>
-    <string name="omnijaws_action_grant_location_permission">Allow location access</string>
-    <string name="omnijaws_action_pick_location">Pick a location manually</string>
-    <string name="omnijaws_error_custom_location_missing">No location selected</string>
-    <string name="omnijaws_error_custom_location_missing_summary">Choose a location to see its weather, or turn off custom location in settings</string>
-    <string name="omnijaws_action_choose_location">Choose location</string>
+    <string name="omnijaws_error_network">Impossible d\'atteindre le service météo</string>
+    <string name="omnijaws_error_location">Votre localisation n\'est pas disponible</string>
+    <string name="omnijaws_error_disabled">Le service météo est désactivé</string>
+    <string name="omnijaws_error_location_services_off">La localisation est désactivée</string>
+    <string name="omnijaws_error_location_services_off_summary">Activez la localisation pour voir la météo de là où vous êtes, ou choisissez un emplacement</string>
+    <string name="omnijaws_error_location_permission">L\'appli à besoin d\'accéder à votre localisation</string>
+    <string name="omnijaws_error_location_permission_summary">Activez la localisation pour voir la météo de là où vous êtes, ou choisissez un emplacement</string>
+    <string name="omnijaws_action_open_location_settings">Ouvrir les paramètres de localisation</string>
+    <string name="omnijaws_action_grant_location_permission">Autoriser l\'accès à la localisation</string>
+    <string name="omnijaws_action_pick_location">Choisir une localisation manuellement</string>
+    <string name="omnijaws_error_custom_location_missing">Aucun emplacement sélectionné</string>
+    <string name="omnijaws_error_custom_location_missing_summary">Choisissez un endroit pour voir sa météo, ou désactivez l\'emplacement personnalisé dans les paramètres</string>
+    <string name="omnijaws_action_choose_location">Choisissez un emplacement</string>
+    <string name="omnijaws_error_api_key_missing">Une clé d\'API est nécessaire</string>
+    <string name="omnijaws_error_api_key_missing_summary">Le service de météo sélectionné a besoin d\'une clé d\'API. Ajoutez-en une dans les paramètres ou sélectionnez un autre fournisseur</string>
 </resources>

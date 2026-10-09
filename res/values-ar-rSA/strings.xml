@@ -113,6 +113,8 @@
     <!-- Widget -->
     <string name="omnijaws_weather_widget">أداة الطقس</string>
     <string name="omnijaws_weather_widget_desc">"الطقس الحالي والتنبؤات المتعددة الأيام"</string>
+    <string name="omnijaws_weather_pebble_widget">Weather pebble</string>
+    <string name="omnijaws_weather_pebble_widget_desc">Current temperature and condition</string>
     <string name="omnijaws_service_disabled">الخدمة معطلة</string>
     <string name="omnijaws_service_error_long">حدث خطأ خلال تحميل بيانات الطقس</string>
     <string name="omnijaws_service_error_location">لا يوجد موقع متاح</string>
@@ -193,4 +195,6 @@
     <string name="omnijaws_error_custom_location_missing">No location selected</string>
     <string name="omnijaws_error_custom_location_missing_summary">Choose a location to see its weather, or turn off custom location in settings</string>
     <string name="omnijaws_action_choose_location">Choose location</string>
+    <string name="omnijaws_error_api_key_missing">An API key is needed</string>
+    <string name="omnijaws_error_api_key_missing_summary">The selected weather provider needs an API key. Add one in Settings or choose another provider.</string>
 </resources>
