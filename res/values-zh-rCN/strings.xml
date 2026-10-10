@@ -186,15 +186,15 @@
     <string name="omnijaws_error_location">无法获取位置信息</string>
     <string name="omnijaws_error_disabled">天气服务已关闭</string>
     <string name="omnijaws_error_location_services_off">位置服务已关闭</string>
-    <string name="omnijaws_error_location_services_off_summary">开启定位以查看当地天气，或手动选择位置</string>
+    <string name="omnijaws_error_location_services_off_summary">开启位置服务以查看当地天气，或手动选择位置</string>
     <string name="omnijaws_error_location_permission">需要位置访问权限</string>
-    <string name="omnijaws_error_location_permission_summary">Allow location access to see the weather where you are, or pick a location manually</string>
-    <string name="omnijaws_action_open_location_settings">Open location settings</string>
-    <string name="omnijaws_action_grant_location_permission">Allow location access</string>
-    <string name="omnijaws_action_pick_location">Pick a location manually</string>
-    <string name="omnijaws_error_custom_location_missing">No location selected</string>
-    <string name="omnijaws_error_custom_location_missing_summary">Choose a location to see its weather, or turn off custom location in settings</string>
-    <string name="omnijaws_action_choose_location">Choose location</string>
-    <string name="omnijaws_error_api_key_missing">An API key is needed</string>
-    <string name="omnijaws_error_api_key_missing_summary">The selected weather provider needs an API key. Add one in Settings or choose another provider.</string>
+    <string name="omnijaws_error_location_permission_summary">允许位置服务以查看当地天气，或手动选择位置</string>
+    <string name="omnijaws_action_open_location_settings">打开位置设置</string>
+    <string name="omnijaws_action_grant_location_permission">允许位置访问权限</string>
+    <string name="omnijaws_action_pick_location">手动选择位置</string>
+    <string name="omnijaws_error_custom_location_missing">未选择位置</string>
+    <string name="omnijaws_error_custom_location_missing_summary">选择位置以查看天气，或在设置中关闭自定义位置</string>
+    <string name="omnijaws_action_choose_location">选择位置</string>
+    <string name="omnijaws_error_api_key_missing">需要 API 密钥</string>
+    <string name="omnijaws_error_api_key_missing_summary">所选天气服务商需要 API 密钥，请在设置中添加密钥或更换服务商。</string>
 </resources>
