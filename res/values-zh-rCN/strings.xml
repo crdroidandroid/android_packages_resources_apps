@@ -37,19 +37,19 @@
     <string name="omnijaws_weather_custom_location_missing">设置自定义位置</string>
     <string name="omnijaws_grant_location_permission_title">授予位置权限</string>
     <string name="omnijaws_grant_location_permission_summary">自动定位所需权限</string>
-    <string name="omnijaws_grant_background_location_title">Allow location all the time</string>
-    <string name="omnijaws_grant_background_location_summary">Needed to keep the widget and lock screen weather updated in the background</string>
+    <string name="omnijaws_grant_background_location_title">始终允许位置权限</string>
+    <string name="omnijaws_grant_background_location_summary">后台持续更新小组件及锁屏天气</string>
     <string name="omnijaws_weather_icon_pack_title">天气图标包</string>
     <string name="omnijaws_icon_theme_title">图标主题</string>
-    <string name="omnijaws_theme_system">Follow system</string>
+    <string name="omnijaws_theme_system">跟随系统</string>
     <string name="omnijaws_theme_light">浅色</string>
     <string name="omnijaws_theme_dark">深色</string>
     <!-- OWM / Pirate Weather / Visual Crossing API -->
     <string name="omnijaws_owm_key">自定义 OWM 密钥</string>
     <string name="omnijaws_pirate_weather_key">海盗天气 API 密钥</string>
     <string name="omnijaws_provider_disabled">数据源已禁用</string>
-    <string name="omnijaws_api_key_note">Pirate Weather and Visual Crossing need an API key to work, and a custom OWM key is recommended for OpenWeatherMap. Tap \"Last update time\" to force an update and test your key.</string>
-    <string name="omnijaws_api_links_note"><![CDATA[Get API keys: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a> | <a href="https://www.visualcrossing.com/">Visual Crossing</a>]]></string>
+    <string name="omnijaws_api_key_note">Pirate Weather 与 Visual Crossing 需要 API 密钥才能使用，OpenWeatherMap 建议使用自定义 OWM 密钥。点击 “上次更新时间” 可强制更新并测试密钥。</string>
+    <string name="omnijaws_api_links_note"><![CDATA[获取 API 密钥：<a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a> | <a href="https://www.visualcrossing.com/">Visual Crossing</a>]]></string>
     <!-- Dashboard -->
     <string name="omnijaws_menu_title">菜单</string>
     <string name="omnijaws_update_title">更新</string>
@@ -113,8 +113,8 @@
     <!-- Widget -->
     <string name="omnijaws_weather_widget">天气小部件</string>
     <string name="omnijaws_weather_widget_desc">"实时天气与多日预报"</string>
-    <string name="omnijaws_weather_pebble_widget">Weather pebble</string>
-    <string name="omnijaws_weather_pebble_widget_desc">Current temperature and condition</string>
+    <string name="omnijaws_weather_pebble_widget">天气微件</string>
+    <string name="omnijaws_weather_pebble_widget_desc">当前温度与天气状况</string>
     <string name="omnijaws_service_disabled">服务已禁用</string>
     <string name="omnijaws_service_error_long">加载天气数据失败</string>
     <string name="omnijaws_service_error_location">暂无可用位置信息</string>
@@ -185,9 +185,9 @@
     <string name="omnijaws_error_network">无法连接天气服务</string>
     <string name="omnijaws_error_location">无法获取位置信息</string>
     <string name="omnijaws_error_disabled">天气服务已关闭</string>
-    <string name="omnijaws_error_location_services_off">Location is turned off</string>
-    <string name="omnijaws_error_location_services_off_summary">Turn on location to see the weather where you are, or pick a location manually</string>
-    <string name="omnijaws_error_location_permission">Location access is needed</string>
+    <string name="omnijaws_error_location_services_off">位置服务已关闭</string>
+    <string name="omnijaws_error_location_services_off_summary">开启定位以查看当地天气，或手动选择位置</string>
+    <string name="omnijaws_error_location_permission">需要位置访问权限</string>
     <string name="omnijaws_error_location_permission_summary">Allow location access to see the weather where you are, or pick a location manually</string>
     <string name="omnijaws_action_open_location_settings">Open location settings</string>
     <string name="omnijaws_action_grant_location_permission">Allow location access</string>
