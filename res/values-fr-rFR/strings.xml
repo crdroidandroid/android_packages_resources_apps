@@ -49,7 +49,7 @@
     <string name="omnijaws_pirate_weather_key">Clé api Pirate Weather</string>
     <string name="omnijaws_provider_disabled">Fournisseur désactivé</string>
     <string name="omnijaws_api_key_note">Pirate Weather et Visual Crossing ont besoin d\'une clé d\'API pour fonctionner, et une clé OWM personnalisée est recommandée pour OpenWeatherMap. Cliquez sur \"Date de la dernière mise à jour\" pour forcer une mise à jour et tester votre clé.</string>
-    <string name="omnijaws_api_links_note"><![CDATA[Obtenir une clé d'API : <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a> | <a href="https://www.visualcrossing.com/">Visual Crossing</a>]]></string>
+    <string name="omnijaws_api_links_note"><![CDATA[Obtenir une clé d\'API : <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a> | <a href="https://www.visualcrossing.com/">Visual Crossing</a>]]></string>
     <!-- Dashboard -->
     <string name="omnijaws_menu_title">Menu</string>
     <string name="omnijaws_update_title">Mise à jour</string>
