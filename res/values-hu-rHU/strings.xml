@@ -37,19 +37,19 @@
     <string name="omnijaws_weather_custom_location_missing">Saját hely beállítása</string>
     <string name="omnijaws_grant_location_permission_title">Helymeghatározási engedély megadása</string>
     <string name="omnijaws_grant_location_permission_summary">Az automatikus helymeghatározáshoz szükséges</string>
-    <string name="omnijaws_grant_background_location_title">Allow location all the time</string>
-    <string name="omnijaws_grant_background_location_summary">Needed to keep the widget and lock screen weather updated in the background</string>
+    <string name="omnijaws_grant_background_location_title">Helyadatokhoz való hozzáférés engedélyezése mindig</string>
+    <string name="omnijaws_grant_background_location_summary">Szükséges a widget és a zárolási képernyő időjárás-információinak háttérben történő frissítéséhez</string>
     <string name="omnijaws_weather_icon_pack_title">Időjárás-állapot ikoncsomag</string>
     <string name="omnijaws_icon_theme_title">Ikon téma</string>
-    <string name="omnijaws_theme_system">Follow system</string>
+    <string name="omnijaws_theme_system">Rendszertéma követése</string>
     <string name="omnijaws_theme_light">Világos</string>
     <string name="omnijaws_theme_dark">Sötét</string>
     <!-- OWM / Pirate Weather / Visual Crossing API -->
     <string name="omnijaws_owm_key">Egyéni OWM-kulcs</string>
     <string name="omnijaws_pirate_weather_key">Pirate Weather API kulcs</string>
     <string name="omnijaws_provider_disabled">Szolgáltató letiltva</string>
-    <string name="omnijaws_api_key_note">Pirate Weather and Visual Crossing need an API key to work, and a custom OWM key is recommended for OpenWeatherMap. Tap \"Last update time\" to force an update and test your key.</string>
-    <string name="omnijaws_api_links_note"><![CDATA[Get API keys: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a> | <a href="https://www.visualcrossing.com/">Visual Crossing</a>]]></string>
+    <string name="omnijaws_api_key_note">A Pirate Weather és a Visual Crossing működéséhez API-kulcs szükséges, az OpenWeatherMap esetében pedig ajánlott egy saját OWM-kulcs használata. Koppints a „Utolsó frissítés ideje” feliratra a frissítés kényszerítéséhez és a kulcs teszteléséhez.</string>
+    <string name="omnijaws_api_links_note"><![CDATA[API-kulcsok beszerzése: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a> | <a href="https://www.visualcrossing.com/">Visual Crossing</a>]]></string>
     <!-- Dashboard -->
     <string name="omnijaws_menu_title">Menü</string>
     <string name="omnijaws_update_title">Frissítés</string>
@@ -113,8 +113,8 @@
     <!-- Widget -->
     <string name="omnijaws_weather_widget">Időjárás modul</string>
     <string name="omnijaws_weather_widget_desc">"Aktuális időjárás és többnapos előrejelzés"</string>
-    <string name="omnijaws_weather_pebble_widget">Weather pebble</string>
-    <string name="omnijaws_weather_pebble_widget_desc">Current temperature and condition</string>
+    <string name="omnijaws_weather_pebble_widget">Időjárásjelző kavics</string>
+    <string name="omnijaws_weather_pebble_widget_desc">Aktuális hőmérséklet és időjárási viszonyok</string>
     <string name="omnijaws_service_disabled">Szolgáltatás letiltva</string>
     <string name="omnijaws_service_error_long">Hiba az időjárásadatok betöltésekor</string>
     <string name="omnijaws_service_error_location">Nincs helymeghatározás</string>
@@ -185,16 +185,16 @@
     <string name="omnijaws_error_network">Az időjárás-szolgáltatás nem elérhető</string>
     <string name="omnijaws_error_location">A tartózkodási helye nem elérhető</string>
     <string name="omnijaws_error_disabled">Az időjárás-szolgáltatás ki van kapcsolva</string>
-    <string name="omnijaws_error_location_services_off">Location is turned off</string>
-    <string name="omnijaws_error_location_services_off_summary">Turn on location to see the weather where you are, or pick a location manually</string>
-    <string name="omnijaws_error_location_permission">Location access is needed</string>
-    <string name="omnijaws_error_location_permission_summary">Allow location access to see the weather where you are, or pick a location manually</string>
-    <string name="omnijaws_action_open_location_settings">Open location settings</string>
-    <string name="omnijaws_action_grant_location_permission">Allow location access</string>
-    <string name="omnijaws_action_pick_location">Pick a location manually</string>
-    <string name="omnijaws_error_custom_location_missing">No location selected</string>
-    <string name="omnijaws_error_custom_location_missing_summary">Choose a location to see its weather, or turn off custom location in settings</string>
-    <string name="omnijaws_action_choose_location">Choose location</string>
-    <string name="omnijaws_error_api_key_missing">An API key is needed</string>
-    <string name="omnijaws_error_api_key_missing_summary">The selected weather provider needs an API key. Add one in Settings or choose another provider.</string>
+    <string name="omnijaws_error_location_services_off">A helymeghatározás ki van kapcsolva</string>
+    <string name="omnijaws_error_location_services_off_summary">Kapcsolja be a helymeghatározást, hogy lássa az aktuális időjárást, vagy válasszon ki egy helyszínt manuálisan</string>
+    <string name="omnijaws_error_location_permission">Tartózkodási hely hozzáférés szükséges</string>
+    <string name="omnijaws_error_location_permission_summary">Engedélyezze a helymeghatározást, hogy lássa az időjárást az adott helyen, vagy válasszon ki egy helyet manuálisan</string>
+    <string name="omnijaws_action_open_location_settings">Helybeállítások megnyitása</string>
+    <string name="omnijaws_action_grant_location_permission">Helyadatok engedélyezése</string>
+    <string name="omnijaws_action_pick_location">Válasszon helyszínt manuálisan</string>
+    <string name="omnijaws_error_custom_location_missing">Nincs kiválasztott hely</string>
+    <string name="omnijaws_error_custom_location_missing_summary">Válasszon ki egy helyszínt az időjárás megtekintéséhez, vagy kapcsolja ki az egyéni helyszínt a beállításokban</string>
+    <string name="omnijaws_action_choose_location">Hely kiválasztása</string>
+    <string name="omnijaws_error_api_key_missing">API-kulcsra van szükség</string>
+    <string name="omnijaws_error_api_key_missing_summary">A kiválasztott időjárás-szolgáltatóhoz API-kulcs szükséges. Adjon meg egyet a Beállításokban, vagy válasszon másik szolgáltatót.</string>
 </resources>
