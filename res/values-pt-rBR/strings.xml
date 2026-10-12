@@ -172,29 +172,29 @@
     <string name="omnijaws_weather_42">Scattered snow showers</string>
     <string name="omnijaws_weather_43">Heavy snow</string>
     <string name="omnijaws_weather_44">Partly cloudy</string>
-    <string name="omnijaws_weather_45">Thundershowers</string>
-    <string name="omnijaws_weather_46">Snow showers</string>
-    <string name="omnijaws_weather_47">Isolated thundershowers</string>
-    <string name="omnijaws_weather_3200">Not available</string>
+    <string name="omnijaws_weather_45">Trovoadas</string>
+    <string name="omnijaws_weather_46">Chuva com neve</string>
+    <string name="omnijaws_weather_47">Trovoadas isoladas</string>
+    <string name="omnijaws_weather_3200">Não disponível</string>
     <!-- HourlyForecastCard: label for the current hour column -->
-    <string name="omnijaws_hourly_now">Now</string>
+    <string name="omnijaws_hourly_now">Agora</string>
     <!-- DetailCards: visibility units -->
     <string name="omnijaws_unit_km">km</string>
-    <string name="omnijaws_unit_mi">mi</string>
+    <string name="omnijaws_unit_mi">milhas</string>
     <!-- WeatherDashboardScreen: specific failure reasons -->
-    <string name="omnijaws_error_network">Could not reach the weather service</string>
-    <string name="omnijaws_error_location">Your location is not available</string>
-    <string name="omnijaws_error_disabled">The weather service is turned off</string>
-    <string name="omnijaws_error_location_services_off">Location is turned off</string>
-    <string name="omnijaws_error_location_services_off_summary">Turn on location to see the weather where you are, or pick a location manually</string>
-    <string name="omnijaws_error_location_permission">Location access is needed</string>
-    <string name="omnijaws_error_location_permission_summary">Allow location access to see the weather where you are, or pick a location manually</string>
-    <string name="omnijaws_action_open_location_settings">Open location settings</string>
-    <string name="omnijaws_action_grant_location_permission">Allow location access</string>
-    <string name="omnijaws_action_pick_location">Pick a location manually</string>
-    <string name="omnijaws_error_custom_location_missing">No location selected</string>
-    <string name="omnijaws_error_custom_location_missing_summary">Choose a location to see its weather, or turn off custom location in settings</string>
-    <string name="omnijaws_action_choose_location">Choose location</string>
-    <string name="omnijaws_error_api_key_missing">An API key is needed</string>
-    <string name="omnijaws_error_api_key_missing_summary">The selected weather provider needs an API key. Add one in Settings or choose another provider.</string>
+    <string name="omnijaws_error_network">Não foi possível acessar o serviço meteorológico</string>
+    <string name="omnijaws_error_location">Sua localização não está disponível</string>
+    <string name="omnijaws_error_disabled">O serviço meteorológico está desativado</string>
+    <string name="omnijaws_error_location_services_off">A localização está desativada</string>
+    <string name="omnijaws_error_location_services_off_summary">Ative a localização para ver o clima onde você está, ou escolha um local manualmente</string>
+    <string name="omnijaws_error_location_permission">O acesso à localização está desativado</string>
+    <string name="omnijaws_error_location_permission_summary">Permita o acesso à localização para ver o clima onde você está, ou escolha uma localização manualmente</string>
+    <string name="omnijaws_action_open_location_settings">Abrir configurações de localização</string>
+    <string name="omnijaws_action_grant_location_permission">Permitir acesso à localização</string>
+    <string name="omnijaws_action_pick_location">Escolha uma localização manualmente</string>
+    <string name="omnijaws_error_custom_location_missing">Nenhum local selecionado</string>
+    <string name="omnijaws_error_custom_location_missing_summary">Escolha um local para ver seu clima, ou desative a localização personalizada nas configurações</string>
+    <string name="omnijaws_action_choose_location">Escolha a localização</string>
+    <string name="omnijaws_error_api_key_missing">Não é necessário chave de API</string>
+    <string name="omnijaws_error_api_key_missing_summary">O provedor de tempo selecionado precisa de uma chave de API. Adicione uma nas Configurações ou escolha outro provedor.</string>
 </resources>
