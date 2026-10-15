@@ -37,19 +37,19 @@
     <string name="omnijaws_weather_custom_location_missing">Setare locație personalizata</string>
     <string name="omnijaws_grant_location_permission_title">Acordă permisiunea pentru locație</string>
     <string name="omnijaws_grant_location_permission_summary">Necesar pentru locația automată</string>
-    <string name="omnijaws_grant_background_location_title">Allow location all the time</string>
-    <string name="omnijaws_grant_background_location_summary">Needed to keep the widget and lock screen weather updated in the background</string>
+    <string name="omnijaws_grant_background_location_title">Permite locația tot timpul</string>
+    <string name="omnijaws_grant_background_location_summary">Necesar pentru a păstra widget-ul şi ecranul de blocare meteo actualizat în fundal</string>
     <string name="omnijaws_weather_icon_pack_title">Pictograme condiții vreme</string>
     <string name="omnijaws_icon_theme_title">Tema pictogramei</string>
-    <string name="omnijaws_theme_system">Follow system</string>
+    <string name="omnijaws_theme_system">Urmează sistemul</string>
     <string name="omnijaws_theme_light">Luminos</string>
     <string name="omnijaws_theme_dark">Întunecat</string>
     <!-- OWM / Pirate Weather / Visual Crossing API -->
     <string name="omnijaws_owm_key">Cheie OWM personalizată</string>
     <string name="omnijaws_pirate_weather_key">Cheie meteo API Pirate</string>
     <string name="omnijaws_provider_disabled">Furnizor dezactivat</string>
-    <string name="omnijaws_api_key_note">Pirate Weather and Visual Crossing need an API key to work, and a custom OWM key is recommended for OpenWeatherMap. Tap \"Last update time\" to force an update and test your key.</string>
-    <string name="omnijaws_api_links_note"><![CDATA[Get API keys: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a> | <a href="https://www.visualcrossing.com/">Visual Crossing</a>]]></string>
+    <string name="omnijaws_api_key_note">Pirate Weather și Visual Crossing au nevoie de o cheie API pentru a funcționa, și o cheie OWM personalizată este recomandată pentru OpenWeatherMap. Atingeți \"Data ultimei actualizări\" pentru a forța o actualizare și a testa cheia.</string>
+    <string name="omnijaws_api_links_note"><![CDATA[Obțineți chei API: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> <unk> <a href="https://openweathermap.org/price">OpenWeatherMap</a> <unk> <a href="https://www.visualcrossing.com/">Trecere vizuală</a>]]></string>
     <!-- Dashboard -->
     <string name="omnijaws_menu_title">Meniu</string>
     <string name="omnijaws_update_title">Actualizează</string>
@@ -113,8 +113,8 @@
     <!-- Widget -->
     <string name="omnijaws_weather_widget">Widget meteo</string>
     <string name="omnijaws_weather_widget_desc">"Vremea curentă și prognoza multi-zile"</string>
-    <string name="omnijaws_weather_pebble_widget">Weather pebble</string>
-    <string name="omnijaws_weather_pebble_widget_desc">Current temperature and condition</string>
+    <string name="omnijaws_weather_pebble_widget">Pibi meteo</string>
+    <string name="omnijaws_weather_pebble_widget_desc">Temperatura și starea actuală</string>
     <string name="omnijaws_service_disabled">Serviciu dezactivat</string>
     <string name="omnijaws_service_error_long">Eroare la încărcarea datelor meteo</string>
     <string name="omnijaws_service_error_location">Nici o locație disponibilă</string>
@@ -177,24 +177,24 @@
     <string name="omnijaws_weather_47">Descărcări electrice izolate</string>
     <string name="omnijaws_weather_3200">Indisponibil</string>
     <!-- HourlyForecastCard: label for the current hour column -->
-    <string name="omnijaws_hourly_now">Now</string>
+    <string name="omnijaws_hourly_now">Acum</string>
     <!-- DetailCards: visibility units -->
     <string name="omnijaws_unit_km">km</string>
     <string name="omnijaws_unit_mi">mi</string>
     <!-- WeatherDashboardScreen: specific failure reasons -->
-    <string name="omnijaws_error_network">Could not reach the weather service</string>
-    <string name="omnijaws_error_location">Your location is not available</string>
-    <string name="omnijaws_error_disabled">The weather service is turned off</string>
-    <string name="omnijaws_error_location_services_off">Location is turned off</string>
-    <string name="omnijaws_error_location_services_off_summary">Turn on location to see the weather where you are, or pick a location manually</string>
-    <string name="omnijaws_error_location_permission">Location access is needed</string>
-    <string name="omnijaws_error_location_permission_summary">Allow location access to see the weather where you are, or pick a location manually</string>
-    <string name="omnijaws_action_open_location_settings">Open location settings</string>
-    <string name="omnijaws_action_grant_location_permission">Allow location access</string>
-    <string name="omnijaws_action_pick_location">Pick a location manually</string>
-    <string name="omnijaws_error_custom_location_missing">No location selected</string>
-    <string name="omnijaws_error_custom_location_missing_summary">Choose a location to see its weather, or turn off custom location in settings</string>
-    <string name="omnijaws_action_choose_location">Choose location</string>
-    <string name="omnijaws_error_api_key_missing">An API key is needed</string>
-    <string name="omnijaws_error_api_key_missing_summary">The selected weather provider needs an API key. Add one in Settings or choose another provider.</string>
+    <string name="omnijaws_error_network">Nu s-a putut ajunge la serviciul meteo</string>
+    <string name="omnijaws_error_location">Locația dvs. nu este disponibilă</string>
+    <string name="omnijaws_error_disabled">Serviciul meteo este oprit</string>
+    <string name="omnijaws_error_location_services_off">Locația este dezactivată</string>
+    <string name="omnijaws_error_location_services_off_summary">Activați locația pentru a vedea vremea unde vă aflați sau alegeți manual o locație</string>
+    <string name="omnijaws_error_location_permission">Accesul la locație este necesar</string>
+    <string name="omnijaws_error_location_permission_summary">Permiteți accesul la locație pentru a vedea vremea unde vă aflați sau alegeți manual o locație</string>
+    <string name="omnijaws_action_open_location_settings">Deschideți setările locației</string>
+    <string name="omnijaws_action_grant_location_permission">Permiteți accesul la locație</string>
+    <string name="omnijaws_action_pick_location">Alegeți manual o locație</string>
+    <string name="omnijaws_error_custom_location_missing">Niciun loc selectat</string>
+    <string name="omnijaws_error_custom_location_missing_summary">Alegeți o locație pentru a vedea vremea sa, sau dezactivați locația personalizată din setări</string>
+    <string name="omnijaws_action_choose_location">Alege Locația</string>
+    <string name="omnijaws_error_api_key_missing">Este necesară o cheie API</string>
+    <string name="omnijaws_error_api_key_missing_summary">Furnizorul meteo selectat are nevoie de o cheie API. Adaugă una în Setări sau alege un alt furnizor.</string>
 </resources>
