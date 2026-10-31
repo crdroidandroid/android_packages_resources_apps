@@ -11,6 +11,20 @@
     <string name="updater_link_forum">Forum</string>
     <string name="updater_build_unofficial">Onofficieel</string>
     <string name="updater_maintainer_by">door <xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g></string>
+    <!-- Preferences: parallel download connections -->
+    <string name="updater_menu_download_connections">Parallel connections</string>
+    <!-- %1$s is the formatted count, e.g. "8 connections" -->
+    <string name="updater_menu_download_connections_summary">%1$s · Applies to new downloads</string>
+    <string name="updater_download_connections_dialog_message">Downloading over several connections at once can speed up slow mirrors. A download that has already started or is paused keeps the number of connections it began with. The new value applies from the next download.</string>
+    <plurals name="updater_download_connections_count">
+        <item quantity="one">%d connection</item>
+        <item quantity="other">%d connections</item>
+    </plurals>
+    <!-- Preferences: fastest SourceForge mirror -->
+    <string name="updater_menu_fastest_mirror">Use fastest mirror</string>
+    <string name="updater_menu_fastest_mirror_summary">Tests SourceForge mirrors before each download and uses the fastest one. Uses a few MB of extra data.</string>
+    <!-- Download notification: %1$s is the existing "ETA, speed" text, %2$s is e.g. "8 connections" -->
+    <string name="updater_download_speed_with_connections">%1$s · %2$s</string>
     <!-- OmniJaws -->
     <string name="omnijaws_activity_title">Weer</string>
     <!-- Settings -->
