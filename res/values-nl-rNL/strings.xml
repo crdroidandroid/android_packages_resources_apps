@@ -25,10 +25,12 @@
     <string name="updater_download_mirror_auto">Auto-select available mirror</string>
     <string name="updater_download_mirror_fastest">Test and use fastest mirror</string>
     <string name="updater_download_mirror_choose">Show available mirrors</string>
-    <string name="updater_download_mirror_dialog_message">Auto-select lets SourceForge pick a mirror. Testing tries several mirrors before each download and uses the fastest, using a few MB of extra data. If a chosen mirror doesn\'t have the file, SourceForge picks another.</string>
+    <string name="updater_download_mirror_dialog_message">Auto-select lets SourceForge pick a mirror. Testing tries several mirrors before each download and uses the fastest, using a few MB of extra data. Show available mirrors lists the mirrors when you tap Download.</string>
     <string name="updater_download_mirror_list_title">Available mirrors</string>
     <string name="updater_download_mirror_loading">Loading mirrors…</string>
-    <string name="updater_download_mirror_list_failed">Couldn\'t load mirrors. Check for updates and your connection, then try again.</string>
+    <string name="updater_download_mirror_list_failed">Couldn\'t load mirrors. Downloading with auto-select.</string>
+    <!-- Download card: %1$s is a formatted size, e.g. "5.2 MB" -->
+    <string name="updater_download_speed">%1$s/s</string>
     <!-- Download notification: %1$s is the existing "ETA, speed" text, %2$s is e.g. "8 connections" -->
     <string name="updater_download_speed_with_connections">%1$s · %2$s</string>
     <!-- OmniJaws -->
