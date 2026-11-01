@@ -12,25 +12,25 @@
     <string name="updater_build_unofficial">Nieoficjalny</string>
     <string name="updater_maintainer_by">dzięki <xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g></string>
     <!-- Preferences: parallel download connections -->
-    <string name="updater_menu_download_connections">Parallel connections</string>
+    <string name="updater_menu_download_connections">Równoległe połączenia</string>
     <!-- %1$s is the formatted count, e.g. "8 connections" -->
-    <string name="updater_menu_download_connections_summary">%1$s · Applies to new downloads</string>
-    <string name="updater_download_connections_dialog_message">Downloading over several connections at once can speed up slow mirrors. A download that has already started or is paused keeps the number of connections it began with. The new value applies from the next download.</string>
+    <string name="updater_menu_download_connections_summary">%1$s · Dotyczy nowych pobrań</string>
+    <string name="updater_download_connections_dialog_message">Pobieranie plików jednocześnie poprzez kilka połączeń może przyspieszyć działanie wolnych serwerów lustrzanych. Pobieranie, które już się rozpoczęło lub zostało wstrzymane, zachowuje liczbę połączeń z początku procesu. Nowa wartość zacznie obowiązywać od następnego pobrania.</string>
     <plurals name="updater_download_connections_count">
-        <item quantity="one">%d connection</item>
-        <item quantity="few">%d connections</item>
-        <item quantity="many">%d connections</item>
-        <item quantity="other">%d connections</item>
+        <item quantity="one">%d połączenie</item>
+        <item quantity="few">%d połączenia</item>
+        <item quantity="many">%d połączeń</item>
+        <item quantity="other">%d połączeń</item>
     </plurals>
     <!-- Preferences: SourceForge download mirror -->
-    <string name="updater_menu_download_mirror">Download mirror</string>
-    <string name="updater_download_mirror_auto">Auto-select available mirror</string>
-    <string name="updater_download_mirror_fastest">Test and use fastest mirror</string>
-    <string name="updater_download_mirror_choose">Show available mirrors</string>
-    <string name="updater_download_mirror_dialog_message">Auto-select lets SourceForge pick a mirror. Testing tries several mirrors before each download and uses the fastest, using a few MB of extra data. Show available mirrors lists the mirrors when you tap Download.</string>
-    <string name="updater_download_mirror_list_title">Available mirrors</string>
-    <string name="updater_download_mirror_loading">Loading mirrors…</string>
-    <string name="updater_download_mirror_list_failed">Couldn\'t load mirrors. Downloading with auto-select.</string>
+    <string name="updater_menu_download_mirror">Serwer lustrzany pobierania</string>
+    <string name="updater_download_mirror_auto">Automatycznie wybieraj dostępny serwer lustrzany</string>
+    <string name="updater_download_mirror_fastest">Testuj i używaj najszybszego serwera lustrzanego</string>
+    <string name="updater_download_mirror_choose">Pokaż dostępne serwery lustrzane</string>
+    <string name="updater_download_mirror_dialog_message">Opcja „automatycznie wybieraj dostępny serwer lustrzany” pozwala serwisowi SourceForge wybrać serwer lustrzany. Opcja „testowanie” przed każdym pobraniem sprawdza kilka serwerów lustrzanych i wybiera najszybszy, co wiąże się z pobraniem kilku MB dodatkowych danych. Opcja „pokaż dostępne serwery lustrzane” wyświetla listę serwerów lustrzanych po dotknięciu przycisku „Pobierz”.</string>
+    <string name="updater_download_mirror_list_title">Dostępne serwery lustrzane</string>
+    <string name="updater_download_mirror_loading">Ładowanie serwerów lustrzanych…</string>
+    <string name="updater_download_mirror_list_failed">Nie udało się załadować serwerów lustrzanych. Trwa pobieranie z automatycznym wyborem.</string>
     <!-- Download card: %1$s is a formatted size, e.g. "5.2 MB" -->
     <string name="updater_download_speed">%1$s/s</string>
     <!-- Download notification: %1$s is the existing "ETA, speed" text, %2$s is e.g. "8 connections" -->
@@ -78,8 +78,8 @@
     <string name="omnijaws_menu_title">Menu</string>
     <string name="omnijaws_update_title">Aktualizacja</string>
     <string name="omnijaws_settings_title">Ustawienia</string>
-    <string name="omnijaws_temperature_low">Niski</string>
-    <string name="omnijaws_temperature_high">Wysoki</string>
+    <string name="omnijaws_temperature_low">Niska</string>
+    <string name="omnijaws_temperature_high">Wysoka</string>
     <string name="omnijaws_dashboard_error_subtitle">Sprawdź ustawienia lub spróbuj odświeżyć</string>
     <string name="omnijaws_dashboard_provider_attribution">Dane pogodowe dostarczone przez %1$s</string>
     <!-- Forecast card -->
