@@ -12,27 +12,27 @@
     <string name="updater_build_unofficial">Nem hivatalos</string>
     <string name="updater_maintainer_by"><xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g> által</string>
     <!-- Preferences: parallel download connections -->
-    <string name="updater_menu_download_connections">Parallel connections</string>
+    <string name="updater_menu_download_connections">Párhuzamos kapcsolat</string>
     <!-- %1$s is the formatted count, e.g. "8 connections" -->
-    <string name="updater_menu_download_connections_summary">%1$s · Applies to new downloads</string>
-    <string name="updater_download_connections_dialog_message">Downloading over several connections at once can speed up slow mirrors. A download that has already started or is paused keeps the number of connections it began with. The new value applies from the next download.</string>
+    <string name="updater_menu_download_connections_summary">%1$s · Új letöltésekre vonatkozik</string>
+    <string name="updater_download_connections_dialog_message">A több egyidejű kapcsolaton keresztüli letöltés felgyorsíthatja a lassú tükörszervereket. A már megkezdett vagy szüneteltetett letöltések megtartják azt a kapcsolatszámot, amellyel indultak. Az új érték a következő letöltéstől kezdve lép érvénybe.</string>
     <plurals name="updater_download_connections_count">
-        <item quantity="one">%d connection</item>
-        <item quantity="other">%d connections</item>
+        <item quantity="one">%d kapcsolat</item>
+        <item quantity="other">%d kapcsolatok</item>
     </plurals>
     <!-- Preferences: SourceForge download mirror -->
-    <string name="updater_menu_download_mirror">Download mirror</string>
-    <string name="updater_download_mirror_auto">Auto-select available mirror</string>
-    <string name="updater_download_mirror_fastest">Test and use fastest mirror</string>
-    <string name="updater_download_mirror_choose">Show available mirrors</string>
-    <string name="updater_download_mirror_dialog_message">Auto-select lets SourceForge pick a mirror. Testing tries several mirrors before each download and uses the fastest, using a few MB of extra data. Show available mirrors lists the mirrors when you tap Download.</string>
-    <string name="updater_download_mirror_list_title">Available mirrors</string>
-    <string name="updater_download_mirror_loading">Loading mirrors…</string>
-    <string name="updater_download_mirror_list_failed">Couldn\'t load mirrors. Downloading with auto-select.</string>
+    <string name="updater_menu_download_mirror">Letöltési tükörszerver</string>
+    <string name="updater_download_mirror_auto">Elérhető tükörszerver automatikus kiválasztása</string>
+    <string name="updater_download_mirror_fastest">Tesztelje és használja a leggyorsabb tükörszervert</string>
+    <string name="updater_download_mirror_choose">Elérhető tükörszerverek megjelenítése</string>
+    <string name="updater_download_mirror_dialog_message">Az automatikus kiválasztás lehetővé teszi a SourceForge számára, hogy tükörszervert válasszon. A tesztelés minden letöltés előtt több lehetőséget is kipróbál, és a leggyorsabbat használja, néhány MB plusz adatmennyiséggel. Az elérhető tükrökszerverek a Letöltés gombra koppintva jelennek meg.</string>
+    <string name="updater_download_mirror_list_title">Elérhető tükörszerverek</string>
+    <string name="updater_download_mirror_loading">Tükörszerverek betöltése…</string>
+    <string name="updater_download_mirror_list_failed">Nem sikerült betölteni a tükörszervereket. Letöltés automatikus kiválasztással.</string>
     <!-- Download card: %1$s is a formatted size, e.g. "5.2 MB" -->
     <string name="updater_download_speed">%1$s/s</string>
     <!-- Download notification: %1$s is the existing "ETA, speed" text, %2$s is e.g. "8 connections" -->
-    <string name="updater_download_speed_with_connections">%1$s · %2$s</string>
+    <string name="updater_download_speed_with_connections">%1$s - %2$s</string>
     <!-- OmniJaws -->
     <string name="omnijaws_activity_title">Időjárás</string>
     <!-- Settings -->
