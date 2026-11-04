@@ -27,12 +27,12 @@
     <string name="updater_download_mirror_auto">Автовыбор доступного зеркала</string>
     <string name="updater_download_mirror_fastest">Тест и использование быстрейшего зеркала</string>
     <string name="updater_download_mirror_choose">Показать доступные зеркала</string>
-    <string name="updater_download_mirror_dialog_message">Auto-select lets SourceForge pick a mirror. Testing tries several mirrors before each download and uses the fastest, using a few MB of extra data. Show available mirrors lists the mirrors when you tap Download.</string>
+    <string name="updater_download_mirror_dialog_message">Автоматический выбор позволяет SourceForge выбрать зеркало. При тестировании, перед каждой загрузкой, проверяется несколько зеркал и используется самое быстрое, что требует дополнительных нескольких мегабайт данных. Если на выбранном зеркале нет файла, SourceForge выбирает другое.</string>
     <string name="updater_download_mirror_list_title">Доступные зеркала</string>
     <string name="updater_download_mirror_loading">Загрузка зеркал…</string>
-    <string name="updater_download_mirror_list_failed">Couldn\'t load mirrors. Downloading with auto-select.</string>
+    <string name="updater_download_mirror_list_failed">Не удалось загрузить список зеркал. Загрузка выполняется с автовыбором.</string>
     <!-- Download card: %1$s is a formatted size, e.g. "5.2 MB" -->
-    <string name="updater_download_speed">%1$s/s</string>
+    <string name="updater_download_speed">%1$s/с</string>
     <!-- Download notification: %1$s is the existing "ETA, speed" text, %2$s is e.g. "8 connections" -->
     <string name="updater_download_speed_with_connections">%1$s · %2$s</string>
     <!-- OmniJaws -->
