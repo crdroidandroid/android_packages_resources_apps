@@ -222,22 +222,22 @@
     <string name="omnijaws_error_api_key_missing">Klucz API jest wymagany</string>
     <string name="omnijaws_error_api_key_missing_summary">Wybrany dostawca danych pogodowych wymaga klucza API. Dodaj go w sekcji „Ustawienia” lub wybierz innego dostawcę.</string>
     <!-- Omnistyle (QS header image picker) -->
-    <string name="omnistyle_browse_header">Headers</string>
-    <string name="omnistyle_custom_header_image_notice">Header image set</string>
-    <string name="omnistyle_browse_theme_header">Theme headers</string>
-    <string name="omnistyle_pick_header">Select header image</string>
+    <string name="omnistyle_browse_header">Nagłówki</string>
+    <string name="omnistyle_custom_header_image_notice">Zestaw obrazów nagłówka</string>
+    <string name="omnistyle_browse_theme_header">Nagłówki motywów</string>
+    <string name="omnistyle_pick_header">Wybierz obraz nagłówka</string>
     <!-- Header picker (Compose) -->
-    <string name="omnistyle_navigate_up">Navigate up</string>
-    <string name="omnistyle_header_current">Current header</string>
+    <string name="omnistyle_navigate_up">Przejdź wyżej</string>
+    <string name="omnistyle_header_current">Bieżący nagłówek</string>
     <!-- %1$s: header count, e.g. "24 headers"; %2$s: pack creator -->
-    <string name="omnistyle_header_pack_summary"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%1$s</xliff:g> · by <xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="creator">%2$s</xliff:g></string>
+    <string name="omnistyle_header_pack_summary"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%1$s</xliff:g> · przez <xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="creator">%2$s</xliff:g></string>
     <plurals name="omnistyle_header_count">
-        <item quantity="one"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> header</item>
-        <item quantity="few"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> headers</item>
-        <item quantity="many"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> headers</item>
-        <item quantity="other"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> headers</item>
+        <item quantity="one"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> nagłówek</item>
+        <item quantity="few"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> nagłówki</item>
+        <item quantity="many"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> nagłówków</item>
+        <item quantity="other"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> nagłówków</item>
     </plurals>
-    <string name="omnistyle_header_empty_title">No header packs installed</string>
-    <string name="omnistyle_header_empty_summary">Installed header packs will show up here</string>
-    <string name="omnistyle_header_pack_empty">This pack has no headers</string>
+    <string name="omnistyle_header_empty_title">Nie zainstalowano żadnych zestawów z nagłówkami</string>
+    <string name="omnistyle_header_empty_summary">W tym miejscu wyświetlą się zainstalowane zestawy z nagłówkami</string>
+    <string name="omnistyle_header_pack_empty">W tym pakiecie nie ma nagłówków</string>
 </resources>
