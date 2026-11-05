@@ -220,4 +220,22 @@
     <string name="omnijaws_action_choose_location">Alege Locația</string>
     <string name="omnijaws_error_api_key_missing">Este necesară o cheie API</string>
     <string name="omnijaws_error_api_key_missing_summary">Furnizorul meteo selectat are nevoie de o cheie API. Adaugă una în Setări sau alege un alt furnizor.</string>
+    <!-- Omnistyle (QS header image picker) -->
+    <string name="omnistyle_browse_header">Headers</string>
+    <string name="omnistyle_custom_header_image_notice">Header image set</string>
+    <string name="omnistyle_browse_theme_header">Theme headers</string>
+    <string name="omnistyle_pick_header">Select header image</string>
+    <!-- Header picker (Compose) -->
+    <string name="omnistyle_navigate_up">Navigate up</string>
+    <string name="omnistyle_header_current">Current header</string>
+    <!-- %1$s: header count, e.g. "24 headers"; %2$s: pack creator -->
+    <string name="omnistyle_header_pack_summary"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%1$s</xliff:g> · by <xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="creator">%2$s</xliff:g></string>
+    <plurals name="omnistyle_header_count">
+        <item quantity="one"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> header</item>
+        <item quantity="few"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> headers</item>
+        <item quantity="other"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> headers</item>
+    </plurals>
+    <string name="omnistyle_header_empty_title">No header packs installed</string>
+    <string name="omnistyle_header_empty_summary">Installed header packs will show up here</string>
+    <string name="omnistyle_header_pack_empty">This pack has no headers</string>
 </resources>
