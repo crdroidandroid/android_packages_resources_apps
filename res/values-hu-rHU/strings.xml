@@ -220,20 +220,20 @@
     <string name="omnijaws_error_api_key_missing">API-kulcsra van szükség</string>
     <string name="omnijaws_error_api_key_missing_summary">A kiválasztott időjárás-szolgáltatóhoz API-kulcs szükséges. Adjon meg egyet a Beállításokban, vagy válasszon másik szolgáltatót.</string>
     <!-- Omnistyle (QS header image picker) -->
-    <string name="omnistyle_browse_header">Headers</string>
-    <string name="omnistyle_custom_header_image_notice">Header image set</string>
-    <string name="omnistyle_browse_theme_header">Theme headers</string>
-    <string name="omnistyle_pick_header">Select header image</string>
+    <string name="omnistyle_browse_header">Fejlécek</string>
+    <string name="omnistyle_custom_header_image_notice">Fejléckép beállítás</string>
+    <string name="omnistyle_browse_theme_header">Fejléc témák</string>
+    <string name="omnistyle_pick_header">Fejléckép kiválasztása</string>
     <!-- Header picker (Compose) -->
-    <string name="omnistyle_navigate_up">Navigate up</string>
-    <string name="omnistyle_header_current">Current header</string>
+    <string name="omnistyle_navigate_up">Felfele mozgás</string>
+    <string name="omnistyle_header_current">Aktuális fejléc</string>
     <!-- %1$s: header count, e.g. "24 headers"; %2$s: pack creator -->
-    <string name="omnistyle_header_pack_summary"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%1$s</xliff:g> · by <xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="creator">%2$s</xliff:g></string>
+    <string name="omnistyle_header_pack_summary"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%1$s</xliff:g> · készítette: <xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="creator">%2$s</xliff:g></string>
     <plurals name="omnistyle_header_count">
-        <item quantity="one"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> header</item>
-        <item quantity="other"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> headers</item>
+        <item quantity="one"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> fejléc</item>
+        <item quantity="other"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> fejlécek</item>
     </plurals>
-    <string name="omnistyle_header_empty_title">No header packs installed</string>
-    <string name="omnistyle_header_empty_summary">Installed header packs will show up here</string>
-    <string name="omnistyle_header_pack_empty">This pack has no headers</string>
+    <string name="omnistyle_header_empty_title">Nincs telepítve fejléc csomag</string>
+    <string name="omnistyle_header_empty_summary">A telepített fejléc csomagok itt fognak megjelenni</string>
+    <string name="omnistyle_header_pack_empty">Ez a csomag nem tartalmaz fejléceket</string>
 </resources>
