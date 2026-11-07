@@ -11,6 +11,30 @@
     <string name="updater_link_forum">Форум</string>
     <string name="updater_build_unofficial">Неофициальная</string>
     <string name="updater_maintainer_by">от <xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g></string>
+    <!-- Preferences: parallel download connections -->
+    <string name="updater_menu_download_connections">Несколько потоков</string>
+    <!-- %1$s is the formatted count, e.g. "8 connections" -->
+    <string name="updater_menu_download_connections_summary">Применяется к новым загрузкам · %1$s</string>
+    <string name="updater_download_connections_dialog_message">Загрузка в несколько одновременных потоков может ускорить скачивание с медленных зеркал. Для загрузки, которая уже началась или была приостановлена, сохраняется количество запущенных соединений. Новое значение применяется начиная со следующей загрузки.</string>
+    <plurals name="updater_download_connections_count">
+        <item quantity="one">%d поток</item>
+        <item quantity="few">%d потока</item>
+        <item quantity="many">%d потоков</item>
+        <item quantity="other">%d потоков</item>
+    </plurals>
+    <!-- Preferences: SourceForge download mirror -->
+    <string name="updater_menu_download_mirror">Зеркало загрузки</string>
+    <string name="updater_download_mirror_auto">Автовыбор доступного зеркала</string>
+    <string name="updater_download_mirror_fastest">Тест и использование быстрейшего зеркала</string>
+    <string name="updater_download_mirror_choose">Показать доступные зеркала</string>
+    <string name="updater_download_mirror_dialog_message">Автоматический выбор позволяет SourceForge выбрать зеркало. При тестировании, перед каждой загрузкой, проверяется несколько зеркал и используется самое быстрое, что требует дополнительных нескольких мегабайт данных. Если на выбранном зеркале нет файла, SourceForge выбирает другое.</string>
+    <string name="updater_download_mirror_list_title">Доступные зеркала</string>
+    <string name="updater_download_mirror_loading">Загрузка зеркал…</string>
+    <string name="updater_download_mirror_list_failed">Не удалось загрузить список зеркал. Загрузка выполняется с автовыбором.</string>
+    <!-- Download card: %1$s is a formatted size, e.g. "5.2 MB" -->
+    <string name="updater_download_speed">%1$s/с</string>
+    <!-- Download notification: %1$s is the existing "ETA, speed" text, %2$s is e.g. "8 connections" -->
+    <string name="updater_download_speed_with_connections">%1$s · %2$s</string>
     <!-- OmniJaws -->
     <string name="omnijaws_activity_title">Погода</string>
     <!-- Settings -->
@@ -197,4 +221,23 @@
     <string name="omnijaws_action_choose_location">Выберите местоположение</string>
     <string name="omnijaws_error_api_key_missing">Требуется API ключ</string>
     <string name="omnijaws_error_api_key_missing_summary">Выбранному поставщику погоды необходим ключ API. Добавьте его в настройках или выберите другого поставщика.</string>
+    <!-- Omnistyle (QS header image picker) -->
+    <string name="omnistyle_browse_header">Заголовки</string>
+    <string name="omnistyle_custom_header_image_notice">Изображение заголовка установлено</string>
+    <string name="omnistyle_browse_theme_header">Тема заголовков</string>
+    <string name="omnistyle_pick_header">Выбрать изображение заголовка</string>
+    <!-- Header picker (Compose) -->
+    <string name="omnistyle_navigate_up">Перейти вверх</string>
+    <string name="omnistyle_header_current">Текущий заголовок</string>
+    <!-- %1$s: header count, e.g. "24 headers"; %2$s: pack creator -->
+    <string name="omnistyle_header_pack_summary"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%1$s</xliff:g> · от <xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="creator">%2$s</xliff:g></string>
+    <plurals name="omnistyle_header_count">
+        <item quantity="one"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> заголовок</item>
+        <item quantity="few"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> заголовка</item>
+        <item quantity="many"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> заголовков</item>
+        <item quantity="other"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> заголовков</item>
+    </plurals>
+    <string name="omnistyle_header_empty_title">Наборы заголовков не установлены</string>
+    <string name="omnistyle_header_empty_summary">Установленные наборы заголовков будут отображаться здесь</string>
+    <string name="omnistyle_header_pack_empty">В этом наборе нет заголовков</string>
 </resources>

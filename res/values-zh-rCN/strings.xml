@@ -11,6 +11,30 @@
     <string name="updater_link_forum">论坛</string>
     <string name="updater_build_unofficial">非官方版本</string>
     <string name="updater_maintainer_by">由 <xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g>维护</string>
+    <!-- Preferences: parallel download connections -->
+    <string name="updater_menu_download_connections">并行连接</string>
+    <!-- %1$s is the formatted count, e.g. "8 connections" -->
+    <string name="updater_menu_download_connections_summary">%1$s · 应用于新下载</string>
+    <string name="updater_download_connections_dialog_message">多连接并行下载可提速低速镜像。正在进行 / 暂停的下载维持原有连接数，新设置对后续下载生效。</string>
+    <plurals name="updater_download_connections_count">
+        <item quantity="other">One
+%d 条连接
+Other
+%d 条连接</item>
+    </plurals>
+    <!-- Preferences: SourceForge download mirror -->
+    <string name="updater_menu_download_mirror">下载镜像源</string>
+    <string name="updater_download_mirror_auto">自动选择可用镜像源</string>
+    <string name="updater_download_mirror_fastest">测试并使用最快镜像源</string>
+    <string name="updater_download_mirror_choose">显示可用镜像源</string>
+    <string name="updater_download_mirror_dialog_message">自动选择由 SourceForge 分配镜像源；测速模式会在每次下载前测试多个镜像并选用速度最快的，会产生少量额外流量；选择显示可用镜像时，点击下载会列出全部镜像。</string>
+    <string name="updater_download_mirror_list_title">可用镜像源</string>
+    <string name="updater_download_mirror_loading">正在加载镜像源…</string>
+    <string name="updater_download_mirror_list_failed">无法加载镜像源。将使用自动选择模式下载。</string>
+    <!-- Download card: %1$s is a formatted size, e.g. "5.2 MB" -->
+    <string name="updater_download_speed">%1$s/秒</string>
+    <!-- Download notification: %1$s is the existing "ETA, speed" text, %2$s is e.g. "8 connections" -->
+    <string name="updater_download_speed_with_connections">%1$s · %2$s</string>
     <!-- OmniJaws -->
     <string name="omnijaws_activity_title">天气</string>
     <!-- Settings -->
@@ -197,4 +221,20 @@
     <string name="omnijaws_action_choose_location">选择位置</string>
     <string name="omnijaws_error_api_key_missing">需要 API 密钥</string>
     <string name="omnijaws_error_api_key_missing_summary">所选天气服务商需要 API 密钥，请在设置中添加密钥或更换服务商。</string>
+    <!-- Omnistyle (QS header image picker) -->
+    <string name="omnistyle_browse_header">标题栏</string>
+    <string name="omnistyle_custom_header_image_notice">标题栏图片已设置</string>
+    <string name="omnistyle_browse_theme_header">标题栏主题</string>
+    <string name="omnistyle_pick_header">选择标题栏图片</string>
+    <!-- Header picker (Compose) -->
+    <string name="omnistyle_navigate_up">返回上一级</string>
+    <string name="omnistyle_header_current">当前标题栏图片</string>
+    <!-- %1$s: header count, e.g. "24 headers"; %2$s: pack creator -->
+    <string name="omnistyle_header_pack_summary"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%1$s</xliff:g> · by <xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="creator">%2$s</xliff:g></string>
+    <plurals name="omnistyle_header_count">
+        <item quantity="other"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> headers</item>
+    </plurals>
+    <string name="omnistyle_header_empty_title">未安装标题栏素材包</string>
+    <string name="omnistyle_header_empty_summary">已安装的标题栏素材包将显示在此处</string>
+    <string name="omnistyle_header_pack_empty">此素材包内不含标题栏图片</string>
 </resources>

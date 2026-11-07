@@ -11,6 +11,28 @@
     <string name="updater_link_forum">Foro</string>
     <string name="updater_build_unofficial">No oficial</string>
     <string name="updater_maintainer_by">por <xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g></string>
+    <!-- Preferences: parallel download connections -->
+    <string name="updater_menu_download_connections">Conexiones paralelas</string>
+    <!-- %1$s is the formatted count, e.g. "8 connections" -->
+    <string name="updater_menu_download_connections_summary">%1$s · Se aplica a las nuevas descargas</string>
+    <string name="updater_download_connections_dialog_message">La descarga a través de varias conexiones simultáneas puede acelerar los servidores lentos. Una descarga que ya ha comenzado o está pausada mantiene el número de conexiones con el que se inició. El nuevo valor se aplica a partir de la siguiente descarga.</string>
+    <plurals name="updater_download_connections_count">
+        <item quantity="one">%d conexión</item>
+        <item quantity="other">%d conexiones</item>
+    </plurals>
+    <!-- Preferences: SourceForge download mirror -->
+    <string name="updater_menu_download_mirror">Servidor de descarga</string>
+    <string name="updater_download_mirror_auto">Seleccionar automáticamente el servidor disponible</string>
+    <string name="updater_download_mirror_fastest">Probar y usar el servidor más rápido</string>
+    <string name="updater_download_mirror_choose">Mostrar servidores disponibles</string>
+    <string name="updater_download_mirror_dialog_message">La selección automática permite que SourceForge elija un servidor. La prueba comprueba varios servidores antes de cada descarga y utiliza el más rápido, consumiendo unos pocos MB de datos adicionales. Mostrar servidores disponibles muestra los servidores al tocar Descargar.</string>
+    <string name="updater_download_mirror_list_title">Servidores disponibles</string>
+    <string name="updater_download_mirror_loading">Cargando servidores…</string>
+    <string name="updater_download_mirror_list_failed">No se pudieron cargar los servidores. Se descargará utilizando la selección automática.</string>
+    <!-- Download card: %1$s is a formatted size, e.g. "5.2 MB" -->
+    <string name="updater_download_speed">%1$s/s</string>
+    <!-- Download notification: %1$s is the existing "ETA, speed" text, %2$s is e.g. "8 connections" -->
+    <string name="updater_download_speed_with_connections">%1$s · %2$s</string>
     <!-- OmniJaws -->
     <string name="omnijaws_activity_title">El Tiempo</string>
     <!-- Settings -->
@@ -197,4 +219,21 @@
     <string name="omnijaws_action_choose_location">Elegir la ubicación</string>
     <string name="omnijaws_error_api_key_missing">Se necesita una clave de API</string>
     <string name="omnijaws_error_api_key_missing_summary">El proveedor de clima seleccionado necesita una clave de API. Añada una en Configuración o elija otro proveedor.</string>
+    <!-- Omnistyle (QS header image picker) -->
+    <string name="omnistyle_browse_header">Encabezados</string>
+    <string name="omnistyle_custom_header_image_notice">Conjunto de imágenes del encabezado</string>
+    <string name="omnistyle_browse_theme_header">Encabezados del tema</string>
+    <string name="omnistyle_pick_header">Seleccionar imagen del encabezado</string>
+    <!-- Header picker (Compose) -->
+    <string name="omnistyle_navigate_up">Navegar hacia arriba</string>
+    <string name="omnistyle_header_current">Encabezado actual</string>
+    <!-- %1$s: header count, e.g. "24 headers"; %2$s: pack creator -->
+    <string name="omnistyle_header_pack_summary"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%1$s</xliff:g> · por <xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="creator">%2$s</xliff:g></string>
+    <plurals name="omnistyle_header_count">
+        <item quantity="one"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> encabezado</item>
+        <item quantity="other"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> encabezados</item>
+    </plurals>
+    <string name="omnistyle_header_empty_title">No hay paquetes de encabezado instalados</string>
+    <string name="omnistyle_header_empty_summary">Los paquetes de encabezado instalados aparecerán aquí</string>
+    <string name="omnistyle_header_pack_empty">Este paquete no tiene encabezados</string>
 </resources>

@@ -11,6 +11,28 @@
     <string name="updater_link_forum">Fórum</string>
     <string name="updater_build_unofficial">Nem hivatalos</string>
     <string name="updater_maintainer_by"><xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g> által</string>
+    <!-- Preferences: parallel download connections -->
+    <string name="updater_menu_download_connections">Párhuzamos kapcsolat</string>
+    <!-- %1$s is the formatted count, e.g. "8 connections" -->
+    <string name="updater_menu_download_connections_summary">%1$s · Új letöltésekre vonatkozik</string>
+    <string name="updater_download_connections_dialog_message">A több egyidejű kapcsolaton keresztüli letöltés felgyorsíthatja a lassú tükörszervereket. A már megkezdett vagy szüneteltetett letöltések megtartják azt a kapcsolatszámot, amellyel indultak. Az új érték a következő letöltéstől kezdve lép érvénybe.</string>
+    <plurals name="updater_download_connections_count">
+        <item quantity="one">%d kapcsolat</item>
+        <item quantity="other">%d kapcsolatok</item>
+    </plurals>
+    <!-- Preferences: SourceForge download mirror -->
+    <string name="updater_menu_download_mirror">Letöltési tükörszerver</string>
+    <string name="updater_download_mirror_auto">Elérhető tükörszerver automatikus kiválasztása</string>
+    <string name="updater_download_mirror_fastest">Tesztelje és használja a leggyorsabb tükörszervert</string>
+    <string name="updater_download_mirror_choose">Elérhető tükörszerverek megjelenítése</string>
+    <string name="updater_download_mirror_dialog_message">Az automatikus kiválasztás lehetővé teszi a SourceForge számára, hogy tükörszervert válasszon. A tesztelés minden letöltés előtt több lehetőséget is kipróbál, és a leggyorsabbat használja, néhány MB plusz adatmennyiséggel. Az elérhető tükrökszerverek a Letöltés gombra koppintva jelennek meg.</string>
+    <string name="updater_download_mirror_list_title">Elérhető tükörszerverek</string>
+    <string name="updater_download_mirror_loading">Tükörszerverek betöltése…</string>
+    <string name="updater_download_mirror_list_failed">Nem sikerült betölteni a tükörszervereket. Letöltés automatikus kiválasztással.</string>
+    <!-- Download card: %1$s is a formatted size, e.g. "5.2 MB" -->
+    <string name="updater_download_speed">%1$s/s</string>
+    <!-- Download notification: %1$s is the existing "ETA, speed" text, %2$s is e.g. "8 connections" -->
+    <string name="updater_download_speed_with_connections">%1$s - %2$s</string>
     <!-- OmniJaws -->
     <string name="omnijaws_activity_title">Időjárás</string>
     <!-- Settings -->
@@ -197,4 +219,21 @@
     <string name="omnijaws_action_choose_location">Hely kiválasztása</string>
     <string name="omnijaws_error_api_key_missing">API-kulcsra van szükség</string>
     <string name="omnijaws_error_api_key_missing_summary">A kiválasztott időjárás-szolgáltatóhoz API-kulcs szükséges. Adjon meg egyet a Beállításokban, vagy válasszon másik szolgáltatót.</string>
+    <!-- Omnistyle (QS header image picker) -->
+    <string name="omnistyle_browse_header">Fejlécek</string>
+    <string name="omnistyle_custom_header_image_notice">Fejléckép beállítás</string>
+    <string name="omnistyle_browse_theme_header">Fejléc témák</string>
+    <string name="omnistyle_pick_header">Fejléckép kiválasztása</string>
+    <!-- Header picker (Compose) -->
+    <string name="omnistyle_navigate_up">Felfele mozgás</string>
+    <string name="omnistyle_header_current">Aktuális fejléc</string>
+    <!-- %1$s: header count, e.g. "24 headers"; %2$s: pack creator -->
+    <string name="omnistyle_header_pack_summary"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%1$s</xliff:g> · készítette: <xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="creator">%2$s</xliff:g></string>
+    <plurals name="omnistyle_header_count">
+        <item quantity="one"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> fejléc</item>
+        <item quantity="other"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> fejlécek</item>
+    </plurals>
+    <string name="omnistyle_header_empty_title">Nincs telepítve fejléc csomag</string>
+    <string name="omnistyle_header_empty_summary">A telepített fejléc csomagok itt fognak megjelenni</string>
+    <string name="omnistyle_header_pack_empty">Ez a csomag nem tartalmaz fejléceket</string>
 </resources>

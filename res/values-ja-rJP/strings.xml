@@ -11,6 +11,27 @@
     <string name="updater_link_forum">フォーラム</string>
     <string name="updater_build_unofficial">非公式</string>
     <string name="updater_maintainer_by">by <xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g></string>
+    <!-- Preferences: parallel download connections -->
+    <string name="updater_menu_download_connections">並列接続</string>
+    <!-- %1$s is the formatted count, e.g. "8 connections" -->
+    <string name="updater_menu_download_connections_summary">%1$s · 新しいダウンロードに適用する</string>
+    <string name="updater_download_connections_dialog_message">複数の接続を同時に使用してダウンロードを行うと、低速なミラーサーバーからのダウンロードを高速化できる場合があります。すでに開始されている、あるいは一時停止中のダウンロードについては、開始時の接続数が維持されます。新しい設定値は、次回のダウンロードから適用されます。</string>
+    <plurals name="updater_download_connections_count">
+        <item quantity="other">%d 件の接続</item>
+    </plurals>
+    <!-- Preferences: SourceForge download mirror -->
+    <string name="updater_menu_download_mirror">ダウンロードミラーサイト</string>
+    <string name="updater_download_mirror_auto">利用可能なミラーを自動選択</string>
+    <string name="updater_download_mirror_fastest">最速のミラーをテストして使用</string>
+    <string name="updater_download_mirror_choose">利用可能なミラーを表示</string>
+    <string name="updater_download_mirror_dialog_message">自動選択により、SourceForge はミラーを選択できます。テストはダウンロードの前に複数のミラーを試行し、数MBの追加データを使用して高速に使用します。 ダウンロードをタップすると、ミラーの一覧が表示されます。</string>
+    <string name="updater_download_mirror_list_title">利用可能なミラーを表示</string>
+    <string name="updater_download_mirror_loading">ミラーを読み込んでいます…</string>
+    <string name="updater_download_mirror_list_failed">ミラーをロードできませんでした。自動選択でダウンロードします。</string>
+    <!-- Download card: %1$s is a formatted size, e.g. "5.2 MB" -->
+    <string name="updater_download_speed">%1$s /秒</string>
+    <!-- Download notification: %1$s is the existing "ETA, speed" text, %2$s is e.g. "8 connections" -->
+    <string name="updater_download_speed_with_connections">%1$s / %2$s</string>
     <!-- OmniJaws -->
     <string name="omnijaws_activity_title">天気</string>
     <!-- Settings -->
@@ -197,4 +218,20 @@
     <string name="omnijaws_action_choose_location">場所を選択</string>
     <string name="omnijaws_error_api_key_missing">API キーが必要です</string>
     <string name="omnijaws_error_api_key_missing_summary">選択した天気プロバイダにはAPIキーが必要です。設定で追加するか、別のプロバイダを選択してください。</string>
+    <!-- Omnistyle (QS header image picker) -->
+    <string name="omnistyle_browse_header">ヘッダー</string>
+    <string name="omnistyle_custom_header_image_notice">ヘッダー画像を設定</string>
+    <string name="omnistyle_browse_theme_header">テーマのヘッダー</string>
+    <string name="omnistyle_pick_header">ヘッダー画像の選択</string>
+    <!-- Header picker (Compose) -->
+    <string name="omnistyle_navigate_up">上へ移動</string>
+    <string name="omnistyle_header_current">現在のヘッダー</string>
+    <!-- %1$s: header count, e.g. "24 headers"; %2$s: pack creator -->
+    <string name="omnistyle_header_pack_summary"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%1$s</xliff:g> · by <xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="creator">%2$s</xliff:g></string>
+    <plurals name="omnistyle_header_count">
+        <item quantity="other"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> ヘッダー</item>
+    </plurals>
+    <string name="omnistyle_header_empty_title">ヘッダパックがインストールされていません</string>
+    <string name="omnistyle_header_empty_summary">インストールされているヘッダーパックがここに表示されます</string>
+    <string name="omnistyle_header_pack_empty">このパックにはヘッダーがありません</string>
 </resources>
