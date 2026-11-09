@@ -12,25 +12,25 @@
     <string name="updater_build_unofficial">غیر رسمی</string>
     <string name="updater_maintainer_by">توسط <xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g></string>
     <!-- Preferences: parallel download connections -->
-    <string name="updater_menu_download_connections">Parallel connections</string>
+    <string name="updater_menu_download_connections">اتصالات موازی</string>
     <!-- %1$s is the formatted count, e.g. "8 connections" -->
-    <string name="updater_menu_download_connections_summary">%1$s · Applies to new downloads</string>
-    <string name="updater_download_connections_dialog_message">Downloading over several connections at once can speed up slow mirrors. A download that has already started or is paused keeps the number of connections it began with. The new value applies from the next download.</string>
+    <string name="updater_menu_download_connections_summary">%1$s · شامل دانلودهای جدید می‌شود</string>
+    <string name="updater_download_connections_dialog_message">بارگیری از طریق چندین اتصال به‌طور همزمان می‌تواند سرعت سرورهای آینه‌ای کند را افزایش دهد. در مورد بارگیری‌هایی که از پیش آغاز شده یا متوقف شده‌اند، تعداد اتصالات همان مقداری باقی می‌ماند که در ابتدا تعیین شده بود. مقدار جدید از بارگیری بعدی اعمال خواهد شد.</string>
     <plurals name="updater_download_connections_count">
-        <item quantity="one">%d connection</item>
-        <item quantity="other">%d connections</item>
+        <item quantity="one">%d اتصال</item>
+        <item quantity="other">%d اتصال</item>
     </plurals>
     <!-- Preferences: SourceForge download mirror -->
-    <string name="updater_menu_download_mirror">Download mirror</string>
-    <string name="updater_download_mirror_auto">Auto-select available mirror</string>
-    <string name="updater_download_mirror_fastest">Test and use fastest mirror</string>
-    <string name="updater_download_mirror_choose">Show available mirrors</string>
-    <string name="updater_download_mirror_dialog_message">Auto-select lets SourceForge pick a mirror. Testing tries several mirrors before each download and uses the fastest, using a few MB of extra data. Show available mirrors lists the mirrors when you tap Download.</string>
-    <string name="updater_download_mirror_list_title">Available mirrors</string>
-    <string name="updater_download_mirror_loading">Loading mirrors…</string>
-    <string name="updater_download_mirror_list_failed">Couldn\'t load mirrors. Downloading with auto-select.</string>
+    <string name="updater_menu_download_mirror">آینه دانلود</string>
+    <string name="updater_download_mirror_auto">انتخاب خودکار سرور آینه‌ای موجود</string>
+    <string name="updater_download_mirror_fastest">سریع‌ترین سرور آینه‌ای را آزمایش و استفاده کنید</string>
+    <string name="updater_download_mirror_choose">نمایش آینه‌های موجود</string>
+    <string name="updater_download_mirror_dialog_message">انتخاب خودکار به SourceForge اجازه می‌دهد یک آینه انتخاب کند. تست قبل از هر دانلود، چندین آینه را امتحان می‌کند و با استفاده از چند مگابایت داده اضافی، سریع‌ترین را انتخاب می‌کند. نمایش آینه‌های موجود، آینه‌ها را هنگام ضربه زدن روی دانلود فهرست می‌کند.</string>
+    <string name="updater_download_mirror_list_title">آینه‌های موجود</string>
+    <string name="updater_download_mirror_loading">در حال بارگذاری آینه‌ها…</string>
+    <string name="updater_download_mirror_list_failed">بارگیری سرورهای جایگزین امکان‌پذیر نبود. دانلود با انتخاب خودکار انجام می‌شود.</string>
     <!-- Download card: %1$s is a formatted size, e.g. "5.2 MB" -->
-    <string name="updater_download_speed">%1$s/s</string>
+    <string name="updater_download_speed">%1$s/ثانیه</string>
     <!-- Download notification: %1$s is the existing "ETA, speed" text, %2$s is e.g. "8 connections" -->
     <string name="updater_download_speed_with_connections">%1$s · %2$s</string>
     <!-- OmniJaws -->
@@ -59,19 +59,19 @@
     <string name="omnijaws_weather_custom_location_missing">تعیین مکان سفارشی</string>
     <string name="omnijaws_grant_location_permission_title">اعطای مجوز مکان</string>
     <string name="omnijaws_grant_location_permission_summary">درخواست مکان یابی اتوماتیک</string>
-    <string name="omnijaws_grant_background_location_title">Allow location all the time</string>
-    <string name="omnijaws_grant_background_location_summary">Needed to keep the widget and lock screen weather updated in the background</string>
+    <string name="omnijaws_grant_background_location_title">اجازه همیشگی موقعیت مکانی</string>
+    <string name="omnijaws_grant_background_location_summary">برای به‌روزرسانی وضعیت آب‌وهوا در ویجت و صفحه قفل در پس‌زمینه، مورد نیاز است</string>
     <string name="omnijaws_weather_icon_pack_title">بسته آیکون وضعیت</string>
     <string name="omnijaws_icon_theme_title">نمایه آیکون</string>
-    <string name="omnijaws_theme_system">Follow system</string>
+    <string name="omnijaws_theme_system">پیروی از سیستم</string>
     <string name="omnijaws_theme_light">روشن</string>
     <string name="omnijaws_theme_dark">تاریک</string>
     <!-- OWM / Pirate Weather / Visual Crossing API -->
     <string name="omnijaws_owm_key">کلید OWM سفارشی</string>
     <string name="omnijaws_pirate_weather_key">کلید API غیرقانونی هواشناسی</string>
     <string name="omnijaws_provider_disabled">ارائه دهنده غیر فعال</string>
-    <string name="omnijaws_api_key_note">Pirate Weather and Visual Crossing need an API key to work, and a custom OWM key is recommended for OpenWeatherMap. Tap \"Last update time\" to force an update and test your key.</string>
-    <string name="omnijaws_api_links_note"><![CDATA[Get API keys: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a> | <a href="https://www.visualcrossing.com/">Visual Crossing</a>]]></string>
+    <string name="omnijaws_api_key_note">سرویس‌های Pirate Weather و Visual Crossing برای کار کردن به یک کلید API نیاز دارند؛ همچنین برای OpenWeatherMap، استفاده از یک کلید اختصاصی (OEM) توصیه می‌شود. برای به‌روزرسانی اجباری و امتحان کردن کلید خود، روی گزینه \"زمان آخرین به‌روزرسانی\" ضربه بزنید.</string>
+    <string name="omnijaws_api_links_note"><![CDATA[دریافت کلیدهای API: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a> | <a href="https://www.visualcrossing.com/">Visual Crossing</a>]]></string>
     <!-- Dashboard -->
     <string name="omnijaws_menu_title">فهرست</string>
     <string name="omnijaws_update_title">بروزرسانی</string>
@@ -135,7 +135,7 @@
     <!-- Widget -->
     <string name="omnijaws_weather_widget">ویجت هواشناسی</string>
     <string name="omnijaws_weather_widget_desc">"وضعیت هوای الان و پیش‌بینی چند روز آینده"</string>
-    <string name="omnijaws_weather_pebble_widget">Weather pebble</string>
+    <string name="omnijaws_weather_pebble_widget">سنگ هواشناسی</string>
     <string name="omnijaws_weather_pebble_widget_desc">Current temperature and condition</string>
     <string name="omnijaws_service_disabled">سرویس غیرفعال</string>
     <string name="omnijaws_service_error_long">خطا در بارگذاری اطلاعات هواشناسی</string>
