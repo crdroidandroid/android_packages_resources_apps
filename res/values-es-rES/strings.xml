@@ -238,10 +238,10 @@
     <string name="omnistyle_header_pack_empty">Este paquete no tiene encabezados</string>
     <!-- Dolby Atmos -->
     <string name="dolby_title">Dolby Atmos</string>
-    <string name="dolby_summary">Experience immersive audio</string>
-    <string name="dolby_enable">Use Dolby Atmos</string>
-    <string name="dolby_profile_title">Choose a profile</string>
-    <string name="dolby_preset">Equalizer</string>
+    <string name="dolby_summary">Experiencia de audio envolvente</string>
+    <string name="dolby_enable">Usar Dolby Atmos</string>
+    <string name="dolby_profile_title">Selecciona un perfil</string>
+    <string name="dolby_preset">Ecualizador</string>
     <string name="dolby_off">Off</string>
     <string name="dolby_on">On</string>
     <string name="dolby_low">Baja</string>
@@ -320,7 +320,7 @@
     <string name="dolby_preset_rb">R&amp;B</string>
     <string name="dolby_preset_vocal">Vocal Booster</string>
     <string name="dolby_preset_custom">Custom</string>
-    <string name="dolby_equalizer">Equalizer</string>
+    <string name="dolby_equalizer">Ecualizador</string>
     <string name="dolby_advanced">Advanced</string>
     <string name="dolby_home">Home</string>
     <!-- Dolby equalizer UI -->
