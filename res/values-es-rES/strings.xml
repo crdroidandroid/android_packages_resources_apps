@@ -406,42 +406,42 @@
     <!-- Notification Access -->
     <string name="dolby_notification_access_required">Se requiere acceso a las notificaciones</string>
     <string name="dolby_notification_access_required_desc">Habilita el acceso a las notificaciones para mantener Dolby Atmos en segundo plano y permitir el cambio automático de perfiles.</string>
-    <string name="dolby_enable_notification_access">Enable Notification Access</string>
+    <string name="dolby_enable_notification_access">Habilitar acceso a las notificaciones</string>
     <string name="dolby_enable_notification_access_desc">Habilita el acceso a las notificaciones para mantener Dolby Atmos en segundo plano y permitir el cambio automático de perfiles.</string>
-    <string name="dolby_notification_access_permission_details">This permission allows Dolby Atmos to:\n\n• Run continuously in the background\n• Automatically switch audio profiles\n• Monitor foreground apps\n\nYour notifications will not be read or modified.</string>
-    <string name="dolby_open_settings">Open Settings</string>
-    <string name="dolby_cancel">Cancel</string>
+    <string name="dolby_notification_access_permission_details">Este permiso permite que Dolby Atmos:\\n\\n• Se ejecute continuamente en segundo plano\\n• Cambie automáticamente los perfiles de audio\\n• Supervise las aplicaciones en primer plano\\n\\nTus notificaciones no serán leídas ni modificadas.</string>
+    <string name="dolby_open_settings">Abrir ajustes</string>
+    <string name="dolby_cancel">Cancelar</string>
     <!--import export -->
     <string name="dolby_import_export_presets">Importar/Exportar preajustes</string>
     <string name="dolby_import_presets">Importar preajustes</string>
     <string name="dolby_import_presets_description">Importar preajustes desde archivos o portapapeles</string>
-    <string name="dolby_import_single_file">Single File</string>
-    <string name="dolby_import_batch">Batch</string>
-    <string name="dolby_import_from_clipboard">From Clipboard</string>
-    <string name="dolby_your_custom_presets">Your Custom Presets</string>
-    <string name="dolby_processing">Processing...</string>
-    <string name="dolby_batch_export">Batch Export</string>
+    <string name="dolby_import_single_file">Un solo archivo</string>
+    <string name="dolby_import_batch">Lote</string>
+    <string name="dolby_import_from_clipboard">Desde el portapapeles</string>
+    <string name="dolby_your_custom_presets">Tus preajustes personalizados</string>
+    <string name="dolby_processing">Procesando...</string>
+    <string name="dolby_batch_export">Exportación por lotes</string>
     <string name="dolby_batch_export_description">¿Exportar todos los preajustes personalizados de %1$s a un solo archivo?</string>
     <string name="dolby_export_all">Exportar todo</string>
     <!-- Dolby mid enhancer -->
-    <string name="dolby_mid_enhancer">Mid enhancer</string>
-    <string name="dolby_mid_level">Mid level</string>
-    <string name="dolby_mid_enhancer_summary">Enhances mid-frequency sounds for clearer vocals and instruments</string>
+    <string name="dolby_mid_enhancer">Realzador de medios</string>
+    <string name="dolby_mid_level">Nivel de medios</string>
+    <string name="dolby_mid_enhancer_summary">Realza los sonidos de frecuencias medias para obtener voces e instrumentos más claros</string>
     <!-- Per-device state memory -->
-    <string name="dolby_device_state_memory_title">Per-device audio memory</string>
-    <string name="dolby_device_state_memory_summary">Remember Dolby settings for each audio device (headphones, speakers, Bluetooth)</string>
-    <string name="dolby_device_state_memory_conflict_toast">Per-app profiles disabled — incompatible with per-device memory</string>
-    <string name="dolby_device_state_memory_conflict_summary">⚠ Disabled while per-device memory is active — they conflict</string>
+    <string name="dolby_device_state_memory_title">Memoria de audio por dispositivo</string>
+    <string name="dolby_device_state_memory_summary">Recordar los ajustes de Dolby para cada dispositivo de audio (auriculares, altavoces, Bluetooth)</string>
+    <string name="dolby_device_state_memory_conflict_toast">Perfiles por aplicación desactivados — incompatibles con la memoria por dispositivo</string>
+    <string name="dolby_device_state_memory_conflict_summary">⚠ Desactivado mientras la memoria por dispositivo esté activa — son incompatibles</string>
     <string name="dolby_app_profile_conflict_toast">Memoria por dispositivo desactivada: incompatible con los perfiles por aplicación</string>
-    <string name="dolby_app_profile_conflict_summary">⚠ Disabled while per-app profiles are active — they conflict</string>
-    <string name="dolby_device_state_memory_section_title">Audio Device Memory</string>
+    <string name="dolby_app_profile_conflict_summary">⚠ Desactivado mientras los perfiles por aplicación estén activos — son incompatibles</string>
+    <string name="dolby_device_state_memory_section_title">Memoria de dispositivos de audio</string>
     <!-- AutoEQ Profile -->
-    <string name="dolby_autoeq_title">Apply AutoEQ Profile</string>
-    <string name="dolby_autoeq_applied">Applied AutoEQ for %1$s</string>
+    <string name="dolby_autoeq_title">Aplicar perfil AutoEQ</string>
+    <string name="dolby_autoeq_applied">AutoEQ aplicado para %1$s</string>
     <string name="dolby_autoeq_preset_name">AutoEQ: %1$s</string>
-    <string name="dolby_autoeq_search_hint">Search 8,000+ profiles...</string>
-    <string name="dolby_autoeq_currently_applied">Currently Applied</string>
-    <string name="dolby_autoeq_clear">Clear search</string>
+    <string name="dolby_autoeq_search_hint">Buscar entre más de 8.000 perfiles...</string>
+    <string name="dolby_autoeq_currently_applied">Aplicado actualmente</string>
+    <string name="dolby_autoeq_clear">Borrar búsqueda</string>
     <string name="dolby_autoeq_search">Buscar</string>
     <string name="dolby_autoeq_active">Perfil activo</string>
     <string name="dolby_autoeq_selected">Perfil seleccionado</string>
