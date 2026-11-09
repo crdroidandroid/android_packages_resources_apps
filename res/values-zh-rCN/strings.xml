@@ -315,8 +315,8 @@ Other
     <string name="dolby_preset_beats">节拍</string>
     <string name="dolby_preset_clear">通透清晰</string>
     <string name="dolby_preset_deep">深沉</string>
-    <string name="dolby_preset_dubstep">Dubstep</string>
-    <string name="dolby_preset_hardstyle">Hardstyle</string>
+    <string name="dolby_preset_dubstep">回响</string>
+    <string name="dolby_preset_hardstyle">硬派</string>
     <string name="dolby_preset_movie">影视</string>
     <string name="dolby_preset_rb">R&amp;B</string>
     <string name="dolby_preset_vocal">人声增强</string>
