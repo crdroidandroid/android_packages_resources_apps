@@ -298,6 +298,7 @@ Other
     <string name="dolby_profile_work">工作</string>
     <string name="dolby_profile_casual">休闲</string>
     <string name="dolby_profile_mood">氛围</string>
+    <string name="dolby_profile_custom">自定义</string>
     <!-- Dolby equalizer presets -->
     <string name="dolby_preset_default">平直（关闭）</string>
     <string name="dolby_preset_rock">摇滚</string>
@@ -446,4 +447,27 @@ Other
     <string name="dolby_autoeq_search">搜索</string>
     <string name="dolby_autoeq_active">当前配置文件</string>
     <string name="dolby_autoeq_selected">已选配置文件</string>
+    <!-- LatinIME -->
+    <!-- Description for Emoji keyboard subtype [CHAR LIMIT=25] -->
+    <string name="subtype_emoji">Emoji</string>
+    <!-- Title of the settings for enabling Emoji palette triggered by the Alt key on physical keyboards [CHAR LIMIT=35] -->
+    <string name="prefs_enable_emoji_alt_physical_key">Emoji for physical keyboard</string>
+    <!-- Description of the settings for enabling Emoji palette triggered by the Alt key on physical keyboards [CHAR LIMIT=64] -->
+    <string name="prefs_enable_emoji_alt_physical_key_summary">Physical Alt key shows the emoji palette</string>
+    <!-- Preference item for enabling the number row -->
+    <string name="number_row_summary">Always show a number row for all layouts that feature 4 rows of keys</string>
+    <!-- Preference item for enabling the number row on password inputs -->
+    <string name="number_row_password_summary">Always show a number row for all layouts that feature 4 rows of keys for password input</string>
+    <!-- Preference item for the space bar track pad -->
+    <string name="space_trackpad">Space bar trackpad</string>
+    <string name="space_trackpad_summary">Swipe on the spacebar to move the cursor</string>
+    <!-- Preference item for always showing the emoji key -->
+    <string name="show_emoji_key">Show emoji key</string>
+    <string name="show_emoji_key_summary">Always show emoji key.</string>
+    <!-- Preference item for typing the number hint of a key by swiping down -->
+    <string name="swipe_down_for_digits">Swipe down for numbers</string>
+    <string name="swipe_down_for_digits_summary">Swipe down on a key to type the number shown on it</string>
+    <!-- Preference item for suggesting recently copied text -->
+    <string name="show_clipboard_suggestions">Clipboard suggestions</string>
+    <string name="show_clipboard_suggestions_summary">Suggest recently copied text and verification codes</string>
 </resources>
