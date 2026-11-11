@@ -452,25 +452,25 @@
     <string name="dolby_autoeq_selected">Wybrany profil</string>
     <!-- LatinIME -->
     <!-- Description for Emoji keyboard subtype [CHAR LIMIT=25] -->
-    <string name="latinime_subtype_emoji">Emoji</string>
+    <string name="latinime_subtype_emoji">Emotikony</string>
     <!-- Title of the settings for enabling Emoji palette triggered by the Alt key on physical keyboards [CHAR LIMIT=35] -->
-    <string name="latinime_prefs_enable_emoji_alt_physical_key">Emoji for physical keyboard</string>
+    <string name="latinime_prefs_enable_emoji_alt_physical_key">Emotikony dla klawiatury fizycznej</string>
     <!-- Description of the settings for enabling Emoji palette triggered by the Alt key on physical keyboards [CHAR LIMIT=64] -->
-    <string name="latinime_prefs_enable_emoji_alt_physical_key_summary">Physical Alt key shows the emoji palette</string>
+    <string name="latinime_prefs_enable_emoji_alt_physical_key_summary">Naciśnięcie fizycznego klawisza Alt powoduje wyświetlenie palety emotikon</string>
     <!-- Preference item for enabling the number row -->
-    <string name="latinime_number_row_summary">Always show a number row for all layouts that feature 4 rows of keys</string>
+    <string name="latinime_number_row_summary">Zawsze wyświetlaj wiersz numeryczny dla wszystkich układów z 4 rzędami klawiszy</string>
     <!-- Preference item for enabling the number row on password inputs -->
-    <string name="latinime_number_row_password_summary">Always show a number row for all layouts that feature 4 rows of keys for password input</string>
+    <string name="latinime_number_row_password_summary">Zawsze wyświetlaj wiersz z cyframi we wszystkich układach zawierających 4 rzędy klawiszy do wprowadzania hasła</string>
     <!-- Preference item for the space bar track pad -->
-    <string name="latinime_space_trackpad">Space bar trackpad</string>
-    <string name="latinime_space_trackpad_summary">Swipe on the spacebar to move the cursor</string>
+    <string name="latinime_space_trackpad">Klawisz spacji jako gładzik</string>
+    <string name="latinime_space_trackpad_summary">Przesuwaj palcem po spacji, aby poruszać kursorem</string>
     <!-- Preference item for always showing the emoji key -->
-    <string name="latinime_show_emoji_key">Show emoji key</string>
-    <string name="latinime_show_emoji_key_summary">Always show emoji key.</string>
+    <string name="latinime_show_emoji_key">Pokazuj przycisk emotikon</string>
+    <string name="latinime_show_emoji_key_summary">Zawsze pokazuj klawisz emotikon.</string>
     <!-- Preference item for typing the number hint of a key by swiping down -->
-    <string name="latinime_swipe_down_for_digits">Swipe down for numbers</string>
-    <string name="latinime_swipe_down_for_digits_summary">Swipe down on a key to type the number shown on it</string>
+    <string name="latinime_swipe_down_for_digits">Przesuń palcem w dół, aby wyświetlić liczby</string>
+    <string name="latinime_swipe_down_for_digits_summary">Przesuń palcem w dół po klawiszu, aby wpisać wyświetloną na nim cyfrę</string>
     <!-- Preference item for suggesting recently copied text -->
-    <string name="latinime_show_clipboard_suggestions">Clipboard suggestions</string>
-    <string name="latinime_show_clipboard_suggestions_summary">Suggest recently copied text and verification codes</string>
+    <string name="latinime_show_clipboard_suggestions">Propozycje schowka</string>
+    <string name="latinime_show_clipboard_suggestions_summary">Proponuj ostatnio skopiowany tekst i kody weryfikacyjne</string>
 </resources>
