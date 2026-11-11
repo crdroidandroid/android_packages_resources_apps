@@ -449,25 +449,25 @@ Other
     <string name="dolby_autoeq_selected">已选配置文件</string>
     <!-- LatinIME -->
     <!-- Description for Emoji keyboard subtype [CHAR LIMIT=25] -->
-    <string name="latinime_subtype_emoji">Emoji</string>
+    <string name="latinime_subtype_emoji">表情符号</string>
     <!-- Title of the settings for enabling Emoji palette triggered by the Alt key on physical keyboards [CHAR LIMIT=35] -->
-    <string name="latinime_prefs_enable_emoji_alt_physical_key">Emoji for physical keyboard</string>
+    <string name="latinime_prefs_enable_emoji_alt_physical_key">实体键盘表情符号</string>
     <!-- Description of the settings for enabling Emoji palette triggered by the Alt key on physical keyboards [CHAR LIMIT=64] -->
-    <string name="latinime_prefs_enable_emoji_alt_physical_key_summary">Physical Alt key shows the emoji palette</string>
+    <string name="latinime_prefs_enable_emoji_alt_physical_key_summary">实体 Alt 键调出表情面板</string>
     <!-- Preference item for enabling the number row -->
-    <string name="latinime_number_row_summary">Always show a number row for all layouts that feature 4 rows of keys</string>
+    <string name="latinime_number_row_summary">所有四行布局键盘始终显示数字行</string>
     <!-- Preference item for enabling the number row on password inputs -->
-    <string name="latinime_number_row_password_summary">Always show a number row for all layouts that feature 4 rows of keys for password input</string>
+    <string name="latinime_number_row_password_summary">密码输入时，所有四行布局键盘始终显示数字行</string>
     <!-- Preference item for the space bar track pad -->
-    <string name="latinime_space_trackpad">Space bar trackpad</string>
-    <string name="latinime_space_trackpad_summary">Swipe on the spacebar to move the cursor</string>
+    <string name="latinime_space_trackpad">空格键触控板</string>
+    <string name="latinime_space_trackpad_summary">在空格键上滑动以移动光标</string>
     <!-- Preference item for always showing the emoji key -->
-    <string name="latinime_show_emoji_key">Show emoji key</string>
-    <string name="latinime_show_emoji_key_summary">Always show emoji key.</string>
+    <string name="latinime_show_emoji_key">显示表情按键</string>
+    <string name="latinime_show_emoji_key_summary">始终显示表情按键。</string>
     <!-- Preference item for typing the number hint of a key by swiping down -->
-    <string name="latinime_swipe_down_for_digits">Swipe down for numbers</string>
-    <string name="latinime_swipe_down_for_digits_summary">Swipe down on a key to type the number shown on it</string>
+    <string name="latinime_swipe_down_for_digits">下滑输入数字</string>
+    <string name="latinime_swipe_down_for_digits_summary">在按键上下滑，输入该键标注的数字</string>
     <!-- Preference item for suggesting recently copied text -->
-    <string name="latinime_show_clipboard_suggestions">Clipboard suggestions</string>
-    <string name="latinime_show_clipboard_suggestions_summary">Suggest recently copied text and verification codes</string>
+    <string name="latinime_show_clipboard_suggestions">剪贴板建议</string>
+    <string name="latinime_show_clipboard_suggestions_summary">推荐最近复制的文本与验证码</string>
 </resources>
