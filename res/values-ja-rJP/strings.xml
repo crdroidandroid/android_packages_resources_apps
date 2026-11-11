@@ -390,63 +390,63 @@
     <string name="dolby_app_profiles_auto_switch">プロファイルの自動切り替え</string>
     <string name="dolby_app_profiles_show_toasts">トーストを表示</string>
     <!-- Preset Import/Export -->
-    <string name="dolby_preset_import_export">Import/Export Presets</string>
-    <string name="dolby_preset_export_single">Export Preset</string>
-    <string name="dolby_preset_import_single">Import Preset</string>
-    <string name="dolby_preset_export_batch">Export All Presets</string>
-    <string name="dolby_preset_import_batch">Import Multiple Presets</string>
-    <string name="dolby_preset_copy_clipboard">Copy to Clipboard</string>
-    <string name="dolby_preset_paste_clipboard">Paste from Clipboard</string>
-    <string name="dolby_preset_share">Share Preset</string>
-    <string name="dolby_preset_export_success">Preset exported successfully</string>
-    <string name="dolby_preset_import_success">Preset imported successfully</string>
-    <string name="dolby_preset_export_failed">Export failed</string>
-    <string name="dolby_preset_import_failed">Import failed</string>
+    <string name="dolby_preset_import_export">プリセットのインポート/エクスポート</string>
+    <string name="dolby_preset_export_single">プリセットをエクスポート</string>
+    <string name="dolby_preset_import_single">プリセットをインポート</string>
+    <string name="dolby_preset_export_batch">すべてのプリセットをエクスポート</string>
+    <string name="dolby_preset_import_batch">複数のプリセットをインポート</string>
+    <string name="dolby_preset_copy_clipboard">クリップボードへコピー</string>
+    <string name="dolby_preset_paste_clipboard">クリップボードから貼り付け</string>
+    <string name="dolby_preset_share">プリセットを共有</string>
+    <string name="dolby_preset_export_success">プリセットが正常にエクスポートされました</string>
+    <string name="dolby_preset_import_success">プリセットが正常にインポートされました</string>
+    <string name="dolby_preset_export_failed">エクスポートに失敗しました</string>
+    <string name="dolby_preset_import_failed">インポートに失敗しました</string>
     <!-- Notification Access -->
-    <string name="dolby_notification_access_required">Notification Access Required</string>
-    <string name="dolby_notification_access_required_desc">Enable notification access to keep Dolby Atmos running in the background and allow automatic profile switching.</string>
-    <string name="dolby_enable_notification_access">Enable Notification Access</string>
-    <string name="dolby_enable_notification_access_desc">Enable notification access to keep Dolby Atmos running in the background and allow automatic profile switching.</string>
-    <string name="dolby_notification_access_permission_details">This permission allows Dolby Atmos to:\n\n• Run continuously in the background\n• Automatically switch audio profiles\n• Monitor foreground apps\n\nYour notifications will not be read or modified.</string>
-    <string name="dolby_open_settings">Open Settings</string>
-    <string name="dolby_cancel">Cancel</string>
+    <string name="dolby_notification_access_required">通知アクセスが必要です</string>
+    <string name="dolby_notification_access_required_desc">通知へのアクセスを有効にすると、Dolby Atmosをバックグラウンドで動作させ続け、プロファイルを自動的に切り替えられるようになります。</string>
+    <string name="dolby_enable_notification_access">通知アクセスを有効にする</string>
+    <string name="dolby_enable_notification_access_desc">通知へのアクセスを有効にすると、Dolby Atmosをバックグラウンドで動作させ続け、プロファイルを自動的に切り替えられるようになります。</string>
+    <string name="dolby_notification_access_permission_details">この権限を許可すると、Dolby Atmosで以下の動作ができるようになるよ:\n\n• バックグラウンドでの常時実行\n• オーディオプロファイルの自動切り替え\n• フォアグラウンドアプリの監視\n\n通知の内容が読み取られたり、変更されたりすることはないよ。</string>
+    <string name="dolby_open_settings">設定を開く</string>
+    <string name="dolby_cancel">キャンセル</string>
     <!--import export -->
-    <string name="dolby_import_export_presets">Import/Export Presets</string>
-    <string name="dolby_import_presets">Import Presets</string>
-    <string name="dolby_import_presets_description">Import presets from files or clipboard</string>
-    <string name="dolby_import_single_file">Single File</string>
-    <string name="dolby_import_batch">Batch</string>
-    <string name="dolby_import_from_clipboard">From Clipboard</string>
-    <string name="dolby_your_custom_presets">Your Custom Presets</string>
-    <string name="dolby_processing">Processing...</string>
-    <string name="dolby_batch_export">Batch Export</string>
-    <string name="dolby_batch_export_description">Export all %1$s custom presets to a single file?</string>
-    <string name="dolby_export_all">Export All</string>
+    <string name="dolby_import_export_presets">プリセットのインポート/エクスポート</string>
+    <string name="dolby_import_presets">プリセットをインポート</string>
+    <string name="dolby_import_presets_description">プリセットをファイルまたはクリップボードからインポート</string>
+    <string name="dolby_import_single_file">単一ファイル</string>
+    <string name="dolby_import_batch">一括</string>
+    <string name="dolby_import_from_clipboard">クリップボードから</string>
+    <string name="dolby_your_custom_presets">カスタム プリセット</string>
+    <string name="dolby_processing">処理中...</string>
+    <string name="dolby_batch_export">一括エクスポート</string>
+    <string name="dolby_batch_export_description">すべての %1$s カスタムプリセットを 1 つのファイルにエクスポートしますか?</string>
+    <string name="dolby_export_all">全てエクスポート</string>
     <!-- Dolby mid enhancer -->
-    <string name="dolby_mid_enhancer">Mid enhancer</string>
-    <string name="dolby_mid_level">Mid level</string>
-    <string name="dolby_mid_enhancer_summary">Enhances mid-frequency sounds for clearer vocals and instruments</string>
+    <string name="dolby_mid_enhancer">ミッドエンハンサー</string>
+    <string name="dolby_mid_level">中音レベル</string>
+    <string name="dolby_mid_enhancer_summary">中音域を強調し、ボーカルや楽器の音をよりクリアにする</string>
     <!-- Per-device state memory -->
-    <string name="dolby_device_state_memory_title">Per-device audio memory</string>
-    <string name="dolby_device_state_memory_summary">Remember Dolby settings for each audio device (headphones, speakers, Bluetooth)</string>
-    <string name="dolby_device_state_memory_conflict_toast">Per-app profiles disabled — incompatible with per-device memory</string>
-    <string name="dolby_device_state_memory_conflict_summary">⚠ Disabled while per-device memory is active — they conflict</string>
-    <string name="dolby_app_profile_conflict_toast">Per-device memory disabled — incompatible with per-app profiles</string>
-    <string name="dolby_app_profile_conflict_summary">⚠ Disabled while per-app profiles are active — they conflict</string>
-    <string name="dolby_device_state_memory_section_title">Audio Device Memory</string>
+    <string name="dolby_device_state_memory_title">デバイス別オーディオメモリ</string>
+    <string name="dolby_device_state_memory_summary">オーディオデバイス（ヘッドホン、スピーカー、Bluetooth）ごとにDolbyの設定を記憶する</string>
+    <string name="dolby_device_state_memory_conflict_toast">アプリ別プロファイルが無効化されました – デバイス別メモリと互換性がありません</string>
+    <string name="dolby_device_state_memory_conflict_summary">⚠️ デバイス別メモリが有効な間は無効になります（競合するため）</string>
+    <string name="dolby_app_profile_conflict_toast">デバイス別メモリが無効化されました – アプリ別プロファイルと互換性がありません</string>
+    <string name="dolby_app_profile_conflict_summary">⚠️ アプリ別プロファイルが有効な間は無効になります（競合するため）</string>
+    <string name="dolby_device_state_memory_section_title">オーディオデバイスのメモリ</string>
     <!-- AutoEQ Profile -->
-    <string name="dolby_autoeq_title">Apply AutoEQ Profile</string>
-    <string name="dolby_autoeq_applied">Applied AutoEQ for %1$s</string>
+    <string name="dolby_autoeq_title">AutoEQ プロファイルの適用</string>
+    <string name="dolby_autoeq_applied">%1$s に適用されたAutoEQ</string>
     <string name="dolby_autoeq_preset_name">AutoEQ: %1$s</string>
-    <string name="dolby_autoeq_search_hint">Search 8,000+ profiles...</string>
-    <string name="dolby_autoeq_currently_applied">Currently Applied</string>
-    <string name="dolby_autoeq_clear">Clear search</string>
-    <string name="dolby_autoeq_search">Search</string>
-    <string name="dolby_autoeq_active">Active profile</string>
-    <string name="dolby_autoeq_selected">Selected profile</string>
+    <string name="dolby_autoeq_search_hint">8,000以上のプロファイルを検索...</string>
+    <string name="dolby_autoeq_currently_applied">現在適用されました</string>
+    <string name="dolby_autoeq_clear">検索をクリア</string>
+    <string name="dolby_autoeq_search">検索</string>
+    <string name="dolby_autoeq_active">使用中のプロファイル</string>
+    <string name="dolby_autoeq_selected">選択中のプロファイル</string>
     <!-- LatinIME -->
     <!-- Description for Emoji keyboard subtype [CHAR LIMIT=25] -->
-    <string name="latinime_subtype_emoji">Emoji</string>
+    <string name="latinime_subtype_emoji">絵文字</string>
     <!-- Title of the settings for enabling Emoji palette triggered by the Alt key on physical keyboards [CHAR LIMIT=35] -->
     <string name="latinime_prefs_enable_emoji_alt_physical_key">物理キーボード用絵文字</string>
     <!-- Description of the settings for enabling Emoji palette triggered by the Alt key on physical keyboards [CHAR LIMIT=64] -->
@@ -462,9 +462,9 @@
     <string name="latinime_show_emoji_key">絵文字キー を表示する</string>
     <string name="latinime_show_emoji_key_summary">絵文字キーを常に表示する。</string>
     <!-- Preference item for typing the number hint of a key by swiping down -->
-    <string name="latinime_swipe_down_for_digits">Swipe down for numbers</string>
-    <string name="latinime_swipe_down_for_digits_summary">Swipe down on a key to type the number shown on it</string>
+    <string name="latinime_swipe_down_for_digits">下にスワイプして数字を表示</string>
+    <string name="latinime_swipe_down_for_digits_summary">キーを下にスワイプして番号を入力します</string>
     <!-- Preference item for suggesting recently copied text -->
-    <string name="latinime_show_clipboard_suggestions">Clipboard suggestions</string>
-    <string name="latinime_show_clipboard_suggestions_summary">Suggest recently copied text and verification codes</string>
+    <string name="latinime_show_clipboard_suggestions">クリップボードの候補</string>
+    <string name="latinime_show_clipboard_suggestions_summary">最近コピーしたテキストと認証コードを提案する</string>
 </resources>
