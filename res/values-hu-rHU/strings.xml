@@ -365,12 +365,12 @@
     <string name="dolby_balanced">Kiegyensúlyozott</string>
     <string name="dolby_warm">Meleg</string>
     <string name="dolby_detailed">Részletezett</string>
-    <string name="dolby_ieq_off_summary">Use the current profile without intelligent EQ.</string>
-    <string name="dolby_ieq_detailed_summary">Bring out subtle details and clarity.</string>
-    <string name="dolby_ieq_balanced_summary">Keep lows, mids, and highs in balance.</string>
-    <string name="dolby_ieq_warm_summary">Give your sound a softer, warmer character.</string>
+    <string name="dolby_ieq_off_summary">Használja az aktuális profilt intelligens EQ nélkül.</string>
+    <string name="dolby_ieq_detailed_summary">Hozd elő a finom részleteket és a tisztaságot.</string>
+    <string name="dolby_ieq_balanced_summary">Tartsd egyensúlyban a mély, a közép- és a magas frekvenciákat.</string>
+    <string name="dolby_ieq_warm_summary">Kölcsönözz lágyabb, melegebb karaktert a hangzásnak.</string>
     <!-- Per-App Audio Profiles -->
-    <string name="dolby_app_profiles_title">Per-App Audio Profiles</string>
+    <string name="dolby_app_profiles_title">Alkalmazásonkénti hangprofilok</string>
     <string name="dolby_app_profiles_desc">Assign different audio profiles to individual apps for optimized sound based on content type</string>
     <string name="dolby_app_profiles_search_hint">Search apps...</string>
     <string name="dolby_app_profiles_no_apps">No apps found</string>
@@ -387,8 +387,8 @@
     <string name="dolby_app_profiles_grant_permission">Grant Permission</string>
     <string name="dolby_app_profiles_search_placeholder">Alkalmazások keresése...</string>
     <string name="dolby_app_profiles_no_apps_found">Nem található alkalmazás</string>
-    <string name="dolby_app_profiles_retry">Retry</string>
-    <string name="dolby_app_profiles_change">Change</string>
+    <string name="dolby_app_profiles_retry">Próbálja újra</string>
+    <string name="dolby_app_profiles_change">Módosítás</string>
     <string name="dolby_app_profiles_auto_switch">Auto-switch profiles</string>
     <string name="dolby_app_profiles_show_toasts">Show toasts</string>
     <!-- Preset Import/Export -->
@@ -440,7 +440,7 @@
     <string name="dolby_autoeq_title">Apply AutoEQ Profile</string>
     <string name="dolby_autoeq_applied">Applied AutoEQ for %1$s</string>
     <string name="dolby_autoeq_preset_name">AutoEQ: %1$s</string>
-    <string name="dolby_autoeq_search_hint">Search 8,000+ profiles...</string>
+    <string name="dolby_autoeq_search_hint">Keress több mint 8000 profil között...</string>
     <string name="dolby_autoeq_currently_applied">Currently Applied</string>
     <string name="dolby_autoeq_clear">Keresés törlése</string>
     <string name="dolby_autoeq_search">Keresés</string>
