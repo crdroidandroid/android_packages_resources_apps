@@ -361,10 +361,10 @@
     <string name="dolby_band_tuner_reset">0 dB</string>
     <string name="dolby_band_tuner_increment">+0.1 dB</string>
     <!-- Dolby intelligent EQ -->
-    <string name="dolby_ieq">Intelligent equalizer</string>
+    <string name="dolby_ieq">Intelligens hangszínszabályozó</string>
     <string name="dolby_balanced">Kiegyensúlyozott</string>
-    <string name="dolby_warm">Warm</string>
-    <string name="dolby_detailed">Detailed</string>
+    <string name="dolby_warm">Meleg</string>
+    <string name="dolby_detailed">Részletezett</string>
     <string name="dolby_ieq_off_summary">Use the current profile without intelligent EQ.</string>
     <string name="dolby_ieq_detailed_summary">Bring out subtle details and clarity.</string>
     <string name="dolby_ieq_balanced_summary">Keep lows, mids, and highs in balance.</string>
@@ -378,15 +378,15 @@
     <string name="dolby_app_profiles_clear_all">Clear All App Profiles</string>
     <string name="dolby_app_profiles_clear_all_message">This will remove all per-app profile assignments. Apps will use the default profile.</string>
     <string name="dolby_app_profiles_manage">Manage App Profiles</string>
-    <string name="dolby_app_profiles_default">Default</string>
+    <string name="dolby_app_profiles_default">Alapértelmezett</string>
     <string name="dolby_app_profiles_assigned">Assigned: %1$s</string>
     <string name="dolby_app_profiles_headphone_only">Headphone/BT only mode</string>
     <string name="dolby_app_profiles_headphone_only_description">Only switch profiles when earphones or Bluetooth audio devices are connected</string>
     <string name="dolby_app_profiles_permission_required">Permission Required</string>
     <string name="dolby_app_profiles_permission_required_details">To automatically switch profiles based on the active app, please grant Usage Access permission in the next screen.</string>
     <string name="dolby_app_profiles_grant_permission">Grant Permission</string>
-    <string name="dolby_app_profiles_search_placeholder">Search apps...</string>
-    <string name="dolby_app_profiles_no_apps_found">No apps found</string>
+    <string name="dolby_app_profiles_search_placeholder">Alkalmazások keresése...</string>
+    <string name="dolby_app_profiles_no_apps_found">Nem található alkalmazás</string>
     <string name="dolby_app_profiles_retry">Retry</string>
     <string name="dolby_app_profiles_change">Change</string>
     <string name="dolby_app_profiles_auto_switch">Auto-switch profiles</string>
