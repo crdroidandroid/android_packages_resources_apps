@@ -435,13 +435,13 @@
     <string name="dolby_device_state_memory_conflict_summary">⚠ Disabled while per-device memory is active — they conflict</string>
     <string name="dolby_app_profile_conflict_toast">Per-device memory disabled — incompatible with per-app profiles</string>
     <string name="dolby_app_profile_conflict_summary">⚠ Disabled while per-app profiles are active — they conflict</string>
-    <string name="dolby_device_state_memory_section_title">Audio Device Memory</string>
+    <string name="dolby_device_state_memory_section_title">Hangeszköz-memória</string>
     <!-- AutoEQ Profile -->
-    <string name="dolby_autoeq_title">Apply AutoEQ Profile</string>
+    <string name="dolby_autoeq_title">AutoEQ-profil alkalmazása</string>
     <string name="dolby_autoeq_applied">Applied AutoEQ for %1$s</string>
     <string name="dolby_autoeq_preset_name">AutoEQ: %1$s</string>
     <string name="dolby_autoeq_search_hint">Keress több mint 8000 profil között...</string>
-    <string name="dolby_autoeq_currently_applied">Currently Applied</string>
+    <string name="dolby_autoeq_currently_applied">Jelenleg alkalmazott</string>
     <string name="dolby_autoeq_clear">Keresés törlése</string>
     <string name="dolby_autoeq_search">Keresés</string>
     <string name="dolby_autoeq_active">Aktív profil</string>
@@ -454,19 +454,19 @@
     <!-- Description of the settings for enabling Emoji palette triggered by the Alt key on physical keyboards [CHAR LIMIT=64] -->
     <string name="latinime_prefs_enable_emoji_alt_physical_key_summary">Physical Alt key shows the emoji palette</string>
     <!-- Preference item for enabling the number row -->
-    <string name="latinime_number_row_summary">Always show a number row for all layouts that feature 4 rows of keys</string>
+    <string name="latinime_number_row_summary">Minden olyan kiosztásnál, amely 4 billentyűsorral rendelkezik, mindig jelenjen meg a számsor</string>
     <!-- Preference item for enabling the number row on password inputs -->
-    <string name="latinime_number_row_password_summary">Always show a number row for all layouts that feature 4 rows of keys for password input</string>
+    <string name="latinime_number_row_password_summary">Jelszóbevitelhez mindig jelenítsen meg számsort minden olyan kiosztásnál, amely 4 billentyűsorral rendelkezik</string>
     <!-- Preference item for the space bar track pad -->
-    <string name="latinime_space_trackpad">Space bar trackpad</string>
-    <string name="latinime_space_trackpad_summary">Swipe on the spacebar to move the cursor</string>
+    <string name="latinime_space_trackpad">Szóköz, mint egérpad</string>
+    <string name="latinime_space_trackpad_summary">A kurzor mozgatásához húzza az ujját a szóköz billentyűn</string>
     <!-- Preference item for always showing the emoji key -->
-    <string name="latinime_show_emoji_key">Show emoji key</string>
-    <string name="latinime_show_emoji_key_summary">Always show emoji key.</string>
+    <string name="latinime_show_emoji_key">Emoji-jelmagyarázat megjelenítése</string>
+    <string name="latinime_show_emoji_key_summary">Mindig jelenítse meg az emoji-kulcsot.</string>
     <!-- Preference item for typing the number hint of a key by swiping down -->
-    <string name="latinime_swipe_down_for_digits">Swipe down for numbers</string>
-    <string name="latinime_swipe_down_for_digits_summary">Swipe down on a key to type the number shown on it</string>
+    <string name="latinime_swipe_down_for_digits">Számkarakterek lefelé húzással</string>
+    <string name="latinime_swipe_down_for_digits_summary">A szám a billenyűn való lefelé húzással érhető el</string>
     <!-- Preference item for suggesting recently copied text -->
-    <string name="latinime_show_clipboard_suggestions">Clipboard suggestions</string>
+    <string name="latinime_show_clipboard_suggestions">Vágólapjavaslatok</string>
     <string name="latinime_show_clipboard_suggestions_summary">Nemrég másolt szövegek és ellenőrző kódok felajánlása</string>
 </resources>
