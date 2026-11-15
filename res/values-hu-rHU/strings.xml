@@ -390,12 +390,12 @@
     <string name="dolby_app_profiles_retry">Próbálja újra</string>
     <string name="dolby_app_profiles_change">Módosítás</string>
     <string name="dolby_app_profiles_auto_switch">Profilok automatikus váltása</string>
-    <string name="dolby_app_profiles_show_toasts">Show toasts</string>
+    <string name="dolby_app_profiles_show_toasts">Értesítések megjelenítése</string>
     <!-- Preset Import/Export -->
-    <string name="dolby_preset_import_export">Import/Export Presets</string>
-    <string name="dolby_preset_export_single">Export Preset</string>
-    <string name="dolby_preset_import_single">Import Preset</string>
-    <string name="dolby_preset_export_batch">Export All Presets</string>
+    <string name="dolby_preset_import_export">Előbeállítások importálása/exportálása</string>
+    <string name="dolby_preset_export_single">Előbeállítás exportálása</string>
+    <string name="dolby_preset_import_single">Előbeállítás importálása</string>
+    <string name="dolby_preset_export_batch">Összes előbeállítás exportálása</string>
     <string name="dolby_preset_import_batch">Import Multiple Presets</string>
     <string name="dolby_preset_copy_clipboard">Copy to Clipboard</string>
     <string name="dolby_preset_paste_clipboard">Paste from Clipboard</string>
@@ -413,12 +413,12 @@
     <string name="dolby_open_settings">Open Settings</string>
     <string name="dolby_cancel">Cancel</string>
     <!--import export -->
-    <string name="dolby_import_export_presets">Import/Export Presets</string>
+    <string name="dolby_import_export_presets">Előbeállítások importálása/exportálása</string>
     <string name="dolby_import_presets">Import Presets</string>
     <string name="dolby_import_presets_description">Import presets from files or clipboard</string>
-    <string name="dolby_import_single_file">Single File</string>
+    <string name="dolby_import_single_file">Egyetlen fájl</string>
     <string name="dolby_import_batch">Batch</string>
-    <string name="dolby_import_from_clipboard">From Clipboard</string>
+    <string name="dolby_import_from_clipboard">A vágólapról</string>
     <string name="dolby_your_custom_presets">Your Custom Presets</string>
     <string name="dolby_processing">Feldolgozás...</string>
     <string name="dolby_batch_export">Batch Export</string>
@@ -468,5 +468,5 @@
     <string name="latinime_swipe_down_for_digits_summary">Swipe down on a key to type the number shown on it</string>
     <!-- Preference item for suggesting recently copied text -->
     <string name="latinime_show_clipboard_suggestions">Clipboard suggestions</string>
-    <string name="latinime_show_clipboard_suggestions_summary">Suggest recently copied text and verification codes</string>
+    <string name="latinime_show_clipboard_suggestions_summary">Nemrég másolt szövegek és ellenőrző kódok felajánlása</string>
 </resources>
