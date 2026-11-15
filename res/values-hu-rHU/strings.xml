@@ -353,10 +353,10 @@
     <string name="dolby_geq_l_bands">sávok</string>
     <string name="dolby_band_tuner">Sávhangoló</string>
     <string name="dolby_band_tuner_desc">Lépkedj a sávok között, és finomhangold az erősítést 0,1 dB-es lépésekben</string>
-    <string name="dolby_band_tuner_position">Band %1$d of %2$d</string>
-    <string name="dolby_band_tuner_label">Band %1$d · %2$s</string>
-    <string name="dolby_band_tuner_previous">Previous band</string>
-    <string name="dolby_band_tuner_next">Next band</string>
+    <string name="dolby_band_tuner_position">%1$d sáv a(z) %2$d sávból</string>
+    <string name="dolby_band_tuner_label">%1$d sáv · %2$s</string>
+    <string name="dolby_band_tuner_previous">Előző sáv</string>
+    <string name="dolby_band_tuner_next">Következő sáv</string>
     <string name="dolby_band_tuner_decrement">−0.1 dB</string>
     <string name="dolby_band_tuner_reset">0 dB</string>
     <string name="dolby_band_tuner_increment">+0.1 dB</string>
@@ -396,49 +396,49 @@
     <string name="dolby_preset_export_single">Előbeállítás exportálása</string>
     <string name="dolby_preset_import_single">Előbeállítás importálása</string>
     <string name="dolby_preset_export_batch">Összes előbeállítás exportálása</string>
-    <string name="dolby_preset_import_batch">Import Multiple Presets</string>
-    <string name="dolby_preset_copy_clipboard">Copy to Clipboard</string>
-    <string name="dolby_preset_paste_clipboard">Paste from Clipboard</string>
-    <string name="dolby_preset_share">Share Preset</string>
-    <string name="dolby_preset_export_success">Preset exported successfully</string>
-    <string name="dolby_preset_import_success">Preset imported successfully</string>
-    <string name="dolby_preset_export_failed">Export failed</string>
-    <string name="dolby_preset_import_failed">Import failed</string>
+    <string name="dolby_preset_import_batch">Több előbeállítás importálása</string>
+    <string name="dolby_preset_copy_clipboard">Másolás a vágólapra</string>
+    <string name="dolby_preset_paste_clipboard">Beillesztés a vágólapról</string>
+    <string name="dolby_preset_share">Előbeállítás megosztása</string>
+    <string name="dolby_preset_export_success">Az előbeállítás sikeresen exportálva</string>
+    <string name="dolby_preset_import_success">Az előbeállítás sikeresen importálva</string>
+    <string name="dolby_preset_export_failed">Exportálás sikertelen</string>
+    <string name="dolby_preset_import_failed">Az importálás sikertelen</string>
     <!-- Notification Access -->
-    <string name="dolby_notification_access_required">Notification Access Required</string>
-    <string name="dolby_notification_access_required_desc">Enable notification access to keep Dolby Atmos running in the background and allow automatic profile switching.</string>
-    <string name="dolby_enable_notification_access">Enable Notification Access</string>
-    <string name="dolby_enable_notification_access_desc">Enable notification access to keep Dolby Atmos running in the background and allow automatic profile switching.</string>
-    <string name="dolby_notification_access_permission_details">This permission allows Dolby Atmos to:\n\n• Run continuously in the background\n• Automatically switch audio profiles\n• Monitor foreground apps\n\nYour notifications will not be read or modified.</string>
-    <string name="dolby_open_settings">Open Settings</string>
-    <string name="dolby_cancel">Cancel</string>
+    <string name="dolby_notification_access_required">Értesítés hozzáférés szükséges</string>
+    <string name="dolby_notification_access_required_desc">Engedélyezd az értesítésekhez való hozzáférést, hogy a Dolby Atmos a háttérben is működhessen, és lehetővé váljon a profilok automatikus váltása.</string>
+    <string name="dolby_enable_notification_access">Értesítés hozzáférés engedélyezése</string>
+    <string name="dolby_enable_notification_access_desc">Engedélyezd az értesítésekhez való hozzáférést, hogy a Dolby Atmos a háttérben is működhessen, és lehetővé váljon a profilok automatikus váltása.</string>
+    <string name="dolby_notification_access_permission_details">Ez az engedély lehetővé teszi a Dolby Atmos számára, hogy:\n\n• Folyamatosan fusson a háttérben\n• Automatikusan váltson hangprofilokat\n• Figyelje az előtérben futó alkalmazásokat\n\nAz értesítéseit a rendszer nem olvassa be és nem módosítja.</string>
+    <string name="dolby_open_settings">Beállítások megnyitása</string>
+    <string name="dolby_cancel">Mégse</string>
     <!--import export -->
     <string name="dolby_import_export_presets">Előbeállítások importálása/exportálása</string>
-    <string name="dolby_import_presets">Import Presets</string>
-    <string name="dolby_import_presets_description">Import presets from files or clipboard</string>
+    <string name="dolby_import_presets">Előbeállítás importálása</string>
+    <string name="dolby_import_presets_description">Előbeállítások importálása fájlokból vagy a vágólapról</string>
     <string name="dolby_import_single_file">Egyetlen fájl</string>
-    <string name="dolby_import_batch">Batch</string>
+    <string name="dolby_import_batch">Köteg</string>
     <string name="dolby_import_from_clipboard">A vágólapról</string>
-    <string name="dolby_your_custom_presets">Your Custom Presets</string>
+    <string name="dolby_your_custom_presets">Egyéni előbeállításaid</string>
     <string name="dolby_processing">Feldolgozás...</string>
-    <string name="dolby_batch_export">Batch Export</string>
-    <string name="dolby_batch_export_description">Export all %1$s custom presets to a single file?</string>
+    <string name="dolby_batch_export">Kötegelt exportálás</string>
+    <string name="dolby_batch_export_description">Exportálja az összes %1$s egyéni előbeállítást egyetlen fájlba?</string>
     <string name="dolby_export_all">Összes exportálása</string>
     <!-- Dolby mid enhancer -->
-    <string name="dolby_mid_enhancer">Mid enhancer</string>
-    <string name="dolby_mid_level">Mid level</string>
-    <string name="dolby_mid_enhancer_summary">Enhances mid-frequency sounds for clearer vocals and instruments</string>
+    <string name="dolby_mid_enhancer">Középtartomány-kiemelő</string>
+    <string name="dolby_mid_level">Középhangok szintje</string>
+    <string name="dolby_mid_enhancer_summary">Kiemeli a középfrekvenciás hangokat az énekhangok és hangszerek tisztább megszólalása érdekében</string>
     <!-- Per-device state memory -->
-    <string name="dolby_device_state_memory_title">Per-device audio memory</string>
-    <string name="dolby_device_state_memory_summary">Remember Dolby settings for each audio device (headphones, speakers, Bluetooth)</string>
-    <string name="dolby_device_state_memory_conflict_toast">Per-app profiles disabled — incompatible with per-device memory</string>
-    <string name="dolby_device_state_memory_conflict_summary">⚠ Disabled while per-device memory is active — they conflict</string>
-    <string name="dolby_app_profile_conflict_toast">Per-device memory disabled — incompatible with per-app profiles</string>
-    <string name="dolby_app_profile_conflict_summary">⚠ Disabled while per-app profiles are active — they conflict</string>
+    <string name="dolby_device_state_memory_title">Eszközönkénti hangmemória</string>
+    <string name="dolby_device_state_memory_summary">Dolby-beállítások megjegyzése minden egyes hangeszközhöz (fejhallgató, hangszórók, Bluetooth)</string>
+    <string name="dolby_device_state_memory_conflict_toast">Alkalmazásonkénti profilok letiltva – nem kompatibilis az eszközönkénti memóriával</string>
+    <string name="dolby_device_state_memory_conflict_summary">⚠ Letiltva, amíg az eszközönkénti memória aktív – ütköznek egymással</string>
+    <string name="dolby_app_profile_conflict_toast">Eszközönkénti memória letiltva – nem kompatibilis az alkalmazásonkénti profilokkal</string>
+    <string name="dolby_app_profile_conflict_summary">⚠ Letiltva, amíg alkalmazásonkénti profilok vannak érvényben – ütköznek egymással</string>
     <string name="dolby_device_state_memory_section_title">Hangeszköz-memória</string>
     <!-- AutoEQ Profile -->
     <string name="dolby_autoeq_title">AutoEQ-profil alkalmazása</string>
-    <string name="dolby_autoeq_applied">Applied AutoEQ for %1$s</string>
+    <string name="dolby_autoeq_applied">AutoEQ alkalmazva a következőre: %1$s</string>
     <string name="dolby_autoeq_preset_name">AutoEQ: %1$s</string>
     <string name="dolby_autoeq_search_hint">Keress több mint 8000 profil között...</string>
     <string name="dolby_autoeq_currently_applied">Jelenleg alkalmazott</string>
@@ -450,9 +450,9 @@
     <!-- Description for Emoji keyboard subtype [CHAR LIMIT=25] -->
     <string name="latinime_subtype_emoji">Emoji</string>
     <!-- Title of the settings for enabling Emoji palette triggered by the Alt key on physical keyboards [CHAR LIMIT=35] -->
-    <string name="latinime_prefs_enable_emoji_alt_physical_key">Emoji for physical keyboard</string>
+    <string name="latinime_prefs_enable_emoji_alt_physical_key">Emoji fizikai billentyűzethez</string>
     <!-- Description of the settings for enabling Emoji palette triggered by the Alt key on physical keyboards [CHAR LIMIT=64] -->
-    <string name="latinime_prefs_enable_emoji_alt_physical_key_summary">Physical Alt key shows the emoji palette</string>
+    <string name="latinime_prefs_enable_emoji_alt_physical_key_summary">A fizikai Alt billentyű megjeleníti az emojipalettát</string>
     <!-- Preference item for enabling the number row -->
     <string name="latinime_number_row_summary">Minden olyan kiosztásnál, amely 4 billentyűsorral rendelkezik, mindig jelenjen meg a számsor</string>
     <!-- Preference item for enabling the number row on password inputs -->
