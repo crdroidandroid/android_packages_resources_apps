@@ -101,13 +101,19 @@
     <string name="omnijaws_uv_level_high">높음</string>
     <string name="omnijaws_uv_level_very_high">매우 높음</string>
     <string name="omnijaws_uv_level_extreme">위험</string>
-    <!-- Air quality (US AQI) levels -->
+    <!-- Air quality levels, shared by the US and India scales -->
     <string name="omnijaws_aqi_level_good">좋음</string>
     <string name="omnijaws_aqi_level_moderate">보통</string>
+    <!-- Air quality levels, US AQI -->
     <string name="omnijaws_aqi_level_sensitive">Unhealthy for sensitive groups</string>
     <string name="omnijaws_aqi_level_unhealthy">Unhealthy</string>
     <string name="omnijaws_aqi_level_very_unhealthy">Very unhealthy</string>
     <string name="omnijaws_aqi_level_hazardous">Hazardous</string>
+    <!-- Air quality levels, India National AQI -->
+    <string name="omnijaws_aqi_level_satisfactory">Satisfactory</string>
+    <string name="omnijaws_aqi_level_poor">나쁨</string>
+    <string name="omnijaws_aqi_level_very_poor">Very poor</string>
+    <string name="omnijaws_aqi_level_severe">Severe</string>
     <!-- Particulate concentrations in micrograms per cubic metre. %1$d = value -->
     <string name="omnijaws_aqi_pm25_format">PM2.5 %1$d \u00b5g/m\u00b3</string>
     <string name="omnijaws_aqi_pm10_format">PM10 %1$d \u00b5g/m\u00b3</string>
