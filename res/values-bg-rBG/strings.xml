@@ -95,12 +95,23 @@
     <string name="omnijaws_detail_visibility">Visibility</string>
     <string name="omnijaws_detail_sunrise_sunset">Sunrise &amp; Sunset</string>
     <string name="omnijaws_detail_dew_point">Dew point</string>
+    <string name="omnijaws_detail_air_quality">Air quality</string>
     <!-- UV index levels -->
     <string name="omnijaws_uv_level_low">Ниска</string>
     <string name="omnijaws_uv_level_moderate">Moderate</string>
     <string name="omnijaws_uv_level_high">Висока</string>
     <string name="omnijaws_uv_level_very_high">Very High</string>
     <string name="omnijaws_uv_level_extreme">Extreme</string>
+    <!-- Air quality (US AQI) levels -->
+    <string name="omnijaws_aqi_level_good">Good</string>
+    <string name="omnijaws_aqi_level_moderate">Moderate</string>
+    <string name="omnijaws_aqi_level_sensitive">Unhealthy for sensitive groups</string>
+    <string name="omnijaws_aqi_level_unhealthy">Unhealthy</string>
+    <string name="omnijaws_aqi_level_very_unhealthy">Very unhealthy</string>
+    <string name="omnijaws_aqi_level_hazardous">Hazardous</string>
+    <!-- Particulate concentrations in micrograms per cubic metre. %1$d = value -->
+    <string name="omnijaws_aqi_pm25_format">PM2.5 %1$d \u00b5g/m\u00b3</string>
+    <string name="omnijaws_aqi_pm10_format">PM10 %1$d \u00b5g/m\u00b3</string>
     <!-- Visibility levels -->
     <string name="omnijaws_visibility_level_clear">Clear</string>
     <string name="omnijaws_visibility_level_good">Good</string>
@@ -297,6 +308,7 @@
     <string name="dolby_profile_work">Work</string>
     <string name="dolby_profile_casual">Casual</string>
     <string name="dolby_profile_mood">Mood</string>
+    <string name="dolby_profile_custom">Custom</string>
     <!-- Dolby equalizer presets -->
     <string name="dolby_preset_default">Flat (off)</string>
     <string name="dolby_preset_rock">Rock</string>
