@@ -97,12 +97,23 @@
     <string name="omnijaws_detail_visibility">Видимость</string>
     <string name="omnijaws_detail_sunrise_sunset">Восход и закат</string>
     <string name="omnijaws_detail_dew_point">Точка росы</string>
+    <string name="omnijaws_detail_air_quality">Air quality</string>
     <!-- UV index levels -->
     <string name="omnijaws_uv_level_low">Низкий</string>
     <string name="omnijaws_uv_level_moderate">Умеренный</string>
     <string name="omnijaws_uv_level_high">Высокий</string>
     <string name="omnijaws_uv_level_very_high">Очень высокий</string>
     <string name="omnijaws_uv_level_extreme">Экстремальный</string>
+    <!-- Air quality (US AQI) levels -->
+    <string name="omnijaws_aqi_level_good">Хорошая</string>
+    <string name="omnijaws_aqi_level_moderate">Умеренный</string>
+    <string name="omnijaws_aqi_level_sensitive">Unhealthy for sensitive groups</string>
+    <string name="omnijaws_aqi_level_unhealthy">Unhealthy</string>
+    <string name="omnijaws_aqi_level_very_unhealthy">Very unhealthy</string>
+    <string name="omnijaws_aqi_level_hazardous">Hazardous</string>
+    <!-- Particulate concentrations in micrograms per cubic metre. %1$d = value -->
+    <string name="omnijaws_aqi_pm25_format">PM2.5 %1$d \u00b5g/m\u00b3</string>
+    <string name="omnijaws_aqi_pm10_format">PM10 %1$d \u00b5g/m\u00b3</string>
     <!-- Visibility levels -->
     <string name="omnijaws_visibility_level_clear">Отличная</string>
     <string name="omnijaws_visibility_level_good">Хорошая</string>
@@ -450,27 +461,4 @@
     <string name="dolby_autoeq_search">Поиск</string>
     <string name="dolby_autoeq_active">Активный профиль</string>
     <string name="dolby_autoeq_selected">Выбранный профиль</string>
-    <!-- LatinIME -->
-    <!-- Description for Emoji keyboard subtype [CHAR LIMIT=25] -->
-    <string name="latinime_subtype_emoji">Эмоции</string>
-    <!-- Title of the settings for enabling Emoji palette triggered by the Alt key on physical keyboards [CHAR LIMIT=35] -->
-    <string name="latinime_prefs_enable_emoji_alt_physical_key">Эмоции с внешней клавиатуры</string>
-    <!-- Description of the settings for enabling Emoji palette triggered by the Alt key on physical keyboards [CHAR LIMIT=64] -->
-    <string name="latinime_prefs_enable_emoji_alt_physical_key_summary">Открывать список эмоций нажатием клавиши ALT</string>
-    <!-- Preference item for enabling the number row -->
-    <string name="latinime_number_row_summary">Всегда отображать ряд цифр для всех раскладок, в которых 4 ряда клавиш</string>
-    <!-- Preference item for enabling the number row on password inputs -->
-    <string name="latinime_number_row_password_summary">При вводе пароля, всегда отображать ряд цифр для всех раскладок, в которых 4 ряда клавиш</string>
-    <!-- Preference item for the space bar track pad -->
-    <string name="latinime_space_trackpad">Жест на пробеле</string>
-    <string name="latinime_space_trackpad_summary">Двигайте пальцем по клавише пробела, чтобы перемещать курсор</string>
-    <!-- Preference item for always showing the emoji key -->
-    <string name="latinime_show_emoji_key">Показать клавишу эмоций</string>
-    <string name="latinime_show_emoji_key_summary">Всегда показывать клавишу эмоций.</string>
-    <!-- Preference item for typing the number hint of a key by swiping down -->
-    <string name="latinime_swipe_down_for_digits">Смахивание вниз - цифры</string>
-    <string name="latinime_swipe_down_for_digits_summary">Проведите пальцем вниз по клавише, чтобы ввести указанную на ней цифру</string>
-    <!-- Preference item for suggesting recently copied text -->
-    <string name="latinime_show_clipboard_suggestions">Предложения из буфера</string>
-    <string name="latinime_show_clipboard_suggestions_summary">Предлагать недавно скопированный текст и проверочные коды</string>
 </resources>
