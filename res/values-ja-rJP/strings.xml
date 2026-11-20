@@ -110,10 +110,10 @@
     <string name="omnijaws_aqi_level_very_unhealthy">極めて健康に良くない</string>
     <string name="omnijaws_aqi_level_hazardous">危険</string>
     <!-- Air quality levels, India National AQI -->
-    <string name="omnijaws_aqi_level_satisfactory">Satisfactory</string>
+    <string name="omnijaws_aqi_level_satisfactory">良</string>
     <string name="omnijaws_aqi_level_poor">悪い</string>
-    <string name="omnijaws_aqi_level_very_poor">Very poor</string>
-    <string name="omnijaws_aqi_level_severe">Severe</string>
+    <string name="omnijaws_aqi_level_very_poor">非常に悪い</string>
+    <string name="omnijaws_aqi_level_severe">高</string>
     <!-- Particulate concentrations in micrograms per cubic metre. %1$d = value -->
     <string name="omnijaws_aqi_pm25_format">PM2.5 %1$d \u00b5g/m\u00b3</string>
     <string name="omnijaws_aqi_pm10_format">PM10 %1$d \u00b5g/m\u00b3</string>
