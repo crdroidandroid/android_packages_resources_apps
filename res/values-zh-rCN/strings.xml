@@ -87,6 +87,11 @@
     <string name="omnijaws_forecast_show_more">显示更多</string>
     <string name="omnijaws_forecast_show_less">收起</string>
     <string name="omnijaws_forecast_today">今天</string>
+    <string name="omnijaws_forecast_yesterday">Yesterday</string>
+    <string name="omnijaws_forecast_tomorrow">Tomorrow</string>
+    <!-- Multi-day forecast view toggle -->
+    <string name="omnijaws_forecast_view_line">Line</string>
+    <string name="omnijaws_forecast_view_list">List</string>
     <!-- Detail card titles -->
     <string name="omnijaws_detail_feels_like">体感温度</string>
     <string name="omnijaws_detail_uv_index">紫外线指数</string>
