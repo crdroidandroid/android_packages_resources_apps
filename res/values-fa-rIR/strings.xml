@@ -63,6 +63,8 @@
     <string name="omnijaws_grant_background_location_summary">برای به‌روزرسانی وضعیت آب‌وهوا در ویجت و صفحه قفل در پس‌زمینه، مورد نیاز است</string>
     <string name="omnijaws_weather_icon_pack_title">بسته آیکون وضعیت</string>
     <string name="omnijaws_icon_theme_title">نمایه آیکون</string>
+    <string name="omnijaws_widget_sub_locality_title">Show area</string>
+    <string name="omnijaws_widget_sub_locality_summary">Show the neighbourhood below the city name</string>
     <string name="omnijaws_theme_system">پیروی از سیستم</string>
     <string name="omnijaws_theme_light">روشن</string>
     <string name="omnijaws_theme_dark">تاریک</string>
