@@ -88,6 +88,11 @@
     <string name="omnijaws_forecast_show_more">Afficher plus</string>
     <string name="omnijaws_forecast_show_less">Afficher moins</string>
     <string name="omnijaws_forecast_today">Aujourd\'hui</string>
+    <string name="omnijaws_forecast_yesterday">Yesterday</string>
+    <string name="omnijaws_forecast_tomorrow">Tomorrow</string>
+    <!-- Multi-day forecast view toggle -->
+    <string name="omnijaws_forecast_view_line">Line</string>
+    <string name="omnijaws_forecast_view_list">List</string>
     <!-- Detail card titles -->
     <string name="omnijaws_detail_feels_like">Ressenti</string>
     <string name="omnijaws_detail_uv_index">Indice UV</string>
