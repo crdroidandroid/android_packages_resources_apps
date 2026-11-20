@@ -63,6 +63,8 @@
     <string name="omnijaws_grant_background_location_summary">Necesario para mantener actualizado en segundo plano el clima del widget y de la pantalla de bloqueo</string>
     <string name="omnijaws_weather_icon_pack_title">Paquete de iconos de clima</string>
     <string name="omnijaws_icon_theme_title">Tema del icono</string>
+    <string name="omnijaws_widget_sub_locality_title">Show area</string>
+    <string name="omnijaws_widget_sub_locality_summary">Show the neighbourhood below the city name</string>
     <string name="omnijaws_theme_system">Seguir configuración del sistema</string>
     <string name="omnijaws_theme_light">Claro</string>
     <string name="omnijaws_theme_dark">Oscuro</string>
