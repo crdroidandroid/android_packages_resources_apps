@@ -88,6 +88,11 @@
     <string name="omnijaws_forecast_show_more">বিস্তারিত</string>
     <string name="omnijaws_forecast_show_less">সংকোচন</string>
     <string name="omnijaws_forecast_today">আজ</string>
+    <string name="omnijaws_forecast_yesterday">Yesterday</string>
+    <string name="omnijaws_forecast_tomorrow">Tomorrow</string>
+    <!-- Multi-day forecast view toggle -->
+    <string name="omnijaws_forecast_view_line">Line</string>
+    <string name="omnijaws_forecast_view_list">List</string>
     <!-- Detail card titles -->
     <string name="omnijaws_detail_feels_like">অনুভব হচ্ছে</string>
     <string name="omnijaws_detail_uv_index">ইউভি ইনডেক্স</string>
