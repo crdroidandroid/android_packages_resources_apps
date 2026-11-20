@@ -90,6 +90,11 @@
     <string name="omnijaws_forecast_show_more">Больше</string>
     <string name="omnijaws_forecast_show_less">Меньше</string>
     <string name="omnijaws_forecast_today">Сегодня</string>
+    <string name="omnijaws_forecast_yesterday">Yesterday</string>
+    <string name="omnijaws_forecast_tomorrow">Tomorrow</string>
+    <!-- Multi-day forecast view toggle -->
+    <string name="omnijaws_forecast_view_line">Line</string>
+    <string name="omnijaws_forecast_view_list">List</string>
     <!-- Detail card titles -->
     <string name="omnijaws_detail_feels_like">Ощущается</string>
     <string name="omnijaws_detail_uv_index">УФ-индекс</string>
