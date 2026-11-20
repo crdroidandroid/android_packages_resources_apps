@@ -62,6 +62,8 @@
     <string name="omnijaws_grant_background_location_summary">バックグラウンドでウィジェットとロック画面の天気を更新するために必要です</string>
     <string name="omnijaws_weather_icon_pack_title">天候のアイコンパック</string>
     <string name="omnijaws_icon_theme_title">アイコンテーマ</string>
+    <string name="omnijaws_widget_sub_locality_title">Show area</string>
+    <string name="omnijaws_widget_sub_locality_summary">Show the neighbourhood below the city name</string>
     <string name="omnijaws_theme_system">システム設定に従う</string>
     <string name="omnijaws_theme_light">ライト</string>
     <string name="omnijaws_theme_dark">ダーク</string>
