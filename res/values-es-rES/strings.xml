@@ -435,7 +435,6 @@
     <string name="dolby_enable_notification_access_desc">Habilita el acceso a las notificaciones para mantener Dolby Atmos en segundo plano y permitir el cambio automático de perfiles.</string>
     <string name="dolby_notification_access_permission_details">Este permiso permite que Dolby Atmos:\\n\\n• Se ejecute continuamente en segundo plano\\n• Cambie automáticamente los perfiles de audio\\n• Supervise las aplicaciones en primer plano\\n\\nTus notificaciones no serán leídas ni modificadas.</string>
     <string name="dolby_open_settings">Abrir ajustes</string>
-    <string name="dolby_cancel">Cancelar</string>
     <!--import export -->
     <string name="dolby_import_export_presets">Importar/Exportar preajustes</string>
     <string name="dolby_import_presets">Importar preajustes</string>
