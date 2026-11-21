@@ -62,8 +62,8 @@
     <string name="omnijaws_grant_background_location_summary">バックグラウンドでウィジェットとロック画面の天気を更新するために必要です</string>
     <string name="omnijaws_weather_icon_pack_title">天候のアイコンパック</string>
     <string name="omnijaws_icon_theme_title">アイコンテーマ</string>
-    <string name="omnijaws_widget_sub_locality_title">Show area</string>
-    <string name="omnijaws_widget_sub_locality_summary">Show the neighbourhood below the city name</string>
+    <string name="omnijaws_widget_sub_locality_title">エリアを表示</string>
+    <string name="omnijaws_widget_sub_locality_summary">市町村名の下に地区を表示する</string>
     <string name="omnijaws_theme_system">システム設定に従う</string>
     <string name="omnijaws_theme_light">ライト</string>
     <string name="omnijaws_theme_dark">ダーク</string>
@@ -87,11 +87,11 @@
     <string name="omnijaws_forecast_show_more">さらに表示</string>
     <string name="omnijaws_forecast_show_less">表示を減らす</string>
     <string name="omnijaws_forecast_today">今日</string>
-    <string name="omnijaws_forecast_yesterday">Yesterday</string>
-    <string name="omnijaws_forecast_tomorrow">Tomorrow</string>
+    <string name="omnijaws_forecast_yesterday">昨日</string>
+    <string name="omnijaws_forecast_tomorrow">明日</string>
     <!-- Multi-day forecast view toggle -->
-    <string name="omnijaws_forecast_view_line">Line</string>
-    <string name="omnijaws_forecast_view_list">List</string>
+    <string name="omnijaws_forecast_view_line">ライン</string>
+    <string name="omnijaws_forecast_view_list">一覧</string>
     <!-- Detail card titles -->
     <string name="omnijaws_detail_feels_like">体感温度</string>
     <string name="omnijaws_detail_uv_index">UVインデックス</string>
