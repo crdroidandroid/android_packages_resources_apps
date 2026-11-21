@@ -113,7 +113,7 @@
     <string name="omnijaws_uv_level_extreme">Ekstremalny</string>
     <!-- Air quality levels, shared by the US and India scales -->
     <string name="omnijaws_aqi_level_good">Dobra</string>
-    <string name="omnijaws_aqi_level_moderate">Umiarkowany</string>
+    <string name="omnijaws_aqi_level_moderate">Umiarkowana</string>
     <!-- Air quality levels, US AQI -->
     <string name="omnijaws_aqi_level_sensitive">Niezdrowe dla wrażliwych grup</string>
     <string name="omnijaws_aqi_level_unhealthy">Niezdrowy</string>
