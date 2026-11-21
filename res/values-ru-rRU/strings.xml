@@ -112,18 +112,18 @@
     <string name="omnijaws_uv_level_very_high">Очень высокий</string>
     <string name="omnijaws_uv_level_extreme">Экстремальный</string>
     <!-- Air quality levels, shared by the US and India scales -->
-    <string name="omnijaws_aqi_level_good">Хорошая</string>
-    <string name="omnijaws_aqi_level_moderate">Умеренный</string>
+    <string name="omnijaws_aqi_level_good">Хорошее</string>
+    <string name="omnijaws_aqi_level_moderate">Умеренное</string>
     <!-- Air quality levels, US AQI -->
-    <string name="omnijaws_aqi_level_sensitive">Вредно для чувствительных</string>
-    <string name="omnijaws_aqi_level_unhealthy">Вредно</string>
-    <string name="omnijaws_aqi_level_very_unhealthy">Очень вредно</string>
-    <string name="omnijaws_aqi_level_hazardous">Опасно</string>
+    <string name="omnijaws_aqi_level_sensitive">Вредное для чувствительных</string>
+    <string name="omnijaws_aqi_level_unhealthy">Вредное</string>
+    <string name="omnijaws_aqi_level_very_unhealthy">Очень вредное</string>
+    <string name="omnijaws_aqi_level_hazardous">Опасное</string>
     <!-- Air quality levels, India National AQI -->
-    <string name="omnijaws_aqi_level_satisfactory">Удовлетворительно</string>
-    <string name="omnijaws_aqi_level_poor">Низкая</string>
+    <string name="omnijaws_aqi_level_satisfactory">Удовлетворительное</string>
+    <string name="omnijaws_aqi_level_poor">Низкое</string>
     <string name="omnijaws_aqi_level_very_poor">Очень плохое</string>
-    <string name="omnijaws_aqi_level_severe">Серьёзно</string>
+    <string name="omnijaws_aqi_level_severe">Серьёзное</string>
     <!-- Particulate concentrations in micrograms per cubic metre. %1$d = value -->
     <string name="omnijaws_aqi_pm25_format">PM2.5 %1$d \u00b5г/м\u00b3</string>
     <string name="omnijaws_aqi_pm10_format">PM2. %1$d \u00b5г/м\u00b3</string>
