@@ -439,7 +439,6 @@
     <string name="dolby_enable_notification_access_desc">Włącz dostęp do powiadomień, aby usługa Dolby Atmos mogło działać w tle i umożliwiać automatyczne przełączanie profili.</string>
     <string name="dolby_notification_access_permission_details">To uprawnienie pozwala systemowi Dolby Atmos na:\n\n• Ciągłe działanie w tle\n• Automatyczne przełączanie profili dźwiękowych\n• Monitorowanie aplikacji działających w tle\n\nTwoje powiadomienia nie będą odczytywane ani modyfikowane.</string>
     <string name="dolby_open_settings">Otwórz ustawienia</string>
-    <string name="dolby_cancel">Anuluj</string>
     <!--import export -->
     <string name="dolby_import_export_presets">Importuj/eksportuj wstępne ustawienia</string>
     <string name="dolby_import_presets">Importuj wstępne ustawienia</string>
