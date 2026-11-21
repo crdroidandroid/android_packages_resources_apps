@@ -435,7 +435,6 @@
     <string name="dolby_enable_notification_access_desc">Engedélyezd az értesítésekhez való hozzáférést, hogy a Dolby Atmos a háttérben is működhessen, és lehetővé váljon a profilok automatikus váltása.</string>
     <string name="dolby_notification_access_permission_details">Ez az engedély lehetővé teszi a Dolby Atmos számára, hogy:\n\n• Folyamatosan fusson a háttérben\n• Automatikusan váltson hangprofilokat\n• Figyelje az előtérben futó alkalmazásokat\n\nAz értesítéseit a rendszer nem olvassa be és nem módosítja.</string>
     <string name="dolby_open_settings">Beállítások megnyitása</string>
-    <string name="dolby_cancel">Mégse</string>
     <!--import export -->
     <string name="dolby_import_export_presets">Előbeállítások importálása/exportálása</string>
     <string name="dolby_import_presets">Előbeállítás importálása</string>
