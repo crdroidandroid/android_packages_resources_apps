@@ -433,7 +433,6 @@
     <string name="dolby_enable_notification_access_desc">通知へのアクセスを有効にすると、Dolby Atmosをバックグラウンドで動作させ続け、プロファイルを自動的に切り替えられるようになります。</string>
     <string name="dolby_notification_access_permission_details">この権限を許可すると、Dolby Atmosで以下の動作ができるようになるよ:\n\n• バックグラウンドでの常時実行\n• オーディオプロファイルの自動切り替え\n• フォアグラウンドアプリの監視\n\n通知の内容が読み取られたり、変更されたりすることはないよ。</string>
     <string name="dolby_open_settings">設定を開く</string>
-    <string name="dolby_cancel">キャンセル</string>
     <!--import export -->
     <string name="dolby_import_export_presets">プリセットのインポート/エクスポート</string>
     <string name="dolby_import_presets">プリセットをインポート</string>
