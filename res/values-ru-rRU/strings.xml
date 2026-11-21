@@ -65,8 +65,8 @@
     <string name="omnijaws_grant_background_location_summary">Необходимо, чтобы виджет и погода на экране блокировки обновлялись в фоновом режиме</string>
     <string name="omnijaws_weather_icon_pack_title">Набор значков погоды</string>
     <string name="omnijaws_icon_theme_title">Тема значка</string>
-    <string name="omnijaws_widget_sub_locality_title">Show area</string>
-    <string name="omnijaws_widget_sub_locality_summary">Show the neighbourhood below the city name</string>
+    <string name="omnijaws_widget_sub_locality_title">Показать район</string>
+    <string name="omnijaws_widget_sub_locality_summary">Показывать район под названием города</string>
     <string name="omnijaws_theme_system">Как в системе</string>
     <string name="omnijaws_theme_light">Светлая</string>
     <string name="omnijaws_theme_dark">Тёмная</string>
@@ -90,11 +90,11 @@
     <string name="omnijaws_forecast_show_more">Больше</string>
     <string name="omnijaws_forecast_show_less">Меньше</string>
     <string name="omnijaws_forecast_today">Сегодня</string>
-    <string name="omnijaws_forecast_yesterday">Yesterday</string>
-    <string name="omnijaws_forecast_tomorrow">Tomorrow</string>
+    <string name="omnijaws_forecast_yesterday">Вчера</string>
+    <string name="omnijaws_forecast_tomorrow">Завтра</string>
     <!-- Multi-day forecast view toggle -->
-    <string name="omnijaws_forecast_view_line">Line</string>
-    <string name="omnijaws_forecast_view_list">List</string>
+    <string name="omnijaws_forecast_view_line">Строка</string>
+    <string name="omnijaws_forecast_view_list">Список</string>
     <!-- Detail card titles -->
     <string name="omnijaws_detail_feels_like">Ощущается</string>
     <string name="omnijaws_detail_uv_index">УФ-индекс</string>
@@ -120,13 +120,13 @@
     <string name="omnijaws_aqi_level_very_unhealthy">Очень вредно</string>
     <string name="omnijaws_aqi_level_hazardous">Опасно</string>
     <!-- Air quality levels, India National AQI -->
-    <string name="omnijaws_aqi_level_satisfactory">Satisfactory</string>
+    <string name="omnijaws_aqi_level_satisfactory">Удовлетворительно</string>
     <string name="omnijaws_aqi_level_poor">Низкая</string>
-    <string name="omnijaws_aqi_level_very_poor">Very poor</string>
-    <string name="omnijaws_aqi_level_severe">Severe</string>
+    <string name="omnijaws_aqi_level_very_poor">Очень плохое</string>
+    <string name="omnijaws_aqi_level_severe">Серьёзно</string>
     <!-- Particulate concentrations in micrograms per cubic metre. %1$d = value -->
-    <string name="omnijaws_aqi_pm25_format">PM2.5 %1$d \u00b5g/m\u00b3</string>
-    <string name="omnijaws_aqi_pm10_format">PM10 %1$d \u00b5g/m\u00b3</string>
+    <string name="omnijaws_aqi_pm25_format">PM2.5 %1$d \u00b5г/м\u00b3</string>
+    <string name="omnijaws_aqi_pm10_format">PM2. %1$d \u00b5г/м\u00b3</string>
     <!-- Visibility levels -->
     <string name="omnijaws_visibility_level_clear">Отличная</string>
     <string name="omnijaws_visibility_level_good">Хорошая</string>
