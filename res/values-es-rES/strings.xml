@@ -63,8 +63,8 @@
     <string name="omnijaws_grant_background_location_summary">Necesario para mantener actualizado en segundo plano el clima del widget y de la pantalla de bloqueo</string>
     <string name="omnijaws_weather_icon_pack_title">Paquete de iconos de clima</string>
     <string name="omnijaws_icon_theme_title">Tema del icono</string>
-    <string name="omnijaws_widget_sub_locality_title">Show area</string>
-    <string name="omnijaws_widget_sub_locality_summary">Show the neighbourhood below the city name</string>
+    <string name="omnijaws_widget_sub_locality_title">Mostrar área</string>
+    <string name="omnijaws_widget_sub_locality_summary">Mostrar el vecindario debajo del nombre de la ciudad</string>
     <string name="omnijaws_theme_system">Seguir configuración del sistema</string>
     <string name="omnijaws_theme_light">Claro</string>
     <string name="omnijaws_theme_dark">Oscuro</string>
@@ -88,11 +88,11 @@
     <string name="omnijaws_forecast_show_more">Mostrar más</string>
     <string name="omnijaws_forecast_show_less">Mostrar menos</string>
     <string name="omnijaws_forecast_today">Hoy</string>
-    <string name="omnijaws_forecast_yesterday">Yesterday</string>
-    <string name="omnijaws_forecast_tomorrow">Tomorrow</string>
+    <string name="omnijaws_forecast_yesterday">Ayer</string>
+    <string name="omnijaws_forecast_tomorrow">Mañana</string>
     <!-- Multi-day forecast view toggle -->
-    <string name="omnijaws_forecast_view_line">Line</string>
-    <string name="omnijaws_forecast_view_list">List</string>
+    <string name="omnijaws_forecast_view_line">Línea</string>
+    <string name="omnijaws_forecast_view_list">Lista</string>
     <!-- Detail card titles -->
     <string name="omnijaws_detail_feels_like">Sensación térmica</string>
     <string name="omnijaws_detail_uv_index">Índice UV</string>
@@ -118,10 +118,10 @@
     <string name="omnijaws_aqi_level_very_unhealthy">Muy poco saludable</string>
     <string name="omnijaws_aqi_level_hazardous">Peligroso</string>
     <!-- Air quality levels, India National AQI -->
-    <string name="omnijaws_aqi_level_satisfactory">Satisfactory</string>
+    <string name="omnijaws_aqi_level_satisfactory">Satisfactorio</string>
     <string name="omnijaws_aqi_level_poor">Escaso</string>
-    <string name="omnijaws_aqi_level_very_poor">Very poor</string>
-    <string name="omnijaws_aqi_level_severe">Severe</string>
+    <string name="omnijaws_aqi_level_very_poor">Muy pobre</string>
+    <string name="omnijaws_aqi_level_severe">Severo</string>
     <!-- Particulate concentrations in micrograms per cubic metre. %1$d = value -->
     <string name="omnijaws_aqi_pm25_format">PM2.5 %1$d \u00b5g/m\u00b3</string>
     <string name="omnijaws_aqi_pm10_format">PM10 %1$d \u00b5g/m\u00b3</string>
