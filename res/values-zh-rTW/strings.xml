@@ -433,7 +433,6 @@
     <string name="dolby_enable_notification_access_desc">啟用通知存取權限以保持 Dolby Atmos 在背景執行並允許自動切換設定檔。</string>
     <string name="dolby_notification_access_permission_details">此權限允許 Dolby Atmos：\n\n• 持續在背景執行\n• 自動切換音訊設定檔\n• 監控前景應用程式</string>
     <string name="dolby_open_settings">開啟設定</string>
-    <string name="dolby_cancel">取消</string>
     <!--import export -->
     <string name="dolby_import_export_presets">匯入/匯出預設</string>
     <string name="dolby_import_presets">匯入預設</string>
