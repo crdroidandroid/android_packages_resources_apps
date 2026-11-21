@@ -439,7 +439,6 @@
     <string name="dolby_enable_notification_access_desc">Разрешите доступ к уведомлениям для фоновой работы Dolby Atmos и автопереключения профилей.</string>
     <string name="dolby_notification_access_permission_details">Это разрешение позволяет Dolby Atmos:\n\n• Работать постоянно в фоновом режиме\n• Автоматически переключать аудиопрофили\n• Отслеживать активные приложения\n\nВаши уведомления не читаются и не изменяются.</string>
     <string name="dolby_open_settings">Открыть настройки</string>
-    <string name="dolby_cancel">Отмена</string>
     <!--import export -->
     <string name="dolby_import_export_presets">Импорт/Экспорт шаблонов</string>
     <string name="dolby_import_presets">Импорт шаблонов</string>
