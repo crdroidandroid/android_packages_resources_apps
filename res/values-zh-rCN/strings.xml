@@ -433,7 +433,6 @@
     <string name="dolby_enable_notification_access_desc">开启通知访问权限，以让杜比全景声在后台持续运行，并支持自动切换配置。</string>
     <string name="dolby_notification_access_permission_details">该权限允许杜比全景声：\n\n・在后台持续运行 \n・自动切换音频预设 \n・监测前台应用 \n\n 不会读取或修改你的通知。</string>
     <string name="dolby_open_settings">打开设置</string>
-    <string name="dolby_cancel">取消</string>
     <!--import export -->
     <string name="dolby_import_export_presets">导入 / 导出预设</string>
     <string name="dolby_import_presets">导入预设</string>
