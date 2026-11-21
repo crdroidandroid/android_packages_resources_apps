@@ -439,7 +439,6 @@
     <string name="dolby_enable_notification_access_desc">Enable notification access to keep Dolby Atmos running in the background and allow automatic profile switching.</string>
     <string name="dolby_notification_access_permission_details">This permission allows Dolby Atmos to:\n\n• Run continuously in the background\n• Automatically switch audio profiles\n• Monitor foreground apps\n\nYour notifications will not be read or modified.</string>
     <string name="dolby_open_settings">Open Settings</string>
-    <string name="dolby_cancel">Cancel</string>
     <!--import export -->
     <string name="dolby_import_export_presets">Import/Export Presets</string>
     <string name="dolby_import_presets">Import Presets</string>
