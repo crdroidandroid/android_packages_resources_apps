@@ -161,8 +161,8 @@ Ketuk Waktu pembaruan terakhir untuk memaksa pembaruan dan menguji API key-mu.</
     <!-- Widget -->
     <string name="omnijaws_weather_widget">Widget cuaca</string>
     <string name="omnijaws_weather_widget_desc">"Cuaca saat ini dan prakiraan beberapa hari ke depan"</string>
-    <string name="omnijaws_weather_pebble_widget">Weather pebble</string>
-    <string name="omnijaws_weather_pebble_widget_desc">Current temperature and condition</string>
+    <string name="omnijaws_weather_pebble_widget">Widget Cuaca Mini</string>
+    <string name="omnijaws_weather_pebble_widget_desc">Suhu dan kondisi cuaca saat ini</string>
     <string name="omnijaws_service_disabled">Layanan di-nonaktifkan</string>
     <string name="omnijaws_service_error_long">Kesalahan ketika memuat data cuaca</string>
     <string name="omnijaws_service_error_location">Tidak ada lokasi yang tersedia</string>
@@ -233,57 +233,57 @@ Ketuk Waktu pembaruan terakhir untuk memaksa pembaruan dan menguji API key-mu.</
     <string name="omnijaws_error_network">Gagal terhubung ke layanan cuaca</string>
     <string name="omnijaws_error_location">Lokasi tidak tersedia</string>
     <string name="omnijaws_error_disabled">Layanan cuaca dinonaktifkan</string>
-    <string name="omnijaws_error_location_services_off">Location is turned off</string>
-    <string name="omnijaws_error_location_services_off_summary">Turn on location to see the weather where you are, or pick a location manually</string>
-    <string name="omnijaws_error_location_permission">Location access is needed</string>
-    <string name="omnijaws_error_location_permission_summary">Allow location access to see the weather where you are, or pick a location manually</string>
-    <string name="omnijaws_action_open_location_settings">Open location settings</string>
-    <string name="omnijaws_action_grant_location_permission">Allow location access</string>
-    <string name="omnijaws_action_pick_location">Pick a location manually</string>
-    <string name="omnijaws_error_custom_location_missing">No location selected</string>
-    <string name="omnijaws_error_custom_location_missing_summary">Choose a location to see its weather, or turn off custom location in settings</string>
-    <string name="omnijaws_action_choose_location">Choose location</string>
-    <string name="omnijaws_error_api_key_missing">An API key is needed</string>
-    <string name="omnijaws_error_api_key_missing_summary">The selected weather provider needs an API key. Add one in Settings or choose another provider.</string>
+    <string name="omnijaws_error_location_services_off">Lokasi dinonaktifkan</string>
+    <string name="omnijaws_error_location_services_off_summary">Aktifkan lokasi untuk melihat cuaca di tempatmu, atau pilih lokasi secara manual</string>
+    <string name="omnijaws_error_location_permission">Diperlukan akses lokasi</string>
+    <string name="omnijaws_error_location_permission_summary">Izinkan akses lokasi untuk melihat cuaca di tempatmu, atau pilih lokasi secara manual</string>
+    <string name="omnijaws_action_open_location_settings">Buka setelan lokasi</string>
+    <string name="omnijaws_action_grant_location_permission">Izinkan akses lokasi</string>
+    <string name="omnijaws_action_pick_location">Pilih lokasi secara manual</string>
+    <string name="omnijaws_error_custom_location_missing">Belum ada lokasi yang dipilih</string>
+    <string name="omnijaws_error_custom_location_missing_summary">Pilih lokasi untuk melihat cuacanya, atau nonaktifkan lokasi kustom di pengaturan</string>
+    <string name="omnijaws_action_choose_location">Pilih Lokasi</string>
+    <string name="omnijaws_error_api_key_missing">Diperlukan API key</string>
+    <string name="omnijaws_error_api_key_missing_summary">Penyedia cuaca yang dipilih memerlukan API key. Tambahkan API key di Pengaturan atau pilih penyedia lainnya.</string>
     <!-- Omnistyle (QS header image picker) -->
-    <string name="omnistyle_browse_header">Headers</string>
-    <string name="omnistyle_custom_header_image_notice">Header image set</string>
-    <string name="omnistyle_browse_theme_header">Theme headers</string>
-    <string name="omnistyle_pick_header">Select header image</string>
+    <string name="omnistyle_browse_header">Header</string>
+    <string name="omnistyle_custom_header_image_notice">Gambar Header Berhasil Ditetapkan</string>
+    <string name="omnistyle_browse_theme_header">Header Tema</string>
+    <string name="omnistyle_pick_header">Pilih Gambar Header</string>
     <!-- Header picker (Compose) -->
-    <string name="omnistyle_navigate_up">Navigate up</string>
-    <string name="omnistyle_header_current">Current header</string>
+    <string name="omnistyle_navigate_up">Kembali ke Folder Sebelumnya</string>
+    <string name="omnistyle_header_current">Header Saat Ini</string>
     <!-- %1$s: header count, e.g. "24 headers"; %2$s: pack creator -->
-    <string name="omnistyle_header_pack_summary"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%1$s</xliff:g> · by <xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="creator">%2$s</xliff:g></string>
+    <string name="omnistyle_header_pack_summary"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%1$s</xliff:g> · oleh <xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="creator">%2$s</xliff:g></string>
     <plurals name="omnistyle_header_count">
-        <item quantity="other"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> headers</item>
+        <item quantity="other"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> header</item>
     </plurals>
-    <string name="omnistyle_header_empty_title">No header packs installed</string>
-    <string name="omnistyle_header_empty_summary">Installed header packs will show up here</string>
-    <string name="omnistyle_header_pack_empty">This pack has no headers</string>
+    <string name="omnistyle_header_empty_title">Belum ada paket header yang terpasang</string>
+    <string name="omnistyle_header_empty_summary">Paket header yang terpasang akan ditampilkan di sini</string>
+    <string name="omnistyle_header_pack_empty">Paket ini tidak memiliki header</string>
     <!-- Dolby Atmos -->
     <string name="dolby_title">Dolby Atmos</string>
-    <string name="dolby_summary">Experience immersive audio</string>
-    <string name="dolby_enable">Use Dolby Atmos</string>
-    <string name="dolby_profile_title">Choose a profile</string>
+    <string name="dolby_summary">Nikmati pengalaman audio yang imersif</string>
+    <string name="dolby_enable">Gunakan Dolby Atmos</string>
+    <string name="dolby_profile_title">Pilih Profil</string>
     <string name="dolby_preset">Equalizer</string>
-    <string name="dolby_off">Off</string>
-    <string name="dolby_on">On</string>
+    <string name="dolby_off">Nonaktif</string>
+    <string name="dolby_on">Aktif</string>
     <string name="dolby_low">Rendah</string>
-    <string name="dolby_medium">Medium</string>
+    <string name="dolby_medium">Sedang</string>
     <string name="dolby_high">Tinggi</string>
-    <string name="dolby_max">Max</string>
+    <string name="dolby_max">Maksimal</string>
     <string name="dolby_unknown">Tidak diketahui</string>
-    <string name="dolby_on_with_profile">On (%1$s)</string>
-    <string name="dolby_credits">Credits</string>
-    <string name="dolby_more_options">More options</string>
-    <string name="dolby_save_preset">Save preset</string>
-    <string name="dolby_equalizer_summary">Shape your sound, frequency by frequency</string>
-    <string name="dolby_advanced_summary">Fine-tune the details of your listening experience</string>
+    <string name="dolby_on_with_profile">Aktif (%1$s)</string>
+    <string name="dolby_credits">Kredit</string>
+    <string name="dolby_more_options">Opsi Lainnya</string>
+    <string name="dolby_save_preset">Simpan Preset</string>
+    <string name="dolby_equalizer_summary">Atur karakter suara sesuai keinginan, frekuensi demi frekuensi</string>
+    <string name="dolby_advanced_summary">Sesuaikan setiap detail pengalaman mendengarkanmu</string>
     <!-- Quick settings tile state; read aloud by screen readers -->
-    <string name="dolby_tile_state_on">On</string>
-    <string name="dolby_tile_state_off">Off</string>
-    <string name="dolby_category_settings">Audio tuning</string>
+    <string name="dolby_tile_state_on">Aktif</string>
+    <string name="dolby_tile_state_off">Nonaktif</string>
+    <string name="dolby_category_settings">Pengaturan Audio</string>
     <string name="dolby_category_adv_settings">Advanced settings</string>
     <string name="dolby_adv_settings_footer">Choose a different profile to show advanced settings.</string>
     <string name="dolby_bass_enhancer">Bass enhancer</string>
@@ -306,29 +306,29 @@ Ketuk Waktu pembaruan terakhir untuk memaksa pembaruan dan menguji API key-mu.</
     <string name="dolby_volume_leveler_summary">Balances volume for a consistent listening experience</string>
     <string name="dolby_connect_headphones">Connect headphones</string>
     <string name="dolby_reset_all">Reset profiles</string>
-    <string name="dolby_reset_all_message">This will reset all profiles to factory defaults.</string>
-    <string name="dolby_reset_all_toast">Succesfully reset all profiles</string>
-    <string name="dolby_hp_virtualizer_strength">Surround virtualizer Strength</string>
-    <string name="dolby_dialogue_enhancer_strength">Dialogue enhancer Strength</string>
-    <string name="dolby_notification_listener_label">Dolby Atmos Service</string>
-    <string name="dolby_loading">Loading...</string>
-    <string name="dolby_read_only">Read-only</string>
+    <string name="dolby_reset_all_message">Semua profil akan dikembalikan ke pengaturan bawaan pabrik.</string>
+    <string name="dolby_reset_all_toast">Semua profil berhasil direset</string>
+    <string name="dolby_hp_virtualizer_strength">Kekuatan Virtualizer Surround</string>
+    <string name="dolby_dialogue_enhancer_strength">Kekuatan Peningkat Dialog</string>
+    <string name="dolby_notification_listener_label">Layanan Dolby Atmos</string>
+    <string name="dolby_loading">Memuat...</string>
+    <string name="dolby_read_only">Hanya Baca</string>
     <!-- Dolby profiles -->
-    <string name="dolby_profile_dynamic">Dynamic</string>
-    <string name="dolby_profile_dynamic_summary">Automatically adapts to your audio</string>
-    <string name="dolby_profile_video">Movie/Video</string>
-    <string name="dolby_profile_music">Music</string>
+    <string name="dolby_profile_dynamic">Dinamis</string>
+    <string name="dolby_profile_dynamic_summary">Menyesuaikan secara otomatis dengan audio yang diputar</string>
+    <string name="dolby_profile_video">Film/Video</string>
+    <string name="dolby_profile_music">Musik</string>
     <string name="dolby_profile_game">Game</string>
-    <string name="dolby_profile_work">Work</string>
-    <string name="dolby_profile_casual">Casual</string>
-    <string name="dolby_profile_mood">Mood</string>
-    <string name="dolby_profile_custom">Custom</string>
+    <string name="dolby_profile_work">Kerja</string>
+    <string name="dolby_profile_casual">Santai</string>
+    <string name="dolby_profile_mood">Suasana</string>
+    <string name="dolby_profile_custom">Kustom</string>
     <!-- Dolby equalizer presets -->
-    <string name="dolby_preset_default">Flat (off)</string>
+    <string name="dolby_preset_default">Datar (Nonaktif)</string>
     <string name="dolby_preset_rock">Rock</string>
     <string name="dolby_preset_jazz">Jazz</string>
     <string name="dolby_preset_pop">Pop</string>
-    <string name="dolby_preset_classical">Classical</string>
+    <string name="dolby_preset_classical">Klasik</string>
     <string name="dolby_preset_hiphop">Hip Hop</string>
     <string name="dolby_preset_blues">Blues</string>
     <string name="dolby_preset_electronic">Electronic</string>
