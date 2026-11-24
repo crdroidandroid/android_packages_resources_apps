@@ -284,7 +284,7 @@ Ketuk Waktu pembaruan terakhir untuk memaksa pembaruan dan menguji API key-mu.</
     <string name="dolby_tile_state_on">Aktif</string>
     <string name="dolby_tile_state_off">Nonaktif</string>
     <string name="dolby_category_settings">Pengaturan Audio</string>
-    <string name="dolby_category_adv_settings">Advanced settings</string>
+    <string name="dolby_category_adv_settings">Pengaturan Lanjutan</string>
     <string name="dolby_adv_settings_footer">Choose a different profile to show advanced settings.</string>
     <string name="dolby_bass_enhancer">Bass enhancer</string>
     <string name="dolby_bass_level">Bass level</string>
