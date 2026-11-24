@@ -12,24 +12,26 @@
     <string name="updater_build_unofficial">Tidak resmi</string>
     <string name="updater_maintainer_by">oleh <xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g></string>
     <!-- Preferences: parallel download connections -->
-    <string name="updater_menu_download_connections">Parallel connections</string>
+    <string name="updater_menu_download_connections">Koneksi Paralel</string>
     <!-- %1$s is the formatted count, e.g. "8 connections" -->
-    <string name="updater_menu_download_connections_summary">%1$s · Applies to new downloads</string>
-    <string name="updater_download_connections_dialog_message">Downloading over several connections at once can speed up slow mirrors. A download that has already started or is paused keeps the number of connections it began with. The new value applies from the next download.</string>
+    <string name="updater_menu_download_connections_summary">%1$s · Berlaku untuk unduhan baru</string>
+    <string name="updater_download_connections_dialog_message">Mengunduh melalui beberapa koneksi sekaligus dapat mempercepat proses unduhan dari mirror yang lambat.
+Unduhan yang sudah dimulai atau sedang dijeda akan tetap menggunakan jumlah koneksi seperti saat unduhan tersebut dimulai. Nilai baru akan berlaku mulai unduhan berikutnya.</string>
     <plurals name="updater_download_connections_count">
-        <item quantity="other">%d connections</item>
+        <item quantity="other">%d koneksi</item>
     </plurals>
     <!-- Preferences: SourceForge download mirror -->
-    <string name="updater_menu_download_mirror">Download mirror</string>
-    <string name="updater_download_mirror_auto">Auto-select available mirror</string>
-    <string name="updater_download_mirror_fastest">Test and use fastest mirror</string>
-    <string name="updater_download_mirror_choose">Show available mirrors</string>
-    <string name="updater_download_mirror_dialog_message">Auto-select lets SourceForge pick a mirror. Testing tries several mirrors before each download and uses the fastest, using a few MB of extra data. Show available mirrors lists the mirrors when you tap Download.</string>
-    <string name="updater_download_mirror_list_title">Available mirrors</string>
-    <string name="updater_download_mirror_loading">Loading mirrors…</string>
-    <string name="updater_download_mirror_list_failed">Couldn\'t load mirrors. Downloading with auto-select.</string>
+    <string name="updater_menu_download_mirror">Mirror Unduhan</string>
+    <string name="updater_download_mirror_auto">Pilih Mirror yang Tersedia Secara Otomatis</string>
+    <string name="updater_download_mirror_fastest">Uji dan Gunakan Mirror Tercepat</string>
+    <string name="updater_download_mirror_choose">Tampilkan Mirror yang Tersedia</string>
+    <string name="updater_download_mirror_dialog_message">Pemilihan otomatis memungkinkan SourceForge memilih mirror untukmu. Pengujian akan mencoba beberapa mirror sebelum setiap unduhan, lalu menggunakan mirror dengan kecepatan tertinggi. Proses ini membutuhkan tambahan penggunaan data beberapa MB.
+Opsi Tampilkan Mirror yang Tersedia akan menampilkan daftar mirror saat kamu mengetuk Download.</string>
+    <string name="updater_download_mirror_list_title">Mirror yang Tersedia</string>
+    <string name="updater_download_mirror_loading">Memuat daftar mirror…</string>
+    <string name="updater_download_mirror_list_failed">Tidak dapat memuat daftar mirror. Mengunduh dengan pemilihan otomatis.</string>
     <!-- Download card: %1$s is a formatted size, e.g. "5.2 MB" -->
-    <string name="updater_download_speed">%1$s/s</string>
+    <string name="updater_download_speed">%1$s/dtk</string>
     <!-- Download notification: %1$s is the existing "ETA, speed" text, %2$s is e.g. "8 connections" -->
     <string name="updater_download_speed_with_connections">%1$s · %2$s</string>
     <!-- OmniJaws -->
@@ -58,21 +60,22 @@
     <string name="omnijaws_weather_custom_location_missing">Atur lokasi khusus</string>
     <string name="omnijaws_grant_location_permission_title">Beri izin lokasi</string>
     <string name="omnijaws_grant_location_permission_summary">Perlu untuk penentuan lokasi otomatis</string>
-    <string name="omnijaws_grant_background_location_title">Allow location all the time</string>
-    <string name="omnijaws_grant_background_location_summary">Needed to keep the widget and lock screen weather updated in the background</string>
+    <string name="omnijaws_grant_background_location_title">Izinkan akses lokasi setiap saat</string>
+    <string name="omnijaws_grant_background_location_summary">Diperlukan agar widget dan informasi cuaca di layar kunci tetap diperbarui di latar belakang</string>
     <string name="omnijaws_weather_icon_pack_title">Paket ikon kondisi</string>
     <string name="omnijaws_icon_theme_title">Tema ikon</string>
-    <string name="omnijaws_widget_sub_locality_title">Show area</string>
-    <string name="omnijaws_widget_sub_locality_summary">Show the neighbourhood below the city name</string>
-    <string name="omnijaws_theme_system">Follow system</string>
+    <string name="omnijaws_widget_sub_locality_title">Tampilkan area</string>
+    <string name="omnijaws_widget_sub_locality_summary">Tampilkan nama lingkungan di bawah nama kota</string>
+    <string name="omnijaws_theme_system">Ikuti pengaturan sistem</string>
     <string name="omnijaws_theme_light">Terang</string>
     <string name="omnijaws_theme_dark">Gelap</string>
     <!-- OWM / Pirate Weather / Visual Crossing API -->
     <string name="omnijaws_owm_key">Kunci OWM khusus</string>
     <string name="omnijaws_pirate_weather_key">Kunci API Pirate Weather</string>
     <string name="omnijaws_provider_disabled">Layanan di-nonaktifkan</string>
-    <string name="omnijaws_api_key_note">Pirate Weather and Visual Crossing need an API key to work, and a custom OWM key is recommended for OpenWeatherMap. Tap \"Last update time\" to force an update and test your key.</string>
-    <string name="omnijaws_api_links_note"><![CDATA[Get API keys: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a> | <a href="https://www.visualcrossing.com/">Visual Crossing</a>]]></string>
+    <string name="omnijaws_api_key_note">Pirate Weather dan Visual Crossing memerlukan API key agar dapat digunakan. Untuk OpenWeatherMap, disarankan menggunakan API key OWM kustom.
+Ketuk Waktu pembaruan terakhir untuk memaksa pembaruan dan menguji API key-mu.</string>
+    <string name="omnijaws_api_links_note"><![CDATA[Dapatkan API key: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a> | <a href="https://www.visualcrossing.com/">Visual Crossing</a>]]></string>
     <!-- Dashboard -->
     <string name="omnijaws_menu_title">Menu</string>
     <string name="omnijaws_update_title">Perbarui</string>
@@ -87,11 +90,11 @@
     <string name="omnijaws_forecast_show_more">Tampilkan lebih banyak</string>
     <string name="omnijaws_forecast_show_less">Tampilkan lebih sedikit</string>
     <string name="omnijaws_forecast_today">Hari Ini</string>
-    <string name="omnijaws_forecast_yesterday">Yesterday</string>
-    <string name="omnijaws_forecast_tomorrow">Tomorrow</string>
+    <string name="omnijaws_forecast_yesterday">Kemarin</string>
+    <string name="omnijaws_forecast_tomorrow">Besok</string>
     <!-- Multi-day forecast view toggle -->
-    <string name="omnijaws_forecast_view_line">Line</string>
-    <string name="omnijaws_forecast_view_list">List</string>
+    <string name="omnijaws_forecast_view_line">Harian</string>
+    <string name="omnijaws_forecast_view_list">Daftar</string>
     <!-- Detail card titles -->
     <string name="omnijaws_detail_feels_like">Terasa seperti</string>
     <string name="omnijaws_detail_uv_index">Indeks UV</string>
@@ -101,7 +104,7 @@
     <string name="omnijaws_detail_visibility">Visibilitas</string>
     <string name="omnijaws_detail_sunrise_sunset">Terbit &amp; terbenam</string>
     <string name="omnijaws_detail_dew_point">Titik embun</string>
-    <string name="omnijaws_detail_air_quality">Air quality</string>
+    <string name="omnijaws_detail_air_quality">Kualitas Udara</string>
     <!-- UV index levels -->
     <string name="omnijaws_uv_level_low">Rendah</string>
     <string name="omnijaws_uv_level_moderate">Moderat</string>
@@ -112,15 +115,15 @@
     <string name="omnijaws_aqi_level_good">Baik</string>
     <string name="omnijaws_aqi_level_moderate">Moderat</string>
     <!-- Air quality levels, US AQI -->
-    <string name="omnijaws_aqi_level_sensitive">Unhealthy for sensitive groups</string>
-    <string name="omnijaws_aqi_level_unhealthy">Unhealthy</string>
-    <string name="omnijaws_aqi_level_very_unhealthy">Very unhealthy</string>
-    <string name="omnijaws_aqi_level_hazardous">Hazardous</string>
+    <string name="omnijaws_aqi_level_sensitive">Tidak Sehat bagi Kelompok Sensitif</string>
+    <string name="omnijaws_aqi_level_unhealthy">Tidak Sehat</string>
+    <string name="omnijaws_aqi_level_very_unhealthy">Sangat Tidak Sehat</string>
+    <string name="omnijaws_aqi_level_hazardous">Berbahaya</string>
     <!-- Air quality levels, India National AQI -->
-    <string name="omnijaws_aqi_level_satisfactory">Satisfactory</string>
+    <string name="omnijaws_aqi_level_satisfactory">Memuaskan</string>
     <string name="omnijaws_aqi_level_poor">Buruk</string>
-    <string name="omnijaws_aqi_level_very_poor">Very poor</string>
-    <string name="omnijaws_aqi_level_severe">Severe</string>
+    <string name="omnijaws_aqi_level_very_poor">Sangat Buruk</string>
+    <string name="omnijaws_aqi_level_severe">Parah</string>
     <!-- Particulate concentrations in micrograms per cubic metre. %1$d = value -->
     <string name="omnijaws_aqi_pm25_format">PM2.5 %1$d \u00b5g/m\u00b3</string>
     <string name="omnijaws_aqi_pm10_format">PM10 %1$d \u00b5g/m\u00b3</string>
