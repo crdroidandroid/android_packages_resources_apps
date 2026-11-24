@@ -12,24 +12,26 @@
     <string name="updater_build_unofficial">Tidak resmi</string>
     <string name="updater_maintainer_by">oleh <xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g></string>
     <!-- Preferences: parallel download connections -->
-    <string name="updater_menu_download_connections">Parallel connections</string>
+    <string name="updater_menu_download_connections">Koneksi Paralel</string>
     <!-- %1$s is the formatted count, e.g. "8 connections" -->
-    <string name="updater_menu_download_connections_summary">%1$s · Applies to new downloads</string>
-    <string name="updater_download_connections_dialog_message">Downloading over several connections at once can speed up slow mirrors. A download that has already started or is paused keeps the number of connections it began with. The new value applies from the next download.</string>
+    <string name="updater_menu_download_connections_summary">%1$s · Berlaku untuk unduhan baru</string>
+    <string name="updater_download_connections_dialog_message">Mengunduh melalui beberapa koneksi sekaligus dapat mempercepat proses unduhan dari mirror yang lambat.
+Unduhan yang sudah dimulai atau sedang dijeda akan tetap menggunakan jumlah koneksi seperti saat unduhan tersebut dimulai. Nilai baru akan berlaku mulai unduhan berikutnya.</string>
     <plurals name="updater_download_connections_count">
-        <item quantity="other">%d connections</item>
+        <item quantity="other">%d koneksi</item>
     </plurals>
     <!-- Preferences: SourceForge download mirror -->
-    <string name="updater_menu_download_mirror">Download mirror</string>
-    <string name="updater_download_mirror_auto">Auto-select available mirror</string>
-    <string name="updater_download_mirror_fastest">Test and use fastest mirror</string>
-    <string name="updater_download_mirror_choose">Show available mirrors</string>
-    <string name="updater_download_mirror_dialog_message">Auto-select lets SourceForge pick a mirror. Testing tries several mirrors before each download and uses the fastest, using a few MB of extra data. Show available mirrors lists the mirrors when you tap Download.</string>
-    <string name="updater_download_mirror_list_title">Available mirrors</string>
-    <string name="updater_download_mirror_loading">Loading mirrors…</string>
-    <string name="updater_download_mirror_list_failed">Couldn\'t load mirrors. Downloading with auto-select.</string>
+    <string name="updater_menu_download_mirror">Mirror Unduhan</string>
+    <string name="updater_download_mirror_auto">Pilih Mirror yang Tersedia Secara Otomatis</string>
+    <string name="updater_download_mirror_fastest">Uji dan Gunakan Mirror Tercepat</string>
+    <string name="updater_download_mirror_choose">Tampilkan Mirror yang Tersedia</string>
+    <string name="updater_download_mirror_dialog_message">Pemilihan otomatis memungkinkan SourceForge memilih mirror untukmu. Pengujian akan mencoba beberapa mirror sebelum setiap unduhan, lalu menggunakan mirror dengan kecepatan tertinggi. Proses ini membutuhkan tambahan penggunaan data beberapa MB.
+Opsi Tampilkan Mirror yang Tersedia akan menampilkan daftar mirror saat kamu mengetuk Download.</string>
+    <string name="updater_download_mirror_list_title">Mirror yang Tersedia</string>
+    <string name="updater_download_mirror_loading">Memuat daftar mirror…</string>
+    <string name="updater_download_mirror_list_failed">Tidak dapat memuat daftar mirror. Mengunduh dengan pemilihan otomatis.</string>
     <!-- Download card: %1$s is a formatted size, e.g. "5.2 MB" -->
-    <string name="updater_download_speed">%1$s/s</string>
+    <string name="updater_download_speed">%1$s/dtk</string>
     <!-- Download notification: %1$s is the existing "ETA, speed" text, %2$s is e.g. "8 connections" -->
     <string name="updater_download_speed_with_connections">%1$s · %2$s</string>
     <!-- OmniJaws -->
@@ -58,21 +60,22 @@
     <string name="omnijaws_weather_custom_location_missing">Atur lokasi khusus</string>
     <string name="omnijaws_grant_location_permission_title">Beri izin lokasi</string>
     <string name="omnijaws_grant_location_permission_summary">Perlu untuk penentuan lokasi otomatis</string>
-    <string name="omnijaws_grant_background_location_title">Allow location all the time</string>
-    <string name="omnijaws_grant_background_location_summary">Needed to keep the widget and lock screen weather updated in the background</string>
+    <string name="omnijaws_grant_background_location_title">Izinkan akses lokasi setiap saat</string>
+    <string name="omnijaws_grant_background_location_summary">Diperlukan agar widget dan informasi cuaca di layar kunci tetap diperbarui di latar belakang</string>
     <string name="omnijaws_weather_icon_pack_title">Paket ikon kondisi</string>
     <string name="omnijaws_icon_theme_title">Tema ikon</string>
-    <string name="omnijaws_widget_sub_locality_title">Show area</string>
-    <string name="omnijaws_widget_sub_locality_summary">Show the neighbourhood below the city name</string>
-    <string name="omnijaws_theme_system">Follow system</string>
+    <string name="omnijaws_widget_sub_locality_title">Tampilkan area</string>
+    <string name="omnijaws_widget_sub_locality_summary">Tampilkan nama lingkungan di bawah nama kota</string>
+    <string name="omnijaws_theme_system">Ikuti pengaturan sistem</string>
     <string name="omnijaws_theme_light">Terang</string>
     <string name="omnijaws_theme_dark">Gelap</string>
     <!-- OWM / Pirate Weather / Visual Crossing API -->
     <string name="omnijaws_owm_key">Kunci OWM khusus</string>
     <string name="omnijaws_pirate_weather_key">Kunci API Pirate Weather</string>
     <string name="omnijaws_provider_disabled">Layanan di-nonaktifkan</string>
-    <string name="omnijaws_api_key_note">Pirate Weather and Visual Crossing need an API key to work, and a custom OWM key is recommended for OpenWeatherMap. Tap \"Last update time\" to force an update and test your key.</string>
-    <string name="omnijaws_api_links_note"><![CDATA[Get API keys: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a> | <a href="https://www.visualcrossing.com/">Visual Crossing</a>]]></string>
+    <string name="omnijaws_api_key_note">Pirate Weather dan Visual Crossing memerlukan API key agar dapat digunakan. Untuk OpenWeatherMap, disarankan menggunakan API key OWM kustom.
+Ketuk Waktu pembaruan terakhir untuk memaksa pembaruan dan menguji API key-mu.</string>
+    <string name="omnijaws_api_links_note"><![CDATA[Dapatkan API key: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a> | <a href="https://www.visualcrossing.com/">Visual Crossing</a>]]></string>
     <!-- Dashboard -->
     <string name="omnijaws_menu_title">Menu</string>
     <string name="omnijaws_update_title">Perbarui</string>
@@ -87,11 +90,11 @@
     <string name="omnijaws_forecast_show_more">Tampilkan lebih banyak</string>
     <string name="omnijaws_forecast_show_less">Tampilkan lebih sedikit</string>
     <string name="omnijaws_forecast_today">Hari Ini</string>
-    <string name="omnijaws_forecast_yesterday">Yesterday</string>
-    <string name="omnijaws_forecast_tomorrow">Tomorrow</string>
+    <string name="omnijaws_forecast_yesterday">Kemarin</string>
+    <string name="omnijaws_forecast_tomorrow">Besok</string>
     <!-- Multi-day forecast view toggle -->
-    <string name="omnijaws_forecast_view_line">Line</string>
-    <string name="omnijaws_forecast_view_list">List</string>
+    <string name="omnijaws_forecast_view_line">Harian</string>
+    <string name="omnijaws_forecast_view_list">Daftar</string>
     <!-- Detail card titles -->
     <string name="omnijaws_detail_feels_like">Terasa seperti</string>
     <string name="omnijaws_detail_uv_index">Indeks UV</string>
@@ -101,7 +104,7 @@
     <string name="omnijaws_detail_visibility">Visibilitas</string>
     <string name="omnijaws_detail_sunrise_sunset">Terbit &amp; terbenam</string>
     <string name="omnijaws_detail_dew_point">Titik embun</string>
-    <string name="omnijaws_detail_air_quality">Air quality</string>
+    <string name="omnijaws_detail_air_quality">Kualitas Udara</string>
     <!-- UV index levels -->
     <string name="omnijaws_uv_level_low">Rendah</string>
     <string name="omnijaws_uv_level_moderate">Moderat</string>
@@ -112,15 +115,15 @@
     <string name="omnijaws_aqi_level_good">Baik</string>
     <string name="omnijaws_aqi_level_moderate">Moderat</string>
     <!-- Air quality levels, US AQI -->
-    <string name="omnijaws_aqi_level_sensitive">Unhealthy for sensitive groups</string>
-    <string name="omnijaws_aqi_level_unhealthy">Unhealthy</string>
-    <string name="omnijaws_aqi_level_very_unhealthy">Very unhealthy</string>
-    <string name="omnijaws_aqi_level_hazardous">Hazardous</string>
+    <string name="omnijaws_aqi_level_sensitive">Tidak Sehat bagi Kelompok Sensitif</string>
+    <string name="omnijaws_aqi_level_unhealthy">Tidak Sehat</string>
+    <string name="omnijaws_aqi_level_very_unhealthy">Sangat Tidak Sehat</string>
+    <string name="omnijaws_aqi_level_hazardous">Berbahaya</string>
     <!-- Air quality levels, India National AQI -->
-    <string name="omnijaws_aqi_level_satisfactory">Satisfactory</string>
+    <string name="omnijaws_aqi_level_satisfactory">Memuaskan</string>
     <string name="omnijaws_aqi_level_poor">Buruk</string>
-    <string name="omnijaws_aqi_level_very_poor">Very poor</string>
-    <string name="omnijaws_aqi_level_severe">Severe</string>
+    <string name="omnijaws_aqi_level_very_poor">Sangat Buruk</string>
+    <string name="omnijaws_aqi_level_severe">Parah</string>
     <!-- Particulate concentrations in micrograms per cubic metre. %1$d = value -->
     <string name="omnijaws_aqi_pm25_format">PM2.5 %1$d \u00b5g/m\u00b3</string>
     <string name="omnijaws_aqi_pm10_format">PM10 %1$d \u00b5g/m\u00b3</string>
@@ -158,8 +161,8 @@
     <!-- Widget -->
     <string name="omnijaws_weather_widget">Widget cuaca</string>
     <string name="omnijaws_weather_widget_desc">"Cuaca saat ini dan prakiraan beberapa hari ke depan"</string>
-    <string name="omnijaws_weather_pebble_widget">Weather pebble</string>
-    <string name="omnijaws_weather_pebble_widget_desc">Current temperature and condition</string>
+    <string name="omnijaws_weather_pebble_widget">Widget Cuaca Mini</string>
+    <string name="omnijaws_weather_pebble_widget_desc">Suhu dan kondisi cuaca saat ini</string>
     <string name="omnijaws_service_disabled">Layanan di-nonaktifkan</string>
     <string name="omnijaws_service_error_long">Kesalahan ketika memuat data cuaca</string>
     <string name="omnijaws_service_error_location">Tidak ada lokasi yang tersedia</string>
@@ -230,57 +233,57 @@
     <string name="omnijaws_error_network">Gagal terhubung ke layanan cuaca</string>
     <string name="omnijaws_error_location">Lokasi tidak tersedia</string>
     <string name="omnijaws_error_disabled">Layanan cuaca dinonaktifkan</string>
-    <string name="omnijaws_error_location_services_off">Location is turned off</string>
-    <string name="omnijaws_error_location_services_off_summary">Turn on location to see the weather where you are, or pick a location manually</string>
-    <string name="omnijaws_error_location_permission">Location access is needed</string>
-    <string name="omnijaws_error_location_permission_summary">Allow location access to see the weather where you are, or pick a location manually</string>
-    <string name="omnijaws_action_open_location_settings">Open location settings</string>
-    <string name="omnijaws_action_grant_location_permission">Allow location access</string>
-    <string name="omnijaws_action_pick_location">Pick a location manually</string>
-    <string name="omnijaws_error_custom_location_missing">No location selected</string>
-    <string name="omnijaws_error_custom_location_missing_summary">Choose a location to see its weather, or turn off custom location in settings</string>
-    <string name="omnijaws_action_choose_location">Choose location</string>
-    <string name="omnijaws_error_api_key_missing">An API key is needed</string>
-    <string name="omnijaws_error_api_key_missing_summary">The selected weather provider needs an API key. Add one in Settings or choose another provider.</string>
+    <string name="omnijaws_error_location_services_off">Lokasi dinonaktifkan</string>
+    <string name="omnijaws_error_location_services_off_summary">Aktifkan lokasi untuk melihat cuaca di tempatmu, atau pilih lokasi secara manual</string>
+    <string name="omnijaws_error_location_permission">Diperlukan akses lokasi</string>
+    <string name="omnijaws_error_location_permission_summary">Izinkan akses lokasi untuk melihat cuaca di tempatmu, atau pilih lokasi secara manual</string>
+    <string name="omnijaws_action_open_location_settings">Buka setelan lokasi</string>
+    <string name="omnijaws_action_grant_location_permission">Izinkan akses lokasi</string>
+    <string name="omnijaws_action_pick_location">Pilih lokasi secara manual</string>
+    <string name="omnijaws_error_custom_location_missing">Belum ada lokasi yang dipilih</string>
+    <string name="omnijaws_error_custom_location_missing_summary">Pilih lokasi untuk melihat cuacanya, atau nonaktifkan lokasi kustom di pengaturan</string>
+    <string name="omnijaws_action_choose_location">Pilih Lokasi</string>
+    <string name="omnijaws_error_api_key_missing">Diperlukan API key</string>
+    <string name="omnijaws_error_api_key_missing_summary">Penyedia cuaca yang dipilih memerlukan API key. Tambahkan API key di Pengaturan atau pilih penyedia lainnya.</string>
     <!-- Omnistyle (QS header image picker) -->
-    <string name="omnistyle_browse_header">Headers</string>
-    <string name="omnistyle_custom_header_image_notice">Header image set</string>
-    <string name="omnistyle_browse_theme_header">Theme headers</string>
-    <string name="omnistyle_pick_header">Select header image</string>
+    <string name="omnistyle_browse_header">Header</string>
+    <string name="omnistyle_custom_header_image_notice">Gambar Header Berhasil Ditetapkan</string>
+    <string name="omnistyle_browse_theme_header">Header Tema</string>
+    <string name="omnistyle_pick_header">Pilih Gambar Header</string>
     <!-- Header picker (Compose) -->
-    <string name="omnistyle_navigate_up">Navigate up</string>
-    <string name="omnistyle_header_current">Current header</string>
+    <string name="omnistyle_navigate_up">Kembali ke Folder Sebelumnya</string>
+    <string name="omnistyle_header_current">Header Saat Ini</string>
     <!-- %1$s: header count, e.g. "24 headers"; %2$s: pack creator -->
-    <string name="omnistyle_header_pack_summary"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%1$s</xliff:g> · by <xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="creator">%2$s</xliff:g></string>
+    <string name="omnistyle_header_pack_summary"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%1$s</xliff:g> · oleh <xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="creator">%2$s</xliff:g></string>
     <plurals name="omnistyle_header_count">
-        <item quantity="other"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> headers</item>
+        <item quantity="other"><xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" id="count">%d</xliff:g> header</item>
     </plurals>
-    <string name="omnistyle_header_empty_title">No header packs installed</string>
-    <string name="omnistyle_header_empty_summary">Installed header packs will show up here</string>
-    <string name="omnistyle_header_pack_empty">This pack has no headers</string>
+    <string name="omnistyle_header_empty_title">Belum ada paket header yang terpasang</string>
+    <string name="omnistyle_header_empty_summary">Paket header yang terpasang akan ditampilkan di sini</string>
+    <string name="omnistyle_header_pack_empty">Paket ini tidak memiliki header</string>
     <!-- Dolby Atmos -->
     <string name="dolby_title">Dolby Atmos</string>
-    <string name="dolby_summary">Experience immersive audio</string>
-    <string name="dolby_enable">Use Dolby Atmos</string>
-    <string name="dolby_profile_title">Choose a profile</string>
+    <string name="dolby_summary">Nikmati pengalaman audio yang imersif</string>
+    <string name="dolby_enable">Gunakan Dolby Atmos</string>
+    <string name="dolby_profile_title">Pilih Profil</string>
     <string name="dolby_preset">Equalizer</string>
-    <string name="dolby_off">Off</string>
-    <string name="dolby_on">On</string>
+    <string name="dolby_off">Nonaktif</string>
+    <string name="dolby_on">Aktif</string>
     <string name="dolby_low">Rendah</string>
-    <string name="dolby_medium">Medium</string>
+    <string name="dolby_medium">Sedang</string>
     <string name="dolby_high">Tinggi</string>
-    <string name="dolby_max">Max</string>
+    <string name="dolby_max">Maksimal</string>
     <string name="dolby_unknown">Tidak diketahui</string>
-    <string name="dolby_on_with_profile">On (%1$s)</string>
-    <string name="dolby_credits">Credits</string>
-    <string name="dolby_more_options">More options</string>
-    <string name="dolby_save_preset">Save preset</string>
-    <string name="dolby_equalizer_summary">Shape your sound, frequency by frequency</string>
-    <string name="dolby_advanced_summary">Fine-tune the details of your listening experience</string>
+    <string name="dolby_on_with_profile">Aktif (%1$s)</string>
+    <string name="dolby_credits">Kredit</string>
+    <string name="dolby_more_options">Opsi Lainnya</string>
+    <string name="dolby_save_preset">Simpan Preset</string>
+    <string name="dolby_equalizer_summary">Atur karakter suara sesuai keinginan, frekuensi demi frekuensi</string>
+    <string name="dolby_advanced_summary">Sesuaikan setiap detail pengalaman mendengarkanmu</string>
     <!-- Quick settings tile state; read aloud by screen readers -->
-    <string name="dolby_tile_state_on">On</string>
-    <string name="dolby_tile_state_off">Off</string>
-    <string name="dolby_category_settings">Audio tuning</string>
+    <string name="dolby_tile_state_on">Aktif</string>
+    <string name="dolby_tile_state_off">Nonaktif</string>
+    <string name="dolby_category_settings">Pengaturan Audio</string>
     <string name="dolby_category_adv_settings">Advanced settings</string>
     <string name="dolby_adv_settings_footer">Choose a different profile to show advanced settings.</string>
     <string name="dolby_bass_enhancer">Bass enhancer</string>
@@ -303,29 +306,29 @@
     <string name="dolby_volume_leveler_summary">Balances volume for a consistent listening experience</string>
     <string name="dolby_connect_headphones">Connect headphones</string>
     <string name="dolby_reset_all">Reset profiles</string>
-    <string name="dolby_reset_all_message">This will reset all profiles to factory defaults.</string>
-    <string name="dolby_reset_all_toast">Succesfully reset all profiles</string>
-    <string name="dolby_hp_virtualizer_strength">Surround virtualizer Strength</string>
-    <string name="dolby_dialogue_enhancer_strength">Dialogue enhancer Strength</string>
-    <string name="dolby_notification_listener_label">Dolby Atmos Service</string>
-    <string name="dolby_loading">Loading...</string>
-    <string name="dolby_read_only">Read-only</string>
+    <string name="dolby_reset_all_message">Semua profil akan dikembalikan ke pengaturan bawaan pabrik.</string>
+    <string name="dolby_reset_all_toast">Semua profil berhasil direset</string>
+    <string name="dolby_hp_virtualizer_strength">Kekuatan Virtualizer Surround</string>
+    <string name="dolby_dialogue_enhancer_strength">Kekuatan Peningkat Dialog</string>
+    <string name="dolby_notification_listener_label">Layanan Dolby Atmos</string>
+    <string name="dolby_loading">Memuat...</string>
+    <string name="dolby_read_only">Hanya Baca</string>
     <!-- Dolby profiles -->
-    <string name="dolby_profile_dynamic">Dynamic</string>
-    <string name="dolby_profile_dynamic_summary">Automatically adapts to your audio</string>
-    <string name="dolby_profile_video">Movie/Video</string>
-    <string name="dolby_profile_music">Music</string>
+    <string name="dolby_profile_dynamic">Dinamis</string>
+    <string name="dolby_profile_dynamic_summary">Menyesuaikan secara otomatis dengan audio yang diputar</string>
+    <string name="dolby_profile_video">Film/Video</string>
+    <string name="dolby_profile_music">Musik</string>
     <string name="dolby_profile_game">Game</string>
-    <string name="dolby_profile_work">Work</string>
-    <string name="dolby_profile_casual">Casual</string>
-    <string name="dolby_profile_mood">Mood</string>
-    <string name="dolby_profile_custom">Custom</string>
+    <string name="dolby_profile_work">Kerja</string>
+    <string name="dolby_profile_casual">Santai</string>
+    <string name="dolby_profile_mood">Suasana</string>
+    <string name="dolby_profile_custom">Kustom</string>
     <!-- Dolby equalizer presets -->
-    <string name="dolby_preset_default">Flat (off)</string>
+    <string name="dolby_preset_default">Datar (Nonaktif)</string>
     <string name="dolby_preset_rock">Rock</string>
     <string name="dolby_preset_jazz">Jazz</string>
     <string name="dolby_preset_pop">Pop</string>
-    <string name="dolby_preset_classical">Classical</string>
+    <string name="dolby_preset_classical">Klasik</string>
     <string name="dolby_preset_hiphop">Hip Hop</string>
     <string name="dolby_preset_blues">Blues</string>
     <string name="dolby_preset_electronic">Electronic</string>
