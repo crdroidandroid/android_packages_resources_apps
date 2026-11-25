@@ -63,8 +63,8 @@
     <string name="omnijaws_grant_background_location_summary">Szükséges a widget és a zárolási képernyő időjárás-információinak háttérben történő frissítéséhez</string>
     <string name="omnijaws_weather_icon_pack_title">Időjárás-állapot ikoncsomag</string>
     <string name="omnijaws_icon_theme_title">Ikon téma</string>
-    <string name="omnijaws_widget_sub_locality_title">Show area</string>
-    <string name="omnijaws_widget_sub_locality_summary">Show the neighbourhood below the city name</string>
+    <string name="omnijaws_widget_sub_locality_title">Terület megjelenítése</string>
+    <string name="omnijaws_widget_sub_locality_summary">A városnév alatt jelenítse meg a városrész nevét</string>
     <string name="omnijaws_theme_system">Rendszertéma követése</string>
     <string name="omnijaws_theme_light">Világos</string>
     <string name="omnijaws_theme_dark">Sötét</string>
@@ -88,11 +88,11 @@
     <string name="omnijaws_forecast_show_more">Több megjelenítése</string>
     <string name="omnijaws_forecast_show_less">Kevesebb megjelenítése</string>
     <string name="omnijaws_forecast_today">Ma</string>
-    <string name="omnijaws_forecast_yesterday">Yesterday</string>
-    <string name="omnijaws_forecast_tomorrow">Tomorrow</string>
+    <string name="omnijaws_forecast_yesterday">Tegnap</string>
+    <string name="omnijaws_forecast_tomorrow">Holnap</string>
     <!-- Multi-day forecast view toggle -->
-    <string name="omnijaws_forecast_view_line">Line</string>
-    <string name="omnijaws_forecast_view_list">List</string>
+    <string name="omnijaws_forecast_view_line">Sor</string>
+    <string name="omnijaws_forecast_view_list">Felsorolás</string>
     <!-- Detail card titles -->
     <string name="omnijaws_detail_feels_like">Hőérzet</string>
     <string name="omnijaws_detail_uv_index">UV sugárzás</string>
@@ -118,10 +118,10 @@
     <string name="omnijaws_aqi_level_very_unhealthy">Nagyon egészségtelen</string>
     <string name="omnijaws_aqi_level_hazardous">Veszélyes</string>
     <!-- Air quality levels, India National AQI -->
-    <string name="omnijaws_aqi_level_satisfactory">Satisfactory</string>
+    <string name="omnijaws_aqi_level_satisfactory">Kielégítő</string>
     <string name="omnijaws_aqi_level_poor">Alacsony</string>
-    <string name="omnijaws_aqi_level_very_poor">Very poor</string>
-    <string name="omnijaws_aqi_level_severe">Severe</string>
+    <string name="omnijaws_aqi_level_very_poor">Nagyon rossz</string>
+    <string name="omnijaws_aqi_level_severe">Súlyos</string>
     <!-- Particulate concentrations in micrograms per cubic metre. %1$d = value -->
     <string name="omnijaws_aqi_pm25_format">PM2.5 %1$d \u00b5g/m\u00b3</string>
     <string name="omnijaws_aqi_pm10_format">PM10 %1$d \u00b5g/m\u00b3</string>
@@ -277,14 +277,14 @@
     <string name="dolby_credits">Készítők</string>
     <string name="dolby_more_options">További beállítások</string>
     <string name="dolby_save_preset">Hangzás mentése</string>
-    <string name="dolby_equalizer_summary">Formáld a hangzásodat, frekvenciáról frekvenciára</string>
+    <string name="dolby_equalizer_summary">Formálja hangzását, frekvenciáról frekvenciára</string>
     <string name="dolby_advanced_summary">Finomhangolja zenehallgatási élmény részleteit</string>
     <!-- Quick settings tile state; read aloud by screen readers -->
     <string name="dolby_tile_state_on">Be</string>
     <string name="dolby_tile_state_off">Ki</string>
     <string name="dolby_category_settings">Hangolás</string>
     <string name="dolby_category_adv_settings">Haladó beállítások</string>
-    <string name="dolby_adv_settings_footer">Válassz másik profilt a speciális beállítások megjelenítéséhez.</string>
+    <string name="dolby_adv_settings_footer">Válasszon másik profilt a speciális beállítások megjelenítéséhez.</string>
     <string name="dolby_bass_enhancer">Mélyhang kiemelő</string>
     <string name="dolby_bass_level">Basszusszint</string>
     <string name="dolby_bass_curve">Basszusgörbe</string>
@@ -357,26 +357,26 @@
     <string name="dolby_geq_delete_preset">Előbeállítás törlése</string>
     <string name="dolby_geq_delete_preset_prompt">Törölni szeretnéd ezt az előbeállítást?</string>
     <string name="dolby_geq_reset_gains">Erősítések visszaállítása</string>
-    <string name="dolby_geq_reset_gains_prompt">Vissza szeretnéd állítani ezt az előbeállítást az alapértelmezett értékekre?</string>
+    <string name="dolby_geq_reset_gains_prompt">Vissza szeretné állítani ezt az előbeállítást az alapértelmezett értékekre?</string>
     <string name="dolby_geq_preset_name_exists">Az előbeállítás neve már létezik!</string>
     <string name="dolby_geq_preset_name_too_long">Az előbeállítás neve túl hosszú!</string>
     <string name="dolby_band_mode_mismatch">Sávmód-eltérés</string>
-    <string name="dolby_preset_cannot_be_edited">Ez a(z) %1$s előbeállítás nem szerkeszthető %2$s módban. Válts át %3$s módra, vagy válassz egy kompatibilis előbeállítást.</string>
+    <string name="dolby_preset_cannot_be_edited">Ez a(z) %1$s előbeállítás nem szerkeszthető %2$s módban. Váltson át %3$s módra, vagy válassszon egy kompatibilis előbeállítást.</string>
     <string name="dolby_interactive_frequency_response">Interaktív frekvenciaválasz</string>
-    <string name="dolby_interactive_frequency_response_summary">Húzd el a vezérlőpontokat az erősítés beállításához (±15 dB)</string>
+    <string name="dolby_interactive_frequency_response_summary">Húzza el a vezérlőpontokat az erősítés beállításához (±15 dB)</string>
     <string name="dolby_frequency_response">Frekvenciaátvitel</string>
     <string name="dolby_frequency_response_ro">Frekvenciaátvitel (csak olvasható)</string>
     <string name="dolby_frequency_response_ro_summary">Csak olvasható nézet • Sávmód-eltérés</string>
     <string name="dolby_locked">Zárolva</string>
     <string name="dolby_band_configuration">Sávkonfiguráció</string>
-    <string name="dolby_choose_equalizer_precision">Válaszd ki az equalizer pontosságát: több sáv = finomabb szabályozás</string>
+    <string name="dolby_choose_equalizer_precision">Válassza ki az equalizer pontosságát: több sáv = finomabb szabályozás</string>
     <string name="dolby_geq_view">Equalizer-nézet</string>
     <string name="dolby_geq_view_curve">Görbe</string>
     <string name="dolby_geq_view_sliders">Csúszkák</string>
     <string name="dolby_geq_b_bands">Sávok</string>
     <string name="dolby_geq_l_bands">sávok</string>
     <string name="dolby_band_tuner">Sávhangoló</string>
-    <string name="dolby_band_tuner_desc">Lépkedj a sávok között, és finomhangold az erősítést 0,1 dB-es lépésekben</string>
+    <string name="dolby_band_tuner_desc">Lépkedjen a sávok között, és finomhangolja az erősítést 0,1 dB-es lépésekben</string>
     <string name="dolby_band_tuner_position">%1$d sáv a(z) %2$d sávból</string>
     <string name="dolby_band_tuner_label">%1$d sáv · %2$s</string>
     <string name="dolby_band_tuner_previous">Előző sáv</string>
@@ -390,12 +390,12 @@
     <string name="dolby_warm">Meleg</string>
     <string name="dolby_detailed">Részletezett</string>
     <string name="dolby_ieq_off_summary">Használja az aktuális profilt intelligens EQ nélkül.</string>
-    <string name="dolby_ieq_detailed_summary">Hozd elő a finom részleteket és a tisztaságot.</string>
-    <string name="dolby_ieq_balanced_summary">Tartsd egyensúlyban a mély, a közép- és a magas frekvenciákat.</string>
-    <string name="dolby_ieq_warm_summary">Kölcsönözz lágyabb, melegebb karaktert a hangzásnak.</string>
+    <string name="dolby_ieq_detailed_summary">Hozza elő a finom részleteket és a tisztaságot.</string>
+    <string name="dolby_ieq_balanced_summary">Tartsa egyensúlyban a mély, a közép- és a magas frekvenciákat.</string>
+    <string name="dolby_ieq_warm_summary">Kölcsönözzön lágyabb, melegebb karaktert a hangzásnak.</string>
     <!-- Per-App Audio Profiles -->
     <string name="dolby_app_profiles_title">Alkalmazásonkénti hangprofilok</string>
-    <string name="dolby_app_profiles_desc">Rendelj különböző hangprofilokat az egyes alkalmazásokhoz, hogy a tartalom típusának megfelelően optimalizált hangzást érj el</string>
+    <string name="dolby_app_profiles_desc">Rendeljen különböző hangprofilokat az egyes alkalmazásokhoz, hogy a tartalom típusának megfelelően optimalizált hangzást érje el</string>
     <string name="dolby_app_profiles_search_hint">Alkalmazások keresése...</string>
     <string name="dolby_app_profiles_no_apps">Nem található alkalmazás</string>
     <string name="dolby_app_profiles_loading">Alkalmazások betöltése...</string>
@@ -407,7 +407,7 @@
     <string name="dolby_app_profiles_headphone_only">Csak fejhallgató/BT üzemmód</string>
     <string name="dolby_app_profiles_headphone_only_description">Csak akkor váltson profilt, ha fülhallgató vagy Bluetooth-os hangeszköz van csatlakoztatva</string>
     <string name="dolby_app_profiles_permission_required">Engedély szükséges</string>
-    <string name="dolby_app_profiles_permission_required_details">Az aktív alkalmazástól függő automatikus profilváltáshoz kérjük, a következő képernyőn add meg a „Használati hozzáférés” engedélyt.</string>
+    <string name="dolby_app_profiles_permission_required_details">Az aktív alkalmazástól függő automatikus profilváltáshoz kérjük, a következő képernyőn adja meg a „Használati hozzáférés” engedélyt.</string>
     <string name="dolby_app_profiles_grant_permission">Engedély megadása</string>
     <string name="dolby_app_profiles_search_placeholder">Alkalmazások keresése...</string>
     <string name="dolby_app_profiles_no_apps_found">Nem található alkalmazás</string>
@@ -430,7 +430,7 @@
     <string name="dolby_preset_import_failed">Az importálás sikertelen</string>
     <!-- Notification Access -->
     <string name="dolby_notification_access_required">Értesítés hozzáférés szükséges</string>
-    <string name="dolby_notification_access_required_desc">Engedélyezd az értesítésekhez való hozzáférést, hogy a Dolby Atmos a háttérben is működhessen, és lehetővé váljon a profilok automatikus váltása.</string>
+    <string name="dolby_notification_access_required_desc">Engedélyezze az értesítésekhez való hozzáférést, hogy a Dolby Atmos a háttérben is működhessen, és lehetővé váljon a profilok automatikus váltása.</string>
     <string name="dolby_enable_notification_access">Értesítés hozzáférés engedélyezése</string>
     <string name="dolby_enable_notification_access_desc">Engedélyezd az értesítésekhez való hozzáférést, hogy a Dolby Atmos a háttérben is működhessen, és lehetővé váljon a profilok automatikus váltása.</string>
     <string name="dolby_notification_access_permission_details">Ez az engedély lehetővé teszi a Dolby Atmos számára, hogy:\n\n• Folyamatosan fusson a háttérben\n• Automatikusan váltson hangprofilokat\n• Figyelje az előtérben futó alkalmazásokat\n\nAz értesítéseit a rendszer nem olvassa be és nem módosítja.</string>
@@ -463,7 +463,7 @@
     <string name="dolby_autoeq_title">AutoEQ-profil alkalmazása</string>
     <string name="dolby_autoeq_applied">AutoEQ alkalmazva a következőre: %1$s</string>
     <string name="dolby_autoeq_preset_name">AutoEQ: %1$s</string>
-    <string name="dolby_autoeq_search_hint">Keress több mint 8000 profil között...</string>
+    <string name="dolby_autoeq_search_hint">Keressen több mint 8000 profil között...</string>
     <string name="dolby_autoeq_currently_applied">Jelenleg alkalmazott</string>
     <string name="dolby_autoeq_clear">Keresés törlése</string>
     <string name="dolby_autoeq_search">Keresés</string>
