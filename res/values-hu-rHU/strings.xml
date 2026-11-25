@@ -72,7 +72,7 @@
     <string name="omnijaws_owm_key">Egyéni OWM-kulcs</string>
     <string name="omnijaws_pirate_weather_key">Pirate Weather API kulcs</string>
     <string name="omnijaws_provider_disabled">Szolgáltató letiltva</string>
-    <string name="omnijaws_api_key_note">A Pirate Weather és a Visual Crossing működéséhez API-kulcs szükséges, az OpenWeatherMap esetében pedig ajánlott egy saját OWM-kulcs használata. Koppints a „Utolsó frissítés ideje” feliratra a frissítés kényszerítéséhez és a kulcs teszteléséhez.</string>
+    <string name="omnijaws_api_key_note">A Pirate Weather és a Visual Crossing működéséhez API-kulcs szükséges, az OpenWeatherMap esetében pedig ajánlott egy saját OWM-kulcs használata. Koppintson a „Utolsó frissítés ideje” feliratra a frissítés kényszerítéséhez és a kulcs teszteléséhez.</string>
     <string name="omnijaws_api_links_note"><![CDATA[API-kulcsok beszerzése: <a href="https://pirate-weather.apiable.io/products/weather-data/plans">Pirate Weather</a> | <a href="https://openweathermap.org/price">OpenWeatherMap</a> | <a href="https://www.visualcrossing.com/">Visual Crossing</a>]]></string>
     <!-- Dashboard -->
     <string name="omnijaws_menu_title">Menü</string>
@@ -80,7 +80,7 @@
     <string name="omnijaws_settings_title">Beállítások</string>
     <string name="omnijaws_temperature_low">Gyenge</string>
     <string name="omnijaws_temperature_high">Erős</string>
-    <string name="omnijaws_dashboard_error_subtitle">Ellenőrizd a beállításokat, vagy próbálj meg frissíteni</string>
+    <string name="omnijaws_dashboard_error_subtitle">Ellenőrizze a beállításokat, vagy próbáljon meg frissíteni</string>
     <string name="omnijaws_dashboard_provider_attribution">Időjárási adatszolgáltató: %1$s</string>
     <!-- Forecast card -->
     <string name="omnijaws_forecast_card_hourly_title">Óránkénti előrejelzés</string>
