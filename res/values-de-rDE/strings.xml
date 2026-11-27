@@ -40,6 +40,14 @@
     <string name="omnijaws_category_general">Allgemein</string>
     <string name="omnijaws_category_appearance">Darstellung</string>
     <string name="omnijaws_category_api">Schnittstelle (API)</string>
+    <string name="omnijaws_category_notifications">Notifications</string>
+    <string name="omnijaws_notify_forecast_title">Daily forecast</string>
+    <string name="omnijaws_notify_forecast_summary">Today\'s forecast in the morning and tomorrow\'s in the evening</string>
+    <string name="omnijaws_notify_ongoing_title">Persistent notification</string>
+    <string name="omnijaws_notify_ongoing_summary">Show the current weather in the notification shade</string>
+    <string name="omnijaws_channel_forecast">Daily forecast</string>
+    <string name="omnijaws_channel_ongoing">Current weather</string>
+    <string name="omnijaws_notification_precip_chance"><xliff:g id="percent" example="40">%1$d</xliff:g>%% chance of precipitation</string>
     <string name="omnijaws_enable_title">Aktivieren</string>
     <string name="omnijaws_provider_title">Wetteranbieter</string>
     <string name="omnijaws_units_title">Einheit</string>
