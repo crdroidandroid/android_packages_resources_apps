@@ -39,6 +39,14 @@
     <string name="omnijaws_category_general">通用</string>
     <string name="omnijaws_category_appearance">外观</string>
     <string name="omnijaws_category_api">API</string>
+    <string name="omnijaws_category_notifications">Notifications</string>
+    <string name="omnijaws_notify_forecast_title">Daily forecast</string>
+    <string name="omnijaws_notify_forecast_summary">Today\'s forecast in the morning and tomorrow\'s in the evening</string>
+    <string name="omnijaws_notify_ongoing_title">Persistent notification</string>
+    <string name="omnijaws_notify_ongoing_summary">Show the current weather in the notification shade</string>
+    <string name="omnijaws_channel_forecast">Daily forecast</string>
+    <string name="omnijaws_channel_ongoing">Current weather</string>
+    <string name="omnijaws_notification_precip_chance"><xliff:g id="percent" example="40">%1$d</xliff:g>%% chance of precipitation</string>
     <string name="omnijaws_enable_title">启用</string>
     <string name="omnijaws_provider_title">天气数据源</string>
     <string name="omnijaws_units_title">单位</string>
