@@ -245,6 +245,10 @@ Ketuk Waktu pembaruan terakhir untuk memaksa pembaruan dan menguji API key-mu.</
     <string name="omnijaws_action_choose_location">Pilih Lokasi</string>
     <string name="omnijaws_error_api_key_missing">Diperlukan API key</string>
     <string name="omnijaws_error_api_key_missing_summary">Penyedia cuaca yang dipilih memerlukan API key. Tambahkan API key di Pengaturan atau pilih penyedia lainnya.</string>
+    <string name="omnijaws_error_api_key_invalid">The API key was rejected</string>
+    <string name="omnijaws_error_api_key_invalid_summary">Check the API key and its plan in Settings, or choose another provider.</string>
+    <string name="omnijaws_error_rate_limited">Too many weather requests</string>
+    <string name="omnijaws_error_rate_limited_summary">The weather provider is limiting requests. Try again later.</string>
     <!-- Omnistyle (QS header image picker) -->
     <string name="omnistyle_browse_header">Header</string>
     <string name="omnistyle_custom_header_image_notice">Gambar Header Berhasil Ditetapkan</string>
