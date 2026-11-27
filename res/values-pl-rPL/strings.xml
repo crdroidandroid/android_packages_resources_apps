@@ -245,6 +245,10 @@
     <string name="omnijaws_action_choose_location">Wybierz lokalizację</string>
     <string name="omnijaws_error_api_key_missing">Klucz API jest wymagany</string>
     <string name="omnijaws_error_api_key_missing_summary">Wybrany dostawca danych pogodowych wymaga klucza API. Dodaj go w sekcji „Ustawienia” lub wybierz innego dostawcę.</string>
+    <string name="omnijaws_error_api_key_invalid">The API key was rejected</string>
+    <string name="omnijaws_error_api_key_invalid_summary">Check the API key and its plan in Settings, or choose another provider.</string>
+    <string name="omnijaws_error_rate_limited">Too many weather requests</string>
+    <string name="omnijaws_error_rate_limited_summary">The weather provider is limiting requests. Try again later.</string>
     <!-- Omnistyle (QS header image picker) -->
     <string name="omnistyle_browse_header">Nagłówki</string>
     <string name="omnistyle_custom_header_image_notice">Zestaw obrazów nagłówka</string>
