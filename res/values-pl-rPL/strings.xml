@@ -46,10 +46,10 @@
     <string name="omnijaws_notify_forecast_title">Prognoza dzienna</string>
     <string name="omnijaws_notify_forecast_summary">Dzisiejsza prognoza na rano i na jutro wieczorem</string>
     <string name="omnijaws_notify_ongoing_title">Stałe powiadomienie</string>
-    <string name="omnijaws_notify_ongoing_summary">Show the current weather in the notification shade</string>
+    <string name="omnijaws_notify_ongoing_summary">Wyświetlaj aktualną pogodę w panelu powiadomień</string>
     <string name="omnijaws_channel_forecast">Prognoza dzienna</string>
-    <string name="omnijaws_channel_ongoing">Current weather</string>
-    <string name="omnijaws_notification_precip_chance"><xliff:g id="percent" example="40">%1$d</xliff:g>%% chance of precipitation</string>
+    <string name="omnijaws_channel_ongoing">Aktualna pogoda</string>
+    <string name="omnijaws_notification_precip_chance"><xliff:g id="percent" example="40">%1$d</xliff:g>%% szansa na opady</string>
     <string name="omnijaws_enable_title">Włącz</string>
     <string name="omnijaws_provider_title">Dostawca pogody</string>
     <string name="omnijaws_units_title">Jednostka</string>
@@ -234,8 +234,8 @@
     <string name="omnijaws_weather_3200">Niedostępne</string>
     <!-- HourlyForecastCard: label for the current hour column -->
     <string name="omnijaws_hourly_now">Teraz</string>
-    <string name="omnijaws_hourly_tab_temperature">Temperature</string>
-    <string name="omnijaws_hourly_tab_precipitation">Precipitation</string>
+    <string name="omnijaws_hourly_tab_temperature">Temperatura</string>
+    <string name="omnijaws_hourly_tab_precipitation">Opady</string>
     <!-- DetailCards: visibility units -->
     <string name="omnijaws_unit_km">km</string>
     <string name="omnijaws_unit_mi">mi</string>
@@ -255,10 +255,10 @@
     <string name="omnijaws_action_choose_location">Wybierz lokalizację</string>
     <string name="omnijaws_error_api_key_missing">Klucz API jest wymagany</string>
     <string name="omnijaws_error_api_key_missing_summary">Wybrany dostawca danych pogodowych wymaga klucza API. Dodaj go w sekcji „Ustawienia” lub wybierz innego dostawcę.</string>
-    <string name="omnijaws_error_api_key_invalid">The API key was rejected</string>
-    <string name="omnijaws_error_api_key_invalid_summary">Check the API key and its plan in Settings, or choose another provider.</string>
-    <string name="omnijaws_error_rate_limited">Too many weather requests</string>
-    <string name="omnijaws_error_rate_limited_summary">The weather provider is limiting requests. Try again later.</string>
+    <string name="omnijaws_error_api_key_invalid">Klucz API został odrzucony</string>
+    <string name="omnijaws_error_api_key_invalid_summary">Sprawdź klucz API i jego plan w Ustawieniach lub wybierz innego dostawcę.</string>
+    <string name="omnijaws_error_rate_limited">Zbyt wiele zapytań dotyczących pogody</string>
+    <string name="omnijaws_error_rate_limited_summary">Dostawca danych pogodowych ogranicza liczbę zapytań. Spróbuj ponownie później.</string>
     <!-- Omnistyle (QS header image picker) -->
     <string name="omnistyle_browse_header">Nagłówki</string>
     <string name="omnistyle_custom_header_image_notice">Zestaw obrazów nagłówka</string>
