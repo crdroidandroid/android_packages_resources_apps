@@ -42,14 +42,14 @@
     <string name="omnijaws_category_general">Общие</string>
     <string name="omnijaws_category_appearance">Внешний вид</string>
     <string name="omnijaws_category_api">API</string>
-    <string name="omnijaws_category_notifications">Notifications</string>
-    <string name="omnijaws_notify_forecast_title">Daily forecast</string>
-    <string name="omnijaws_notify_forecast_summary">Today\'s forecast in the morning and tomorrow\'s in the evening</string>
-    <string name="omnijaws_notify_ongoing_title">Persistent notification</string>
-    <string name="omnijaws_notify_ongoing_summary">Show the current weather in the notification shade</string>
-    <string name="omnijaws_channel_forecast">Daily forecast</string>
-    <string name="omnijaws_channel_ongoing">Current weather</string>
-    <string name="omnijaws_notification_precip_chance"><xliff:g id="percent" example="40">%1$d</xliff:g>%% chance of precipitation</string>
+    <string name="omnijaws_category_notifications">Уведомления</string>
+    <string name="omnijaws_notify_forecast_title">Ежедневный прогноз</string>
+    <string name="omnijaws_notify_forecast_summary">Прогноз на сегодня — на утро и на завтра — на вечер</string>
+    <string name="omnijaws_notify_ongoing_title">Постоянное уведомление</string>
+    <string name="omnijaws_notify_ongoing_summary">Показывать текущую погоду в шторке уведомлений</string>
+    <string name="omnijaws_channel_forecast">Ежедневный прогноз</string>
+    <string name="omnijaws_channel_ongoing">Текущая погода</string>
+    <string name="omnijaws_notification_precip_chance">Вероятность осадков <xliff:g id="percent" example="40">%1$d</xliff:g>%%</string>
     <string name="omnijaws_enable_title">Включить</string>
     <string name="omnijaws_provider_title">Поставщик погоды</string>
     <string name="omnijaws_units_title">Единица измерения</string>
@@ -253,7 +253,7 @@
     <string name="omnijaws_action_choose_location">Выберите местоположение</string>
     <string name="omnijaws_error_api_key_missing">Требуется API ключ</string>
     <string name="omnijaws_error_api_key_missing_summary">Выбранному поставщику погоды необходим ключ API. Добавьте его в настройках или выберите другого поставщика.</string>
-    <string name="omnijaws_error_api_key_invalid">The API key was rejected</string>
+    <string name="omnijaws_error_api_key_invalid">Ключ API был отклонён</string>
     <string name="omnijaws_error_api_key_invalid_summary">Check the API key and its plan in Settings, or choose another provider.</string>
     <string name="omnijaws_error_rate_limited">Too many weather requests</string>
     <string name="omnijaws_error_rate_limited_summary">The weather provider is limiting requests. Try again later.</string>
