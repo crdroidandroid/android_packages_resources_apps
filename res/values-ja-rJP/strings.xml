@@ -39,14 +39,14 @@
     <string name="omnijaws_category_general">一般</string>
     <string name="omnijaws_category_appearance">外観</string>
     <string name="omnijaws_category_api">API</string>
-    <string name="omnijaws_category_notifications">Notifications</string>
-    <string name="omnijaws_notify_forecast_title">Daily forecast</string>
-    <string name="omnijaws_notify_forecast_summary">Today\'s forecast in the morning and tomorrow\'s in the evening</string>
-    <string name="omnijaws_notify_ongoing_title">Persistent notification</string>
-    <string name="omnijaws_notify_ongoing_summary">Show the current weather in the notification shade</string>
-    <string name="omnijaws_channel_forecast">Daily forecast</string>
-    <string name="omnijaws_channel_ongoing">Current weather</string>
-    <string name="omnijaws_notification_precip_chance"><xliff:g id="percent" example="40">%1$d</xliff:g>%% chance of precipitation</string>
+    <string name="omnijaws_category_notifications">通知</string>
+    <string name="omnijaws_notify_forecast_title">今日の天気予報</string>
+    <string name="omnijaws_notify_forecast_summary">朝は今日の予報、夜は明日の予報を表示します</string>
+    <string name="omnijaws_notify_ongoing_title">永続的な通知</string>
+    <string name="omnijaws_notify_ongoing_summary">通知パネルに現在の天気を表示します</string>
+    <string name="omnijaws_channel_forecast">今日の天気予報</string>
+    <string name="omnijaws_channel_ongoing">現在の天気</string>
+    <string name="omnijaws_notification_precip_chance">降水確率 <xliff:g id="percent" example="40">%1$d</xliff:g>%</string>
     <string name="omnijaws_enable_title">有効</string>
     <string name="omnijaws_provider_title">天気プロバイダー</string>
     <string name="omnijaws_units_title">単位</string>
@@ -231,8 +231,8 @@
     <string name="omnijaws_weather_3200">利用不可</string>
     <!-- HourlyForecastCard: label for the current hour column -->
     <string name="omnijaws_hourly_now">現在</string>
-    <string name="omnijaws_hourly_tab_temperature">Temperature</string>
-    <string name="omnijaws_hourly_tab_precipitation">Precipitation</string>
+    <string name="omnijaws_hourly_tab_temperature">気温</string>
+    <string name="omnijaws_hourly_tab_precipitation">降水量</string>
     <!-- DetailCards: visibility units -->
     <string name="omnijaws_unit_km">キロメートル</string>
     <string name="omnijaws_unit_mi">マイル</string>
@@ -252,10 +252,10 @@
     <string name="omnijaws_action_choose_location">場所を選択</string>
     <string name="omnijaws_error_api_key_missing">API キーが必要です</string>
     <string name="omnijaws_error_api_key_missing_summary">選択した天気プロバイダにはAPIキーが必要です。設定で追加するか、別のプロバイダを選択してください。</string>
-    <string name="omnijaws_error_api_key_invalid">The API key was rejected</string>
-    <string name="omnijaws_error_api_key_invalid_summary">Check the API key and its plan in Settings, or choose another provider.</string>
-    <string name="omnijaws_error_rate_limited">Too many weather requests</string>
-    <string name="omnijaws_error_rate_limited_summary">The weather provider is limiting requests. Try again later.</string>
+    <string name="omnijaws_error_api_key_invalid">API キーが拒否されました</string>
+    <string name="omnijaws_error_api_key_invalid_summary">設定で API キーとプランを確認するか、別のプロバイダを選択してください。</string>
+    <string name="omnijaws_error_rate_limited">天気のリクエストが多すぎます</string>
+    <string name="omnijaws_error_rate_limited_summary">天気プロバイダがリクエストを制限しています。後でもう一度お試しください。</string>
     <!-- Omnistyle (QS header image picker) -->
     <string name="omnistyle_browse_header">ヘッダー</string>
     <string name="omnistyle_custom_header_image_notice">ヘッダー画像を設定</string>
