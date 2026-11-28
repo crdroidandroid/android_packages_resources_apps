@@ -41,6 +41,14 @@ Opsi Tampilkan Mirror yang Tersedia akan menampilkan daftar mirror saat kamu men
     <string name="omnijaws_category_general">Umum</string>
     <string name="omnijaws_category_appearance">Tampilan</string>
     <string name="omnijaws_category_api">API</string>
+    <string name="omnijaws_category_notifications">Notifications</string>
+    <string name="omnijaws_notify_forecast_title">Daily forecast</string>
+    <string name="omnijaws_notify_forecast_summary">Today\'s forecast in the morning and tomorrow\'s in the evening</string>
+    <string name="omnijaws_notify_ongoing_title">Persistent notification</string>
+    <string name="omnijaws_notify_ongoing_summary">Show the current weather in the notification shade</string>
+    <string name="omnijaws_channel_forecast">Daily forecast</string>
+    <string name="omnijaws_channel_ongoing">Current weather</string>
+    <string name="omnijaws_notification_precip_chance"><xliff:g id="percent" example="40">%1$d</xliff:g>%% chance of precipitation</string>
     <string name="omnijaws_enable_title">Aktifkan</string>
     <string name="omnijaws_provider_title">Penyedia cuaca</string>
     <string name="omnijaws_units_title">Satuan</string>
@@ -226,6 +234,8 @@ Ketuk Waktu pembaruan terakhir untuk memaksa pembaruan dan menguji API key-mu.</
     <string name="omnijaws_weather_3200">Tidak tersedia</string>
     <!-- HourlyForecastCard: label for the current hour column -->
     <string name="omnijaws_hourly_now">Sekarang</string>
+    <string name="omnijaws_hourly_tab_temperature">Temperature</string>
+    <string name="omnijaws_hourly_tab_precipitation">Precipitation</string>
     <!-- DetailCards: visibility units -->
     <string name="omnijaws_unit_km">km</string>
     <string name="omnijaws_unit_mi">mil</string>
@@ -245,6 +255,10 @@ Ketuk Waktu pembaruan terakhir untuk memaksa pembaruan dan menguji API key-mu.</
     <string name="omnijaws_action_choose_location">Pilih Lokasi</string>
     <string name="omnijaws_error_api_key_missing">Diperlukan API key</string>
     <string name="omnijaws_error_api_key_missing_summary">Penyedia cuaca yang dipilih memerlukan API key. Tambahkan API key di Pengaturan atau pilih penyedia lainnya.</string>
+    <string name="omnijaws_error_api_key_invalid">The API key was rejected</string>
+    <string name="omnijaws_error_api_key_invalid_summary">Check the API key and its plan in Settings, or choose another provider.</string>
+    <string name="omnijaws_error_rate_limited">Too many weather requests</string>
+    <string name="omnijaws_error_rate_limited_summary">The weather provider is limiting requests. Try again later.</string>
     <!-- Omnistyle (QS header image picker) -->
     <string name="omnistyle_browse_header">Header</string>
     <string name="omnistyle_custom_header_image_notice">Gambar Header Berhasil Ditetapkan</string>
@@ -284,7 +298,7 @@ Ketuk Waktu pembaruan terakhir untuk memaksa pembaruan dan menguji API key-mu.</
     <string name="dolby_tile_state_on">Aktif</string>
     <string name="dolby_tile_state_off">Nonaktif</string>
     <string name="dolby_category_settings">Pengaturan Audio</string>
-    <string name="dolby_category_adv_settings">Advanced settings</string>
+    <string name="dolby_category_adv_settings">Pengaturan Lanjutan</string>
     <string name="dolby_adv_settings_footer">Choose a different profile to show advanced settings.</string>
     <string name="dolby_bass_enhancer">Bass enhancer</string>
     <string name="dolby_bass_level">Bass level</string>

@@ -39,6 +39,14 @@
     <string name="omnijaws_category_general">通用</string>
     <string name="omnijaws_category_appearance">外观</string>
     <string name="omnijaws_category_api">API</string>
+    <string name="omnijaws_category_notifications">Notifications</string>
+    <string name="omnijaws_notify_forecast_title">Daily forecast</string>
+    <string name="omnijaws_notify_forecast_summary">Today\'s forecast in the morning and tomorrow\'s in the evening</string>
+    <string name="omnijaws_notify_ongoing_title">Persistent notification</string>
+    <string name="omnijaws_notify_ongoing_summary">Show the current weather in the notification shade</string>
+    <string name="omnijaws_channel_forecast">Daily forecast</string>
+    <string name="omnijaws_channel_ongoing">Current weather</string>
+    <string name="omnijaws_notification_precip_chance"><xliff:g id="percent" example="40">%1$d</xliff:g>%% chance of precipitation</string>
     <string name="omnijaws_enable_title">启用</string>
     <string name="omnijaws_provider_title">天气数据源</string>
     <string name="omnijaws_units_title">单位</string>
@@ -223,6 +231,8 @@
     <string name="omnijaws_weather_3200">暂不可用</string>
     <!-- HourlyForecastCard: label for the current hour column -->
     <string name="omnijaws_hourly_now">当前</string>
+    <string name="omnijaws_hourly_tab_temperature">Temperature</string>
+    <string name="omnijaws_hourly_tab_precipitation">Precipitation</string>
     <!-- DetailCards: visibility units -->
     <string name="omnijaws_unit_km">千米</string>
     <string name="omnijaws_unit_mi">英里</string>
@@ -242,6 +252,10 @@
     <string name="omnijaws_action_choose_location">选择位置</string>
     <string name="omnijaws_error_api_key_missing">需要 API 密钥</string>
     <string name="omnijaws_error_api_key_missing_summary">所选天气服务商需要 API 密钥，请在设置中添加密钥或更换服务商。</string>
+    <string name="omnijaws_error_api_key_invalid">The API key was rejected</string>
+    <string name="omnijaws_error_api_key_invalid_summary">Check the API key and its plan in Settings, or choose another provider.</string>
+    <string name="omnijaws_error_rate_limited">Too many weather requests</string>
+    <string name="omnijaws_error_rate_limited_summary">The weather provider is limiting requests. Try again later.</string>
     <!-- Omnistyle (QS header image picker) -->
     <string name="omnistyle_browse_header">标题栏</string>
     <string name="omnistyle_custom_header_image_notice">标题栏图片已设置</string>

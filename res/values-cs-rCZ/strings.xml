@@ -42,6 +42,14 @@
     <string name="omnijaws_category_general">General</string>
     <string name="omnijaws_category_appearance">Appearance</string>
     <string name="omnijaws_category_api">API</string>
+    <string name="omnijaws_category_notifications">Notifications</string>
+    <string name="omnijaws_notify_forecast_title">Daily forecast</string>
+    <string name="omnijaws_notify_forecast_summary">Today\'s forecast in the morning and tomorrow\'s in the evening</string>
+    <string name="omnijaws_notify_ongoing_title">Persistent notification</string>
+    <string name="omnijaws_notify_ongoing_summary">Show the current weather in the notification shade</string>
+    <string name="omnijaws_channel_forecast">Daily forecast</string>
+    <string name="omnijaws_channel_ongoing">Current weather</string>
+    <string name="omnijaws_notification_precip_chance"><xliff:g id="percent" example="40">%1$d</xliff:g>%% chance of precipitation</string>
     <string name="omnijaws_enable_title">Enable</string>
     <string name="omnijaws_provider_title">Weather provider</string>
     <string name="omnijaws_units_title">Unit</string>
@@ -226,6 +234,8 @@
     <string name="omnijaws_weather_3200">Not available</string>
     <!-- HourlyForecastCard: label for the current hour column -->
     <string name="omnijaws_hourly_now">Now</string>
+    <string name="omnijaws_hourly_tab_temperature">Temperature</string>
+    <string name="omnijaws_hourly_tab_precipitation">Precipitation</string>
     <!-- DetailCards: visibility units -->
     <string name="omnijaws_unit_km">km</string>
     <string name="omnijaws_unit_mi">mi</string>
@@ -245,6 +255,10 @@
     <string name="omnijaws_action_choose_location">Choose location</string>
     <string name="omnijaws_error_api_key_missing">An API key is needed</string>
     <string name="omnijaws_error_api_key_missing_summary">The selected weather provider needs an API key. Add one in Settings or choose another provider.</string>
+    <string name="omnijaws_error_api_key_invalid">The API key was rejected</string>
+    <string name="omnijaws_error_api_key_invalid_summary">Check the API key and its plan in Settings, or choose another provider.</string>
+    <string name="omnijaws_error_rate_limited">Too many weather requests</string>
+    <string name="omnijaws_error_rate_limited_summary">The weather provider is limiting requests. Try again later.</string>
     <!-- Omnistyle (QS header image picker) -->
     <string name="omnistyle_browse_header">Headers</string>
     <string name="omnistyle_custom_header_image_notice">Header image set</string>
