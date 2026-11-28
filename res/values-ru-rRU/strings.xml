@@ -234,6 +234,8 @@
     <string name="omnijaws_weather_3200">Недоступно</string>
     <!-- HourlyForecastCard: label for the current hour column -->
     <string name="omnijaws_hourly_now">Сейчас</string>
+    <string name="omnijaws_hourly_tab_temperature">Temperature</string>
+    <string name="omnijaws_hourly_tab_precipitation">Precipitation</string>
     <!-- DetailCards: visibility units -->
     <string name="omnijaws_unit_km">км</string>
     <string name="omnijaws_unit_mi">мили</string>
@@ -254,9 +256,9 @@
     <string name="omnijaws_error_api_key_missing">Требуется API ключ</string>
     <string name="omnijaws_error_api_key_missing_summary">Выбранному поставщику погоды необходим ключ API. Добавьте его в настройках или выберите другого поставщика.</string>
     <string name="omnijaws_error_api_key_invalid">Ключ API был отклонён</string>
-    <string name="omnijaws_error_api_key_invalid_summary">Check the API key and its plan in Settings, or choose another provider.</string>
-    <string name="omnijaws_error_rate_limited">Too many weather requests</string>
-    <string name="omnijaws_error_rate_limited_summary">The weather provider is limiting requests. Try again later.</string>
+    <string name="omnijaws_error_api_key_invalid_summary">Проверьте ключ API и тарифный план в настройках или выберите другого поставщика погоды.</string>
+    <string name="omnijaws_error_rate_limited">Слишком много запросов погоды</string>
+    <string name="omnijaws_error_rate_limited_summary">Поставщик данных о погоде ограничивает количество запросов. Попробуйте позже.</string>
     <!-- Omnistyle (QS header image picker) -->
     <string name="omnistyle_browse_header">Заголовки</string>
     <string name="omnistyle_custom_header_image_notice">Изображение заголовка установлено</string>
