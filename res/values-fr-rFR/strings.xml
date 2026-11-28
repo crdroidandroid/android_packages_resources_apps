@@ -10,7 +10,7 @@
     <string name="updater_link_donate">Don</string>
     <string name="updater_link_forum">Forum</string>
     <string name="updater_build_unofficial">Non officiel</string>
-    <string name="updater_maintainer_by">par<xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g></string>
+    <string name="updater_maintainer_by">par <xliff:g id="maintainer" example="neobuddy89">%1$s</xliff:g></string>
     <!-- Preferences: parallel download connections -->
     <string name="updater_menu_download_connections">Parallel connections</string>
     <!-- %1$s is the formatted count, e.g. "8 connections" -->
