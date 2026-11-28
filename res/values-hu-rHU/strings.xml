@@ -232,6 +232,8 @@
     <string name="omnijaws_weather_3200">Nem elérhető</string>
     <!-- HourlyForecastCard: label for the current hour column -->
     <string name="omnijaws_hourly_now">Most</string>
+    <string name="omnijaws_hourly_tab_temperature">Temperature</string>
+    <string name="omnijaws_hourly_tab_precipitation">Precipitation</string>
     <!-- DetailCards: visibility units -->
     <string name="omnijaws_unit_km">km</string>
     <string name="omnijaws_unit_mi">mérföld</string>
